@@ -1,0 +1,2820 @@
+Date,Source,Site ID,POC,Daily Mean PM2.5 Concentration,UNITS,DAILY_AQI_VALUE,Site Name
+1/2/14,AQS,60370002,1,4.4,ug/m3 LC,18,Azusa
+1/5/14,AQS,60370002,1,5,ug/m3 LC,21,Azusa
+1/8/14,AQS,60370002,1,15.5,ug/m3 LC,58,Azusa
+1/11/14,AQS,60370002,1,22.3,ug/m3 LC,72,Azusa
+1/17/14,AQS,60370002,1,32.4,ug/m3 LC,94,Azusa
+1/20/14,AQS,60370002,1,10.2,ug/m3 LC,43,Azusa
+1/23/14,AQS,60370002,1,26.2,ug/m3 LC,81,Azusa
+1/26/14,AQS,60370002,1,13.3,ug/m3 LC,54,Azusa
+1/29/14,AQS,60370002,1,29.9,ug/m3 LC,88,Azusa
+2/1/14,AQS,60370002,1,4,ug/m3 LC,17,Azusa
+2/4/14,AQS,60370002,1,6.4,ug/m3 LC,27,Azusa
+2/7/14,AQS,60370002,1,5.3,ug/m3 LC,22,Azusa
+2/10/14,AQS,60370002,1,15,ug/m3 LC,57,Azusa
+2/13/14,AQS,60370002,1,10.6,ug/m3 LC,44,Azusa
+2/16/14,AQS,60370002,1,24.9,ug/m3 LC,78,Azusa
+2/19/14,AQS,60370002,1,25.7,ug/m3 LC,80,Azusa
+2/22/14,AQS,60370002,1,12.7,ug/m3 LC,52,Azusa
+2/25/14,AQS,60370002,1,17.5,ug/m3 LC,62,Azusa
+2/28/14,AQS,60370002,1,3.2,ug/m3 LC,13,Azusa
+3/6/14,AQS,60370002,1,14.5,ug/m3 LC,56,Azusa
+3/27/14,AQS,60370002,1,6.5,ug/m3 LC,27,Azusa
+3/30/14,AQS,60370002,1,5.2,ug/m3 LC,22,Azusa
+4/2/14,AQS,60370002,1,4.5,ug/m3 LC,19,Azusa
+4/5/14,AQS,60370002,1,5.4,ug/m3 LC,23,Azusa
+11/7/14,AQS,60370002,1,10.9,ug/m3 LC,45,Azusa
+11/10/14,AQS,60370002,1,13.4,ug/m3 LC,54,Azusa
+12/10/14,AQS,60370002,1,14.9,ug/m3 LC,57,Azusa
+12/13/14,AQS,60370002,1,4.4,ug/m3 LC,18,Azusa
+12/16/14,AQS,60370002,1,8.2,ug/m3 LC,34,Azusa
+12/19/14,AQS,60370002,1,6.5,ug/m3 LC,27,Azusa
+12/22/14,AQS,60370002,1,6.8,ug/m3 LC,28,Azusa
+12/25/14,AQS,60370002,1,2.3,ug/m3 LC,10,Azusa
+12/28/14,AQS,60370002,1,3.4,ug/m3 LC,14,Azusa
+12/31/14,AQS,60370002,1,5,ug/m3 LC,21,Azusa
+1/1/14,AQS,60370016,3,11.7,ug/m3 LC,49,Glendora
+1/3/14,AQS,60370016,3,13.2,ug/m3 LC,53,Glendora
+1/4/14,AQS,60370016,3,20.1,ug/m3 LC,68,Glendora
+1/5/14,AQS,60370016,3,4.7,ug/m3 LC,20,Glendora
+1/6/14,AQS,60370016,3,1.2,ug/m3 LC,5,Glendora
+1/7/14,AQS,60370016,3,4.1,ug/m3 LC,17,Glendora
+1/8/14,AQS,60370016,3,15.8,ug/m3 LC,59,Glendora
+1/9/14,AQS,60370016,3,27,ug/m3 LC,82,Glendora
+1/10/14,AQS,60370016,3,23.2,ug/m3 LC,74,Glendora
+1/11/14,AQS,60370016,3,19.2,ug/m3 LC,66,Glendora
+1/12/14,AQS,60370016,3,27.1,ug/m3 LC,83,Glendora
+1/13/14,AQS,60370016,3,3.4,ug/m3 LC,14,Glendora
+1/14/14,AQS,60370016,3,2.5,ug/m3 LC,10,Glendora
+1/15/14,AQS,60370016,3,3.2,ug/m3 LC,13,Glendora
+1/16/14,AQS,60370016,3,9.2,ug/m3 LC,38,Glendora
+1/17/14,AQS,60370016,3,6.2,ug/m3 LC,26,Glendora
+1/18/14,AQS,60370016,3,7.8,ug/m3 LC,33,Glendora
+1/19/14,AQS,60370016,3,2.8,ug/m3 LC,12,Glendora
+1/20/14,AQS,60370016,3,2.9,ug/m3 LC,12,Glendora
+1/21/14,AQS,60370016,3,2.2,ug/m3 LC,9,Glendora
+1/22/14,AQS,60370016,3,5.9,ug/m3 LC,25,Glendora
+1/23/14,AQS,60370016,3,16.1,ug/m3 LC,59,Glendora
+1/24/14,AQS,60370016,3,5.4,ug/m3 LC,23,Glendora
+1/25/14,AQS,60370016,3,5.2,ug/m3 LC,22,Glendora
+1/26/14,AQS,60370016,3,10,ug/m3 LC,42,Glendora
+1/27/14,AQS,60370016,3,13.2,ug/m3 LC,53,Glendora
+1/28/14,AQS,60370016,3,16.5,ug/m3 LC,60,Glendora
+1/29/14,AQS,60370016,3,16,ug/m3 LC,59,Glendora
+1/30/14,AQS,60370016,3,25.9,ug/m3 LC,80,Glendora
+1/31/14,AQS,60370016,3,1.8,ug/m3 LC,8,Glendora
+2/1/14,AQS,60370016,3,-0.3,ug/m3 LC,0,Glendora
+2/2/14,AQS,60370016,3,1.4,ug/m3 LC,6,Glendora
+2/3/14,AQS,60370016,3,0.1,ug/m3 LC,0,Glendora
+2/4/14,AQS,60370016,3,3.7,ug/m3 LC,15,Glendora
+2/5/14,AQS,60370016,3,6.8,ug/m3 LC,28,Glendora
+2/6/14,AQS,60370016,3,9.5,ug/m3 LC,40,Glendora
+2/7/14,AQS,60370016,3,3.2,ug/m3 LC,13,Glendora
+2/8/14,AQS,60370016,3,8,ug/m3 LC,33,Glendora
+2/9/14,AQS,60370016,3,14,ug/m3 LC,55,Glendora
+2/10/14,AQS,60370016,3,11.5,ug/m3 LC,48,Glendora
+2/11/14,AQS,60370016,3,2.5,ug/m3 LC,10,Glendora
+2/12/14,AQS,60370016,3,4.1,ug/m3 LC,17,Glendora
+2/13/14,AQS,60370016,3,9.9,ug/m3 LC,41,Glendora
+2/14/14,AQS,60370016,3,17.6,ug/m3 LC,63,Glendora
+2/15/14,AQS,60370016,3,16.1,ug/m3 LC,59,Glendora
+2/16/14,AQS,60370016,3,20.3,ug/m3 LC,68,Glendora
+2/17/14,AQS,60370016,3,9,ug/m3 LC,38,Glendora
+2/18/14,AQS,60370016,3,17.8,ug/m3 LC,63,Glendora
+2/19/14,AQS,60370016,3,22.6,ug/m3 LC,73,Glendora
+2/20/14,AQS,60370016,3,8.8,ug/m3 LC,37,Glendora
+2/21/14,AQS,60370016,3,4.3,ug/m3 LC,18,Glendora
+2/22/14,AQS,60370016,3,8.9,ug/m3 LC,37,Glendora
+2/23/14,AQS,60370016,3,10.5,ug/m3 LC,44,Glendora
+2/24/14,AQS,60370016,3,15.9,ug/m3 LC,59,Glendora
+2/25/14,AQS,60370016,3,15.5,ug/m3 LC,58,Glendora
+2/26/14,AQS,60370016,3,7.2,ug/m3 LC,30,Glendora
+2/27/14,AQS,60370016,3,0,ug/m3 LC,0,Glendora
+3/1/14,AQS,60370016,3,1.3,ug/m3 LC,5,Glendora
+3/3/14,AQS,60370016,3,5.8,ug/m3 LC,24,Glendora
+3/4/14,AQS,60370016,3,9,ug/m3 LC,38,Glendora
+3/5/14,AQS,60370016,3,12,ug/m3 LC,50,Glendora
+3/6/14,AQS,60370016,3,10.3,ug/m3 LC,43,Glendora
+3/7/14,AQS,60370016,3,10,ug/m3 LC,42,Glendora
+3/8/14,AQS,60370016,3,1.6,ug/m3 LC,7,Glendora
+3/9/14,AQS,60370016,3,0,ug/m3 LC,0,Glendora
+3/10/14,AQS,60370016,3,1.4,ug/m3 LC,6,Glendora
+3/11/14,AQS,60370016,3,5.4,ug/m3 LC,23,Glendora
+3/12/14,AQS,60370016,3,3.2,ug/m3 LC,13,Glendora
+3/13/14,AQS,60370016,3,7.9,ug/m3 LC,33,Glendora
+3/14/14,AQS,60370016,3,8.4,ug/m3 LC,35,Glendora
+3/15/14,AQS,60370016,3,8,ug/m3 LC,33,Glendora
+3/16/14,AQS,60370016,3,3.5,ug/m3 LC,15,Glendora
+3/17/14,AQS,60370016,3,8.1,ug/m3 LC,34,Glendora
+3/18/14,AQS,60370016,3,9.8,ug/m3 LC,41,Glendora
+3/19/14,AQS,60370016,3,6.3,ug/m3 LC,26,Glendora
+3/20/14,AQS,60370016,3,9.6,ug/m3 LC,40,Glendora
+3/21/14,AQS,60370016,3,13.8,ug/m3 LC,55,Glendora
+3/22/14,AQS,60370016,3,9,ug/m3 LC,38,Glendora
+3/23/14,AQS,60370016,3,13.1,ug/m3 LC,53,Glendora
+3/24/14,AQS,60370016,3,19.7,ug/m3 LC,67,Glendora
+3/25/14,AQS,60370016,3,15.8,ug/m3 LC,59,Glendora
+3/27/14,AQS,60370016,3,2.2,ug/m3 LC,9,Glendora
+3/28/14,AQS,60370016,3,3.6,ug/m3 LC,15,Glendora
+3/29/14,AQS,60370016,3,4.8,ug/m3 LC,20,Glendora
+3/30/14,AQS,60370016,3,-0.1,ug/m3 LC,0,Glendora
+3/31/14,AQS,60370016,3,0.3,ug/m3 LC,1,Glendora
+4/1/14,AQS,60370016,3,-1.2,ug/m3 LC,0,Glendora
+4/2/14,AQS,60370016,3,-0.6,ug/m3 LC,0,Glendora
+4/3/14,AQS,60370016,3,-0.8,ug/m3 LC,0,Glendora
+4/4/14,AQS,60370016,3,0,ug/m3 LC,0,Glendora
+4/5/14,AQS,60370016,3,0.4,ug/m3 LC,2,Glendora
+4/6/14,AQS,60370016,3,-0.9,ug/m3 LC,0,Glendora
+4/7/14,AQS,60370016,3,-1.7,ug/m3 LC,0,Glendora
+4/8/14,AQS,60370016,3,-1.8,ug/m3 LC,0,Glendora
+4/9/14,AQS,60370016,3,-0.9,ug/m3 LC,0,Glendora
+4/10/14,AQS,60370016,3,2.7,ug/m3 LC,11,Glendora
+4/11/14,AQS,60370016,3,7,ug/m3 LC,29,Glendora
+4/12/14,AQS,60370016,3,7.7,ug/m3 LC,32,Glendora
+4/13/14,AQS,60370016,3,5.2,ug/m3 LC,22,Glendora
+4/14/14,AQS,60370016,3,3,ug/m3 LC,13,Glendora
+4/15/14,AQS,60370016,3,7,ug/m3 LC,29,Glendora
+4/16/14,AQS,60370016,3,11.7,ug/m3 LC,49,Glendora
+4/17/14,AQS,60370016,3,9.7,ug/m3 LC,40,Glendora
+4/18/14,AQS,60370016,3,6.7,ug/m3 LC,28,Glendora
+4/19/14,AQS,60370016,3,6.3,ug/m3 LC,26,Glendora
+4/20/14,AQS,60370016,3,8.8,ug/m3 LC,37,Glendora
+4/21/14,AQS,60370016,3,7.5,ug/m3 LC,31,Glendora
+4/22/14,AQS,60370016,3,7.7,ug/m3 LC,32,Glendora
+4/23/14,AQS,60370016,3,5.8,ug/m3 LC,24,Glendora
+4/24/14,AQS,60370016,3,5.2,ug/m3 LC,22,Glendora
+4/25/14,AQS,60370016,3,2.8,ug/m3 LC,12,Glendora
+4/26/14,AQS,60370016,3,-1,ug/m3 LC,0,Glendora
+4/27/14,AQS,60370016,3,1.6,ug/m3 LC,7,Glendora
+4/28/14,AQS,60370016,3,0,ug/m3 LC,0,Glendora
+4/29/14,AQS,60370016,3,-0.4,ug/m3 LC,0,Glendora
+4/30/14,AQS,60370016,3,-0.6,ug/m3 LC,0,Glendora
+5/1/14,AQS,60370016,3,0.1,ug/m3 LC,0,Glendora
+5/2/14,AQS,60370016,3,0.5,ug/m3 LC,2,Glendora
+5/3/14,AQS,60370016,3,1.8,ug/m3 LC,8,Glendora
+5/4/14,AQS,60370016,3,4.8,ug/m3 LC,20,Glendora
+5/5/14,AQS,60370016,3,2.5,ug/m3 LC,10,Glendora
+5/6/14,AQS,60370016,3,0.2,ug/m3 LC,1,Glendora
+5/7/14,AQS,60370016,3,3.5,ug/m3 LC,15,Glendora
+5/8/14,AQS,60370016,3,8,ug/m3 LC,33,Glendora
+5/9/14,AQS,60370016,3,4.2,ug/m3 LC,18,Glendora
+5/10/14,AQS,60370016,3,3.3,ug/m3 LC,14,Glendora
+5/11/14,AQS,60370016,3,1.3,ug/m3 LC,5,Glendora
+5/12/14,AQS,60370016,3,-0.4,ug/m3 LC,0,Glendora
+5/13/14,AQS,60370016,3,-0.6,ug/m3 LC,0,Glendora
+5/14/14,AQS,60370016,3,-1.2,ug/m3 LC,0,Glendora
+5/15/14,AQS,60370016,3,-0.4,ug/m3 LC,0,Glendora
+5/16/14,AQS,60370016,3,5.7,ug/m3 LC,24,Glendora
+5/17/14,AQS,60370016,3,12,ug/m3 LC,50,Glendora
+5/18/14,AQS,60370016,3,10.2,ug/m3 LC,43,Glendora
+5/19/14,AQS,60370016,3,6,ug/m3 LC,25,Glendora
+5/20/14,AQS,60370016,3,-1,ug/m3 LC,0,Glendora
+5/21/14,AQS,60370016,3,0.7,ug/m3 LC,3,Glendora
+5/22/14,AQS,60370016,3,0.4,ug/m3 LC,2,Glendora
+5/23/14,AQS,60370016,3,2.5,ug/m3 LC,10,Glendora
+5/24/14,AQS,60370016,3,3.4,ug/m3 LC,14,Glendora
+5/25/14,AQS,60370016,3,2.6,ug/m3 LC,11,Glendora
+5/26/14,AQS,60370016,3,6.1,ug/m3 LC,25,Glendora
+5/27/14,AQS,60370016,3,7.5,ug/m3 LC,31,Glendora
+5/28/14,AQS,60370016,3,6.3,ug/m3 LC,26,Glendora
+5/29/14,AQS,60370016,3,9.3,ug/m3 LC,39,Glendora
+5/30/14,AQS,60370016,3,6.7,ug/m3 LC,28,Glendora
+5/31/14,AQS,60370016,3,8.7,ug/m3 LC,36,Glendora
+6/1/14,AQS,60370016,3,9.5,ug/m3 LC,40,Glendora
+6/2/14,AQS,60370016,3,9.3,ug/m3 LC,39,Glendora
+6/3/14,AQS,60370016,3,6,ug/m3 LC,25,Glendora
+6/4/14,AQS,60370016,3,3.8,ug/m3 LC,16,Glendora
+6/5/14,AQS,60370016,3,7.9,ug/m3 LC,33,Glendora
+6/6/14,AQS,60370016,3,9.8,ug/m3 LC,41,Glendora
+6/7/14,AQS,60370016,3,10.1,ug/m3 LC,42,Glendora
+6/8/14,AQS,60370016,3,12.1,ug/m3 LC,51,Glendora
+6/9/14,AQS,60370016,3,10.5,ug/m3 LC,44,Glendora
+6/10/14,AQS,60370016,3,7.6,ug/m3 LC,32,Glendora
+6/11/14,AQS,60370016,3,5.1,ug/m3 LC,21,Glendora
+6/12/14,AQS,60370016,3,7.5,ug/m3 LC,31,Glendora
+6/18/14,AQS,60370016,3,13,ug/m3 LC,53,Glendora
+6/19/14,AQS,60370016,3,11.5,ug/m3 LC,48,Glendora
+6/20/14,AQS,60370016,3,16.5,ug/m3 LC,60,Glendora
+6/21/14,AQS,60370016,3,11.9,ug/m3 LC,50,Glendora
+6/22/14,AQS,60370016,3,12,ug/m3 LC,50,Glendora
+6/23/14,AQS,60370016,3,13.5,ug/m3 LC,54,Glendora
+6/24/14,AQS,60370016,3,17.3,ug/m3 LC,62,Glendora
+6/25/14,AQS,60370016,3,14.8,ug/m3 LC,57,Glendora
+6/26/14,AQS,60370016,3,13.1,ug/m3 LC,53,Glendora
+6/27/14,AQS,60370016,3,7.7,ug/m3 LC,32,Glendora
+6/28/14,AQS,60370016,3,11.4,ug/m3 LC,48,Glendora
+6/29/14,AQS,60370016,3,13.2,ug/m3 LC,53,Glendora
+6/30/14,AQS,60370016,3,14.1,ug/m3 LC,55,Glendora
+7/1/14,AQS,60370016,3,13.4,ug/m3 LC,54,Glendora
+7/2/14,AQS,60370016,3,12.4,ug/m3 LC,52,Glendora
+7/3/14,AQS,60370016,3,14.7,ug/m3 LC,56,Glendora
+7/4/14,AQS,60370016,3,22.2,ug/m3 LC,72,Glendora
+7/5/14,AQS,60370016,3,53.3,ug/m3 LC,145,Glendora
+7/6/14,AQS,60370016,3,10.5,ug/m3 LC,44,Glendora
+7/7/14,AQS,60370016,3,8.4,ug/m3 LC,35,Glendora
+7/8/14,AQS,60370016,3,13,ug/m3 LC,53,Glendora
+7/9/14,AQS,60370016,3,12.1,ug/m3 LC,51,Glendora
+7/10/14,AQS,60370016,3,8.8,ug/m3 LC,37,Glendora
+7/16/14,AQS,60370016,3,7.1,ug/m3 LC,30,Glendora
+7/17/14,AQS,60370016,3,6.2,ug/m3 LC,26,Glendora
+7/18/14,AQS,60370016,3,4.4,ug/m3 LC,18,Glendora
+7/19/14,AQS,60370016,3,6,ug/m3 LC,25,Glendora
+7/20/14,AQS,60370016,3,8.2,ug/m3 LC,34,Glendora
+7/21/14,AQS,60370016,3,5.4,ug/m3 LC,23,Glendora
+7/22/14,AQS,60370016,3,4.3,ug/m3 LC,18,Glendora
+7/23/14,AQS,60370016,3,7.2,ug/m3 LC,30,Glendora
+7/24/14,AQS,60370016,3,7.4,ug/m3 LC,31,Glendora
+7/25/14,AQS,60370016,3,11.8,ug/m3 LC,49,Glendora
+7/26/14,AQS,60370016,3,15.5,ug/m3 LC,58,Glendora
+7/27/14,AQS,60370016,3,11.9,ug/m3 LC,50,Glendora
+7/28/14,AQS,60370016,3,10,ug/m3 LC,42,Glendora
+7/29/14,AQS,60370016,3,10.6,ug/m3 LC,44,Glendora
+7/30/14,AQS,60370016,3,11.4,ug/m3 LC,48,Glendora
+7/31/14,AQS,60370016,3,13.4,ug/m3 LC,54,Glendora
+8/1/14,AQS,60370016,3,12.9,ug/m3 LC,53,Glendora
+8/2/14,AQS,60370016,3,10.3,ug/m3 LC,43,Glendora
+8/3/14,AQS,60370016,3,6.1,ug/m3 LC,25,Glendora
+8/4/14,AQS,60370016,3,8.9,ug/m3 LC,37,Glendora
+8/5/14,AQS,60370016,3,7.5,ug/m3 LC,31,Glendora
+8/6/14,AQS,60370016,3,7,ug/m3 LC,29,Glendora
+8/7/14,AQS,60370016,3,10.2,ug/m3 LC,43,Glendora
+8/8/14,AQS,60370016,3,12.8,ug/m3 LC,52,Glendora
+8/9/14,AQS,60370016,3,17.1,ug/m3 LC,62,Glendora
+8/10/14,AQS,60370016,3,15.9,ug/m3 LC,59,Glendora
+8/11/14,AQS,60370016,3,10.3,ug/m3 LC,43,Glendora
+8/12/14,AQS,60370016,3,10.2,ug/m3 LC,43,Glendora
+8/13/14,AQS,60370016,3,11,ug/m3 LC,46,Glendora
+8/14/14,AQS,60370016,3,9.7,ug/m3 LC,40,Glendora
+8/15/14,AQS,60370016,3,6.2,ug/m3 LC,26,Glendora
+8/16/14,AQS,60370016,3,5.8,ug/m3 LC,24,Glendora
+8/17/14,AQS,60370016,3,7.4,ug/m3 LC,31,Glendora
+8/18/14,AQS,60370016,3,13.3,ug/m3 LC,54,Glendora
+8/19/14,AQS,60370016,3,8.8,ug/m3 LC,37,Glendora
+8/20/14,AQS,60370016,3,8.6,ug/m3 LC,36,Glendora
+8/21/14,AQS,60370016,3,9,ug/m3 LC,38,Glendora
+8/22/14,AQS,60370016,3,7.3,ug/m3 LC,30,Glendora
+8/23/14,AQS,60370016,3,6.6,ug/m3 LC,28,Glendora
+8/24/14,AQS,60370016,3,6.6,ug/m3 LC,28,Glendora
+8/25/14,AQS,60370016,3,5.9,ug/m3 LC,25,Glendora
+8/26/14,AQS,60370016,3,6.7,ug/m3 LC,28,Glendora
+8/27/14,AQS,60370016,3,7.9,ug/m3 LC,33,Glendora
+8/28/14,AQS,60370016,3,8.7,ug/m3 LC,36,Glendora
+8/29/14,AQS,60370016,3,10,ug/m3 LC,42,Glendora
+8/30/14,AQS,60370016,3,12.2,ug/m3 LC,51,Glendora
+8/31/14,AQS,60370016,3,11.4,ug/m3 LC,48,Glendora
+9/1/14,AQS,60370016,3,9.8,ug/m3 LC,41,Glendora
+9/2/14,AQS,60370016,3,11.1,ug/m3 LC,46,Glendora
+9/3/14,AQS,60370016,3,11.2,ug/m3 LC,47,Glendora
+9/4/14,AQS,60370016,3,10,ug/m3 LC,42,Glendora
+9/5/14,AQS,60370016,3,11.4,ug/m3 LC,48,Glendora
+9/6/14,AQS,60370016,3,10.6,ug/m3 LC,44,Glendora
+9/7/14,AQS,60370016,3,6.5,ug/m3 LC,27,Glendora
+9/8/14,AQS,60370016,3,10.6,ug/m3 LC,44,Glendora
+9/9/14,AQS,60370016,3,7,ug/m3 LC,29,Glendora
+9/10/14,AQS,60370016,3,8.4,ug/m3 LC,35,Glendora
+9/11/14,AQS,60370016,3,6.2,ug/m3 LC,26,Glendora
+9/12/14,AQS,60370016,3,9.7,ug/m3 LC,40,Glendora
+9/13/14,AQS,60370016,3,10,ug/m3 LC,42,Glendora
+9/14/14,AQS,60370016,3,5.1,ug/m3 LC,21,Glendora
+9/15/14,AQS,60370016,3,6.1,ug/m3 LC,25,Glendora
+9/16/14,AQS,60370016,3,5.8,ug/m3 LC,24,Glendora
+9/17/14,AQS,60370016,3,3.4,ug/m3 LC,14,Glendora
+9/18/14,AQS,60370016,3,4.1,ug/m3 LC,17,Glendora
+9/19/14,AQS,60370016,3,2,ug/m3 LC,8,Glendora
+9/20/14,AQS,60370016,3,6,ug/m3 LC,25,Glendora
+9/21/14,AQS,60370016,3,5.9,ug/m3 LC,25,Glendora
+9/22/14,AQS,60370016,3,7,ug/m3 LC,29,Glendora
+9/23/14,AQS,60370016,3,8.2,ug/m3 LC,34,Glendora
+9/24/14,AQS,60370016,3,6.4,ug/m3 LC,27,Glendora
+9/25/14,AQS,60370016,3,2.2,ug/m3 LC,9,Glendora
+9/26/14,AQS,60370016,3,6.8,ug/m3 LC,28,Glendora
+9/27/14,AQS,60370016,3,10.6,ug/m3 LC,44,Glendora
+9/28/14,AQS,60370016,3,9.9,ug/m3 LC,41,Glendora
+9/29/14,AQS,60370016,3,13,ug/m3 LC,53,Glendora
+9/30/14,AQS,60370016,3,10,ug/m3 LC,42,Glendora
+10/1/14,AQS,60370016,3,14.2,ug/m3 LC,55,Glendora
+10/2/14,AQS,60370016,3,8,ug/m3 LC,33,Glendora
+10/3/14,AQS,60370016,3,6.9,ug/m3 LC,29,Glendora
+10/4/14,AQS,60370016,3,4.6,ug/m3 LC,19,Glendora
+10/5/14,AQS,60370016,3,11.7,ug/m3 LC,49,Glendora
+10/6/14,AQS,60370016,3,13.8,ug/m3 LC,55,Glendora
+10/7/14,AQS,60370016,3,13.8,ug/m3 LC,55,Glendora
+10/8/14,AQS,60370016,3,16.2,ug/m3 LC,60,Glendora
+10/9/14,AQS,60370016,3,20,ug/m3 LC,68,Glendora
+10/10/14,AQS,60370016,3,20.4,ug/m3 LC,68,Glendora
+10/11/14,AQS,60370016,3,24.6,ug/m3 LC,77,Glendora
+10/12/14,AQS,60370016,3,22,ug/m3 LC,72,Glendora
+10/13/14,AQS,60370016,3,19.6,ug/m3 LC,67,Glendora
+10/14/14,AQS,60370016,3,24,ug/m3 LC,76,Glendora
+10/15/14,AQS,60370016,3,10.7,ug/m3 LC,45,Glendora
+10/16/14,AQS,60370016,3,12.8,ug/m3 LC,52,Glendora
+10/17/14,AQS,60370016,3,14.9,ug/m3 LC,57,Glendora
+10/18/14,AQS,60370016,3,15.1,ug/m3 LC,57,Glendora
+10/19/14,AQS,60370016,3,14.5,ug/m3 LC,56,Glendora
+10/20/14,AQS,60370016,3,17.6,ug/m3 LC,63,Glendora
+10/21/14,AQS,60370016,3,20.5,ug/m3 LC,69,Glendora
+10/22/14,AQS,60370016,3,17,ug/m3 LC,61,Glendora
+10/23/14,AQS,60370016,3,14.8,ug/m3 LC,57,Glendora
+10/24/14,AQS,60370016,3,8.1,ug/m3 LC,34,Glendora
+10/25/14,AQS,60370016,3,13.2,ug/m3 LC,53,Glendora
+10/26/14,AQS,60370016,3,10.5,ug/m3 LC,44,Glendora
+10/27/14,AQS,60370016,3,14.4,ug/m3 LC,56,Glendora
+10/28/14,AQS,60370016,3,15.9,ug/m3 LC,59,Glendora
+10/29/14,AQS,60370016,3,13.5,ug/m3 LC,54,Glendora
+10/30/14,AQS,60370016,3,16.5,ug/m3 LC,60,Glendora
+10/31/14,AQS,60370016,3,14.5,ug/m3 LC,56,Glendora
+11/1/14,AQS,60370016,3,6.3,ug/m3 LC,26,Glendora
+11/2/14,AQS,60370016,3,8.4,ug/m3 LC,35,Glendora
+11/3/14,AQS,60370016,3,11.2,ug/m3 LC,47,Glendora
+11/4/14,AQS,60370016,3,10.9,ug/m3 LC,45,Glendora
+11/5/14,AQS,60370016,3,7.2,ug/m3 LC,30,Glendora
+11/6/14,AQS,60370016,3,7.7,ug/m3 LC,32,Glendora
+11/7/14,AQS,60370016,3,8.2,ug/m3 LC,34,Glendora
+11/8/14,AQS,60370016,3,9.2,ug/m3 LC,38,Glendora
+11/9/14,AQS,60370016,3,21.6,ug/m3 LC,71,Glendora
+11/10/14,AQS,60370016,3,27.3,ug/m3 LC,83,Glendora
+11/11/14,AQS,60370016,3,12.5,ug/m3 LC,52,Glendora
+11/12/14,AQS,60370016,3,12.6,ug/m3 LC,52,Glendora
+11/13/14,AQS,60370016,3,15.8,ug/m3 LC,59,Glendora
+11/14/14,AQS,60370016,3,17.2,ug/m3 LC,62,Glendora
+11/15/14,AQS,60370016,3,16.7,ug/m3 LC,61,Glendora
+11/16/14,AQS,60370016,3,14,ug/m3 LC,55,Glendora
+11/17/14,AQS,60370016,3,6.3,ug/m3 LC,26,Glendora
+11/18/14,AQS,60370016,3,7.3,ug/m3 LC,30,Glendora
+11/19/14,AQS,60370016,3,10,ug/m3 LC,42,Glendora
+11/20/14,AQS,60370016,3,13.4,ug/m3 LC,54,Glendora
+11/21/14,AQS,60370016,3,11.5,ug/m3 LC,48,Glendora
+11/22/14,AQS,60370016,3,12.1,ug/m3 LC,51,Glendora
+11/23/14,AQS,60370016,3,9.8,ug/m3 LC,41,Glendora
+11/24/14,AQS,60370016,3,7.4,ug/m3 LC,31,Glendora
+11/25/14,AQS,60370016,3,8.3,ug/m3 LC,35,Glendora
+11/26/14,AQS,60370016,3,9.6,ug/m3 LC,40,Glendora
+11/27/14,AQS,60370016,3,4.8,ug/m3 LC,20,Glendora
+11/28/14,AQS,60370016,3,8,ug/m3 LC,33,Glendora
+11/29/14,AQS,60370016,3,13.2,ug/m3 LC,53,Glendora
+11/30/14,AQS,60370016,3,9.5,ug/m3 LC,40,Glendora
+12/1/14,AQS,60370016,3,5.8,ug/m3 LC,24,Glendora
+12/2/14,AQS,60370016,3,6.2,ug/m3 LC,26,Glendora
+12/3/14,AQS,60370016,3,7,ug/m3 LC,29,Glendora
+12/4/14,AQS,60370016,3,11.5,ug/m3 LC,48,Glendora
+12/5/14,AQS,60370016,3,16.4,ug/m3 LC,60,Glendora
+12/6/14,AQS,60370016,3,19.3,ug/m3 LC,66,Glendora
+12/7/14,AQS,60370016,3,8.7,ug/m3 LC,36,Glendora
+12/8/14,AQS,60370016,3,6.5,ug/m3 LC,27,Glendora
+12/9/14,AQS,60370016,3,9.2,ug/m3 LC,38,Glendora
+12/10/14,AQS,60370016,3,14,ug/m3 LC,55,Glendora
+12/11/14,AQS,60370016,3,17.2,ug/m3 LC,62,Glendora
+12/12/14,AQS,60370016,3,6.7,ug/m3 LC,28,Glendora
+12/13/14,AQS,60370016,3,7.4,ug/m3 LC,31,Glendora
+12/14/14,AQS,60370016,3,9.5,ug/m3 LC,40,Glendora
+12/15/14,AQS,60370016,3,9.8,ug/m3 LC,41,Glendora
+12/16/14,AQS,60370016,3,12.2,ug/m3 LC,51,Glendora
+12/17/14,AQS,60370016,3,7.5,ug/m3 LC,31,Glendora
+12/18/14,AQS,60370016,3,10.2,ug/m3 LC,43,Glendora
+12/19/14,AQS,60370016,3,13,ug/m3 LC,53,Glendora
+12/20/14,AQS,60370016,3,20.5,ug/m3 LC,69,Glendora
+12/21/14,AQS,60370016,3,19.8,ug/m3 LC,67,Glendora
+12/22/14,AQS,60370016,3,10.2,ug/m3 LC,43,Glendora
+12/23/14,AQS,60370016,3,9,ug/m3 LC,38,Glendora
+12/24/14,AQS,60370016,3,7.3,ug/m3 LC,30,Glendora
+12/25/14,AQS,60370016,3,8.8,ug/m3 LC,37,Glendora
+12/26/14,AQS,60370016,3,6.5,ug/m3 LC,27,Glendora
+12/27/14,AQS,60370016,3,8.4,ug/m3 LC,35,Glendora
+12/28/14,AQS,60370016,3,12.8,ug/m3 LC,52,Glendora
+12/29/14,AQS,60370016,3,15,ug/m3 LC,57,Glendora
+12/30/14,AQS,60370016,3,13.6,ug/m3 LC,54,Glendora
+12/31/14,AQS,60370016,3,9.6,ug/m3 LC,40,Glendora
+1/1/14,AQS,60371002,1,64.6,ug/m3 LC,156,Burbank
+1/2/14,AQS,60371002,1,11.8,ug/m3 LC,49,Burbank
+1/3/14,AQS,60371002,1,21.6,ug/m3 LC,71,Burbank
+1/4/14,AQS,60371002,1,37.6,ug/m3 LC,106,Burbank
+1/5/14,AQS,60371002,1,21.1,ug/m3 LC,70,Burbank
+1/6/14,AQS,60371002,1,7.5,ug/m3 LC,31,Burbank
+1/7/14,AQS,60371002,1,16,ug/m3 LC,59,Burbank
+1/8/14,AQS,60371002,1,27.3,ug/m3 LC,83,Burbank
+1/9/14,AQS,60371002,1,34.7,ug/m3 LC,99,Burbank
+1/11/14,AQS,60371002,1,25.1,ug/m3 LC,78,Burbank
+1/12/14,AQS,60371002,1,22.9,ug/m3 LC,74,Burbank
+1/26/14,AQS,60371002,1,20,ug/m3 LC,68,Burbank
+1/27/14,AQS,60371002,1,17.6,ug/m3 LC,63,Burbank
+1/28/14,AQS,60371002,1,25.7,ug/m3 LC,80,Burbank
+1/29/14,AQS,60371002,1,27.2,ug/m3 LC,83,Burbank
+1/30/14,AQS,60371002,1,28.8,ug/m3 LC,86,Burbank
+1/31/14,AQS,60371002,1,11.9,ug/m3 LC,50,Burbank
+2/1/14,AQS,60371002,1,5.2,ug/m3 LC,22,Burbank
+2/2/14,AQS,60371002,1,6,ug/m3 LC,25,Burbank
+2/3/14,AQS,60371002,1,5.2,ug/m3 LC,22,Burbank
+2/4/14,AQS,60371002,1,9.2,ug/m3 LC,38,Burbank
+2/5/14,AQS,60371002,1,10.2,ug/m3 LC,43,Burbank
+2/6/14,AQS,60371002,1,15,ug/m3 LC,57,Burbank
+2/7/14,AQS,60371002,1,12.3,ug/m3 LC,51,Burbank
+2/8/14,AQS,60371002,1,7.2,ug/m3 LC,30,Burbank
+2/9/14,AQS,60371002,1,11.8,ug/m3 LC,49,Burbank
+2/10/14,AQS,60371002,1,11.4,ug/m3 LC,48,Burbank
+2/11/14,AQS,60371002,1,9.7,ug/m3 LC,40,Burbank
+2/12/14,AQS,60371002,1,11.6,ug/m3 LC,48,Burbank
+2/13/14,AQS,60371002,1,16.5,ug/m3 LC,60,Burbank
+2/14/14,AQS,60371002,1,22.8,ug/m3 LC,74,Burbank
+2/16/14,AQS,60371002,1,27.3,ug/m3 LC,83,Burbank
+2/17/14,AQS,60371002,1,18.1,ug/m3 LC,64,Burbank
+2/18/14,AQS,60371002,1,24.4,ug/m3 LC,77,Burbank
+2/19/14,AQS,60371002,1,20,ug/m3 LC,68,Burbank
+2/20/14,AQS,60371002,1,10,ug/m3 LC,42,Burbank
+2/21/14,AQS,60371002,1,12.4,ug/m3 LC,52,Burbank
+2/23/14,AQS,60371002,1,19.8,ug/m3 LC,67,Burbank
+2/24/14,AQS,60371002,1,22.5,ug/m3 LC,73,Burbank
+2/25/14,AQS,60371002,1,24.5,ug/m3 LC,77,Burbank
+2/26/14,AQS,60371002,1,7.3,ug/m3 LC,30,Burbank
+2/27/14,AQS,60371002,1,3.7,ug/m3 LC,15,Burbank
+2/28/14,AQS,60371002,1,3.2,ug/m3 LC,13,Burbank
+3/2/14,AQS,60371002,1,6.5,ug/m3 LC,27,Burbank
+3/30/14,AQS,60371002,1,3.2,ug/m3 LC,13,Burbank
+3/31/14,AQS,60371002,1,5.3,ug/m3 LC,22,Burbank
+4/1/14,AQS,60371002,1,3.4,ug/m3 LC,14,Burbank
+4/2/14,AQS,60371002,1,3.7,ug/m3 LC,15,Burbank
+4/3/14,AQS,60371002,1,5,ug/m3 LC,21,Burbank
+4/6/14,AQS,60371002,1,7.5,ug/m3 LC,31,Burbank
+4/8/14,AQS,60371002,1,7.2,ug/m3 LC,30,Burbank
+4/15/14,AQS,60371002,1,13.3,ug/m3 LC,54,Burbank
+4/22/14,AQS,60371002,1,7.9,ug/m3 LC,33,Burbank
+4/29/14,AQS,60371002,1,7.3,ug/m3 LC,30,Burbank
+6/3/14,AQS,60371002,1,8.7,ug/m3 LC,36,Burbank
+6/10/14,AQS,60371002,1,9.6,ug/m3 LC,40,Burbank
+1/1/14,AQS,60371002,3,74.7,ug/m3 LC,161,Burbank
+1/2/14,AQS,60371002,3,13.5,ug/m3 LC,54,Burbank
+1/3/14,AQS,60371002,3,24.2,ug/m3 LC,76,Burbank
+1/4/14,AQS,60371002,3,40.9,ug/m3 LC,114,Burbank
+1/5/14,AQS,60371002,3,27.2,ug/m3 LC,83,Burbank
+1/6/14,AQS,60371002,3,9.8,ug/m3 LC,41,Burbank
+1/7/14,AQS,60371002,3,18.2,ug/m3 LC,64,Burbank
+1/8/14,AQS,60371002,3,29.3,ug/m3 LC,87,Burbank
+1/9/14,AQS,60371002,3,39.1,ug/m3 LC,110,Burbank
+1/10/14,AQS,60371002,3,37.3,ug/m3 LC,105,Burbank
+1/11/14,AQS,60371002,3,30.1,ug/m3 LC,89,Burbank
+1/12/14,AQS,60371002,3,28.6,ug/m3 LC,86,Burbank
+1/13/14,AQS,60371002,3,12.1,ug/m3 LC,51,Burbank
+1/14/14,AQS,60371002,3,6.2,ug/m3 LC,26,Burbank
+1/15/14,AQS,60371002,3,9.3,ug/m3 LC,39,Burbank
+1/16/14,AQS,60371002,3,8.5,ug/m3 LC,35,Burbank
+1/17/14,AQS,60371002,3,10.3,ug/m3 LC,43,Burbank
+1/18/14,AQS,60371002,3,16.3,ug/m3 LC,60,Burbank
+1/19/14,AQS,60371002,3,18.8,ug/m3 LC,65,Burbank
+1/20/14,AQS,60371002,3,21.3,ug/m3 LC,70,Burbank
+1/21/14,AQS,60371002,3,14.2,ug/m3 LC,55,Burbank
+1/22/14,AQS,60371002,3,18.9,ug/m3 LC,65,Burbank
+1/23/14,AQS,60371002,3,29.9,ug/m3 LC,88,Burbank
+1/24/14,AQS,60371002,3,22.3,ug/m3 LC,72,Burbank
+1/25/14,AQS,60371002,3,16.4,ug/m3 LC,60,Burbank
+1/26/14,AQS,60371002,3,22.2,ug/m3 LC,72,Burbank
+1/27/14,AQS,60371002,3,20.9,ug/m3 LC,70,Burbank
+1/28/14,AQS,60371002,3,29.5,ug/m3 LC,88,Burbank
+1/29/14,AQS,60371002,3,32,ug/m3 LC,93,Burbank
+1/30/14,AQS,60371002,3,32.9,ug/m3 LC,95,Burbank
+1/31/14,AQS,60371002,3,5.7,ug/m3 LC,24,Burbank
+2/1/14,AQS,60371002,3,6.4,ug/m3 LC,27,Burbank
+2/2/14,AQS,60371002,3,7.1,ug/m3 LC,30,Burbank
+2/3/14,AQS,60371002,3,5.9,ug/m3 LC,25,Burbank
+2/4/14,AQS,60371002,3,11.6,ug/m3 LC,48,Burbank
+2/5/14,AQS,60371002,3,14.2,ug/m3 LC,55,Burbank
+2/6/14,AQS,60371002,3,17.8,ug/m3 LC,63,Burbank
+2/7/14,AQS,60371002,3,16,ug/m3 LC,59,Burbank
+2/8/14,AQS,60371002,3,10.9,ug/m3 LC,45,Burbank
+2/9/14,AQS,60371002,3,14.3,ug/m3 LC,56,Burbank
+2/10/14,AQS,60371002,3,15.7,ug/m3 LC,59,Burbank
+2/11/14,AQS,60371002,3,14.6,ug/m3 LC,56,Burbank
+2/12/14,AQS,60371002,3,15.2,ug/m3 LC,58,Burbank
+2/13/14,AQS,60371002,3,21.6,ug/m3 LC,71,Burbank
+2/14/14,AQS,60371002,3,31.8,ug/m3 LC,92,Burbank
+2/15/14,AQS,60371002,3,36.3,ug/m3 LC,103,Burbank
+2/16/14,AQS,60371002,3,33.2,ug/m3 LC,95,Burbank
+2/17/14,AQS,60371002,3,22.2,ug/m3 LC,72,Burbank
+2/18/14,AQS,60371002,3,31.3,ug/m3 LC,91,Burbank
+2/19/14,AQS,60371002,3,27.3,ug/m3 LC,83,Burbank
+2/20/14,AQS,60371002,3,19.2,ug/m3 LC,66,Burbank
+2/21/14,AQS,60371002,3,16,ug/m3 LC,59,Burbank
+2/22/14,AQS,60371002,3,26.6,ug/m3 LC,81,Burbank
+2/23/14,AQS,60371002,3,29.3,ug/m3 LC,87,Burbank
+2/24/14,AQS,60371002,3,29.6,ug/m3 LC,88,Burbank
+2/25/14,AQS,60371002,3,29.7,ug/m3 LC,88,Burbank
+2/26/14,AQS,60371002,3,14.6,ug/m3 LC,56,Burbank
+2/27/14,AQS,60371002,3,9.6,ug/m3 LC,40,Burbank
+2/28/14,AQS,60371002,3,8.6,ug/m3 LC,36,Burbank
+3/1/14,AQS,60371002,3,10.5,ug/m3 LC,44,Burbank
+3/2/14,AQS,60371002,3,11.7,ug/m3 LC,49,Burbank
+3/3/14,AQS,60371002,3,16.1,ug/m3 LC,59,Burbank
+3/4/14,AQS,60371002,3,21.9,ug/m3 LC,72,Burbank
+3/5/14,AQS,60371002,3,23,ug/m3 LC,74,Burbank
+3/6/14,AQS,60371002,3,25.4,ug/m3 LC,79,Burbank
+3/7/14,AQS,60371002,3,18.9,ug/m3 LC,65,Burbank
+3/8/14,AQS,60371002,3,13.3,ug/m3 LC,54,Burbank
+3/9/14,AQS,60371002,3,9.5,ug/m3 LC,40,Burbank
+3/10/14,AQS,60371002,3,10.5,ug/m3 LC,44,Burbank
+3/11/14,AQS,60371002,3,15.5,ug/m3 LC,58,Burbank
+3/12/14,AQS,60371002,3,14.9,ug/m3 LC,57,Burbank
+3/13/14,AQS,60371002,3,20,ug/m3 LC,68,Burbank
+3/14/14,AQS,60371002,3,20.4,ug/m3 LC,68,Burbank
+3/15/14,AQS,60371002,3,19,ug/m3 LC,66,Burbank
+3/16/14,AQS,60371002,3,13.9,ug/m3 LC,55,Burbank
+3/17/14,AQS,60371002,3,17.6,ug/m3 LC,63,Burbank
+3/18/14,AQS,60371002,3,19.3,ug/m3 LC,66,Burbank
+3/19/14,AQS,60371002,3,18.2,ug/m3 LC,64,Burbank
+3/20/14,AQS,60371002,3,20,ug/m3 LC,68,Burbank
+3/21/14,AQS,60371002,3,21.5,ug/m3 LC,71,Burbank
+3/22/14,AQS,60371002,3,17.6,ug/m3 LC,63,Burbank
+3/23/14,AQS,60371002,3,19.2,ug/m3 LC,66,Burbank
+3/24/14,AQS,60371002,3,26.6,ug/m3 LC,81,Burbank
+3/25/14,AQS,60371002,3,24.8,ug/m3 LC,78,Burbank
+3/26/14,AQS,60371002,3,8.5,ug/m3 LC,35,Burbank
+3/27/14,AQS,60371002,3,10.7,ug/m3 LC,45,Burbank
+3/28/14,AQS,60371002,3,18,ug/m3 LC,63,Burbank
+3/29/14,AQS,60371002,3,17.9,ug/m3 LC,63,Burbank
+3/30/14,AQS,60371002,3,7.6,ug/m3 LC,32,Burbank
+3/31/14,AQS,60371002,3,10.7,ug/m3 LC,45,Burbank
+4/1/14,AQS,60371002,3,7.5,ug/m3 LC,31,Burbank
+4/2/14,AQS,60371002,3,8.7,ug/m3 LC,36,Burbank
+4/3/14,AQS,60371002,3,11.6,ug/m3 LC,48,Burbank
+4/4/14,AQS,60371002,3,11.5,ug/m3 LC,48,Burbank
+4/5/14,AQS,60371002,3,11.3,ug/m3 LC,47,Burbank
+4/6/14,AQS,60371002,3,11.2,ug/m3 LC,47,Burbank
+4/7/14,AQS,60371002,3,12.3,ug/m3 LC,51,Burbank
+4/8/14,AQS,60371002,3,12,ug/m3 LC,50,Burbank
+4/9/14,AQS,60371002,3,11.2,ug/m3 LC,47,Burbank
+4/10/14,AQS,60371002,3,16.2,ug/m3 LC,60,Burbank
+4/11/14,AQS,60371002,3,18.9,ug/m3 LC,65,Burbank
+4/12/14,AQS,60371002,3,19.7,ug/m3 LC,67,Burbank
+4/13/14,AQS,60371002,3,17.5,ug/m3 LC,62,Burbank
+4/14/14,AQS,60371002,3,17.1,ug/m3 LC,62,Burbank
+4/15/14,AQS,60371002,3,22.5,ug/m3 LC,73,Burbank
+4/16/14,AQS,60371002,3,30.4,ug/m3 LC,89,Burbank
+4/17/14,AQS,60371002,3,25.8,ug/m3 LC,80,Burbank
+4/18/14,AQS,60371002,3,17.4,ug/m3 LC,62,Burbank
+4/19/14,AQS,60371002,3,20.7,ug/m3 LC,69,Burbank
+4/20/14,AQS,60371002,3,21.4,ug/m3 LC,71,Burbank
+4/21/14,AQS,60371002,3,22.2,ug/m3 LC,72,Burbank
+4/22/14,AQS,60371002,3,20.6,ug/m3 LC,69,Burbank
+4/23/14,AQS,60371002,3,14.9,ug/m3 LC,57,Burbank
+4/24/14,AQS,60371002,3,15.8,ug/m3 LC,59,Burbank
+4/25/14,AQS,60371002,3,14.3,ug/m3 LC,56,Burbank
+4/26/14,AQS,60371002,3,7.5,ug/m3 LC,31,Burbank
+4/27/14,AQS,60371002,3,11.5,ug/m3 LC,48,Burbank
+4/28/14,AQS,60371002,3,12.5,ug/m3 LC,52,Burbank
+4/29/14,AQS,60371002,3,9.4,ug/m3 LC,39,Burbank
+4/30/14,AQS,60371002,3,11.1,ug/m3 LC,46,Burbank
+5/1/14,AQS,60371002,3,12.3,ug/m3 LC,51,Burbank
+5/7/14,AQS,60371002,3,16.7,ug/m3 LC,61,Burbank
+5/8/14,AQS,60371002,3,18.5,ug/m3 LC,64,Burbank
+5/9/14,AQS,60371002,3,18,ug/m3 LC,63,Burbank
+5/10/14,AQS,60371002,3,17.4,ug/m3 LC,62,Burbank
+5/11/14,AQS,60371002,3,8.8,ug/m3 LC,37,Burbank
+5/16/14,AQS,60371002,3,22.6,ug/m3 LC,73,Burbank
+5/17/14,AQS,60371002,3,26.9,ug/m3 LC,82,Burbank
+5/18/14,AQS,60371002,3,22.5,ug/m3 LC,73,Burbank
+5/19/14,AQS,60371002,3,19.1,ug/m3 LC,66,Burbank
+5/31/14,AQS,60371002,3,26.7,ug/m3 LC,82,Burbank
+6/1/14,AQS,60371002,3,24.4,ug/m3 LC,77,Burbank
+6/2/14,AQS,60371002,3,23.2,ug/m3 LC,74,Burbank
+6/3/14,AQS,60371002,3,17.1,ug/m3 LC,62,Burbank
+6/4/14,AQS,60371002,3,18.3,ug/m3 LC,64,Burbank
+6/5/14,AQS,60371002,3,24.9,ug/m3 LC,78,Burbank
+6/6/14,AQS,60371002,3,26.6,ug/m3 LC,81,Burbank
+6/7/14,AQS,60371002,3,30,ug/m3 LC,89,Burbank
+6/8/14,AQS,60371002,3,29.7,ug/m3 LC,88,Burbank
+6/9/14,AQS,60371002,3,30.5,ug/m3 LC,90,Burbank
+6/10/14,AQS,60371002,3,27.4,ug/m3 LC,83,Burbank
+6/11/14,AQS,60371002,3,19.4,ug/m3 LC,66,Burbank
+6/12/14,AQS,60371002,3,22,ug/m3 LC,72,Burbank
+6/13/14,AQS,60371002,3,21.5,ug/m3 LC,71,Burbank
+6/14/14,AQS,60371002,3,24.4,ug/m3 LC,77,Burbank
+6/15/14,AQS,60371002,3,23.8,ug/m3 LC,76,Burbank
+6/16/14,AQS,60371002,3,20.5,ug/m3 LC,69,Burbank
+6/17/14,AQS,60371002,3,17.8,ug/m3 LC,63,Burbank
+6/18/14,AQS,60371002,3,19.3,ug/m3 LC,66,Burbank
+6/19/14,AQS,60371002,3,23.3,ug/m3 LC,75,Burbank
+6/20/14,AQS,60371002,3,25.5,ug/m3 LC,79,Burbank
+6/21/14,AQS,60371002,3,25.3,ug/m3 LC,79,Burbank
+6/22/14,AQS,60371002,3,27.5,ug/m3 LC,83,Burbank
+6/23/14,AQS,60371002,3,26.6,ug/m3 LC,81,Burbank
+6/24/14,AQS,60371002,3,28.1,ug/m3 LC,85,Burbank
+6/25/14,AQS,60371002,3,30.2,ug/m3 LC,89,Burbank
+6/26/14,AQS,60371002,3,25.6,ug/m3 LC,79,Burbank
+6/27/14,AQS,60371002,3,19.2,ug/m3 LC,66,Burbank
+6/28/14,AQS,60371002,3,24.6,ug/m3 LC,77,Burbank
+6/29/14,AQS,60371002,3,26.8,ug/m3 LC,82,Burbank
+6/30/14,AQS,60371002,3,27.6,ug/m3 LC,84,Burbank
+1/1/14,AQS,60371103,1,59.9,ug/m3 LC,153,Los Angeles-North Main Street
+1/2/14,AQS,60371103,1,11.1,ug/m3 LC,46,Los Angeles-North Main Street
+1/3/14,AQS,60371103,1,24.4,ug/m3 LC,77,Los Angeles-North Main Street
+1/4/14,AQS,60371103,1,37,ug/m3 LC,105,Los Angeles-North Main Street
+1/5/14,AQS,60371103,1,16.2,ug/m3 LC,60,Los Angeles-North Main Street
+1/6/14,AQS,60371103,1,7.9,ug/m3 LC,33,Los Angeles-North Main Street
+1/8/14,AQS,60371103,1,29,ug/m3 LC,87,Los Angeles-North Main Street
+1/9/14,AQS,60371103,1,37.9,ug/m3 LC,107,Los Angeles-North Main Street
+1/10/14,AQS,60371103,1,36.1,ug/m3 LC,102,Los Angeles-North Main Street
+1/11/14,AQS,60371103,1,25.3,ug/m3 LC,79,Los Angeles-North Main Street
+1/12/14,AQS,60371103,1,35.6,ug/m3 LC,101,Los Angeles-North Main Street
+1/15/14,AQS,60371103,1,11.8,ug/m3 LC,49,Los Angeles-North Main Street
+1/16/14,AQS,60371103,1,12.5,ug/m3 LC,52,Los Angeles-North Main Street
+1/17/14,AQS,60371103,1,13.5,ug/m3 LC,54,Los Angeles-North Main Street
+1/18/14,AQS,60371103,1,17.3,ug/m3 LC,62,Los Angeles-North Main Street
+1/19/14,AQS,60371103,1,15.5,ug/m3 LC,58,Los Angeles-North Main Street
+1/22/14,AQS,60371103,1,22,ug/m3 LC,72,Los Angeles-North Main Street
+1/23/14,AQS,60371103,1,27.5,ug/m3 LC,83,Los Angeles-North Main Street
+1/24/14,AQS,60371103,1,16.5,ug/m3 LC,60,Los Angeles-North Main Street
+1/25/14,AQS,60371103,1,15.8,ug/m3 LC,59,Los Angeles-North Main Street
+1/26/14,AQS,60371103,1,20.5,ug/m3 LC,69,Los Angeles-North Main Street
+1/27/14,AQS,60371103,1,19.3,ug/m3 LC,66,Los Angeles-North Main Street
+1/28/14,AQS,60371103,1,28,ug/m3 LC,84,Los Angeles-North Main Street
+1/29/14,AQS,60371103,1,37.6,ug/m3 LC,106,Los Angeles-North Main Street
+1/30/14,AQS,60371103,1,26.2,ug/m3 LC,81,Los Angeles-North Main Street
+1/31/14,AQS,60371103,1,4.6,ug/m3 LC,19,Los Angeles-North Main Street
+2/1/14,AQS,60371103,1,6.2,ug/m3 LC,26,Los Angeles-North Main Street
+2/2/14,AQS,60371103,1,5.4,ug/m3 LC,23,Los Angeles-North Main Street
+2/3/14,AQS,60371103,1,5.2,ug/m3 LC,22,Los Angeles-North Main Street
+2/4/14,AQS,60371103,1,8.9,ug/m3 LC,37,Los Angeles-North Main Street
+2/5/14,AQS,60371103,1,10.8,ug/m3 LC,45,Los Angeles-North Main Street
+2/6/14,AQS,60371103,1,16.5,ug/m3 LC,60,Los Angeles-North Main Street
+2/7/14,AQS,60371103,1,12.7,ug/m3 LC,52,Los Angeles-North Main Street
+2/8/14,AQS,60371103,1,9,ug/m3 LC,38,Los Angeles-North Main Street
+2/9/14,AQS,60371103,1,13.3,ug/m3 LC,54,Los Angeles-North Main Street
+2/10/14,AQS,60371103,1,14,ug/m3 LC,55,Los Angeles-North Main Street
+2/11/14,AQS,60371103,1,12.3,ug/m3 LC,51,Los Angeles-North Main Street
+2/12/14,AQS,60371103,1,13.1,ug/m3 LC,53,Los Angeles-North Main Street
+2/13/14,AQS,60371103,1,16.6,ug/m3 LC,60,Los Angeles-North Main Street
+2/14/14,AQS,60371103,1,22.2,ug/m3 LC,72,Los Angeles-North Main Street
+2/15/14,AQS,60371103,1,33.2,ug/m3 LC,95,Los Angeles-North Main Street
+2/16/14,AQS,60371103,1,27.7,ug/m3 LC,84,Los Angeles-North Main Street
+2/17/14,AQS,60371103,1,19.6,ug/m3 LC,67,Los Angeles-North Main Street
+2/18/14,AQS,60371103,1,26.6,ug/m3 LC,81,Los Angeles-North Main Street
+2/19/14,AQS,60371103,1,23.2,ug/m3 LC,74,Los Angeles-North Main Street
+2/20/14,AQS,60371103,1,14.4,ug/m3 LC,56,Los Angeles-North Main Street
+2/21/14,AQS,60371103,1,15,ug/m3 LC,57,Los Angeles-North Main Street
+2/22/14,AQS,60371103,1,21.2,ug/m3 LC,70,Los Angeles-North Main Street
+2/23/14,AQS,60371103,1,23.6,ug/m3 LC,75,Los Angeles-North Main Street
+2/24/14,AQS,60371103,1,26.4,ug/m3 LC,81,Los Angeles-North Main Street
+2/25/14,AQS,60371103,1,18,ug/m3 LC,63,Los Angeles-North Main Street
+2/26/14,AQS,60371103,1,6.1,ug/m3 LC,25,Los Angeles-North Main Street
+2/27/14,AQS,60371103,1,3.7,ug/m3 LC,15,Los Angeles-North Main Street
+3/1/14,AQS,60371103,1,5,ug/m3 LC,21,Los Angeles-North Main Street
+3/2/14,AQS,60371103,1,5.1,ug/m3 LC,21,Los Angeles-North Main Street
+3/3/14,AQS,60371103,1,8,ug/m3 LC,33,Los Angeles-North Main Street
+3/4/14,AQS,60371103,1,12.2,ug/m3 LC,51,Los Angeles-North Main Street
+3/5/14,AQS,60371103,1,16.5,ug/m3 LC,60,Los Angeles-North Main Street
+3/6/14,AQS,60371103,1,12.1,ug/m3 LC,51,Los Angeles-North Main Street
+3/7/14,AQS,60371103,1,9.1,ug/m3 LC,38,Los Angeles-North Main Street
+3/12/14,AQS,60371103,1,10,ug/m3 LC,42,Los Angeles-North Main Street
+3/13/14,AQS,60371103,1,10.9,ug/m3 LC,45,Los Angeles-North Main Street
+3/14/14,AQS,60371103,1,13.4,ug/m3 LC,54,Los Angeles-North Main Street
+3/15/14,AQS,60371103,1,11.6,ug/m3 LC,48,Los Angeles-North Main Street
+3/19/14,AQS,60371103,1,12.6,ug/m3 LC,52,Los Angeles-North Main Street
+3/20/14,AQS,60371103,1,14.7,ug/m3 LC,56,Los Angeles-North Main Street
+3/21/14,AQS,60371103,1,11.7,ug/m3 LC,49,Los Angeles-North Main Street
+3/22/14,AQS,60371103,1,10.8,ug/m3 LC,45,Los Angeles-North Main Street
+3/26/14,AQS,60371103,1,3.5,ug/m3 LC,15,Los Angeles-North Main Street
+3/27/14,AQS,60371103,1,8,ug/m3 LC,33,Los Angeles-North Main Street
+3/29/14,AQS,60371103,1,10.3,ug/m3 LC,43,Los Angeles-North Main Street
+3/30/14,AQS,60371103,1,5.3,ug/m3 LC,22,Los Angeles-North Main Street
+3/31/14,AQS,60371103,1,7.5,ug/m3 LC,31,Los Angeles-North Main Street
+4/1/14,AQS,60371103,1,4,ug/m3 LC,17,Los Angeles-North Main Street
+4/2/14,AQS,60371103,1,3.9,ug/m3 LC,16,Los Angeles-North Main Street
+4/3/14,AQS,60371103,1,6.5,ug/m3 LC,27,Los Angeles-North Main Street
+4/4/14,AQS,60371103,1,5.1,ug/m3 LC,21,Los Angeles-North Main Street
+4/5/14,AQS,60371103,1,5.4,ug/m3 LC,23,Los Angeles-North Main Street
+4/6/14,AQS,60371103,1,10.2,ug/m3 LC,43,Los Angeles-North Main Street
+4/7/14,AQS,60371103,1,9,ug/m3 LC,38,Los Angeles-North Main Street
+4/8/14,AQS,60371103,1,11.2,ug/m3 LC,47,Los Angeles-North Main Street
+4/9/14,AQS,60371103,1,9.2,ug/m3 LC,38,Los Angeles-North Main Street
+4/10/14,AQS,60371103,1,16.6,ug/m3 LC,60,Los Angeles-North Main Street
+4/11/14,AQS,60371103,1,11.7,ug/m3 LC,49,Los Angeles-North Main Street
+11/6/14,AQS,60371103,1,8.4,ug/m3 LC,35,Los Angeles-North Main Street
+11/7/14,AQS,60371103,1,8.7,ug/m3 LC,36,Los Angeles-North Main Street
+11/8/14,AQS,60371103,1,11.2,ug/m3 LC,47,Los Angeles-North Main Street
+11/9/14,AQS,60371103,1,18,ug/m3 LC,63,Los Angeles-North Main Street
+11/10/14,AQS,60371103,1,16.9,ug/m3 LC,61,Los Angeles-North Main Street
+11/11/14,AQS,60371103,1,6.7,ug/m3 LC,28,Los Angeles-North Main Street
+11/26/14,AQS,60371103,1,10.5,ug/m3 LC,44,Los Angeles-North Main Street
+11/27/14,AQS,60371103,1,8.8,ug/m3 LC,37,Los Angeles-North Main Street
+11/28/14,AQS,60371103,1,11.9,ug/m3 LC,50,Los Angeles-North Main Street
+11/29/14,AQS,60371103,1,13.2,ug/m3 LC,53,Los Angeles-North Main Street
+11/30/14,AQS,60371103,1,6.3,ug/m3 LC,26,Los Angeles-North Main Street
+12/1/14,AQS,60371103,1,9.6,ug/m3 LC,40,Los Angeles-North Main Street
+12/2/14,AQS,60371103,1,5.3,ug/m3 LC,22,Los Angeles-North Main Street
+12/10/14,AQS,60371103,1,24.1,ug/m3 LC,76,Los Angeles-North Main Street
+12/14/14,AQS,60371103,1,10.1,ug/m3 LC,42,Los Angeles-North Main Street
+12/17/14,AQS,60371103,1,5.7,ug/m3 LC,24,Los Angeles-North Main Street
+12/18/14,AQS,60371103,1,8.9,ug/m3 LC,37,Los Angeles-North Main Street
+12/19/14,AQS,60371103,1,14.4,ug/m3 LC,56,Los Angeles-North Main Street
+12/20/14,AQS,60371103,1,21.5,ug/m3 LC,71,Los Angeles-North Main Street
+12/21/14,AQS,60371103,1,30.5,ug/m3 LC,90,Los Angeles-North Main Street
+12/22/14,AQS,60371103,1,21.1,ug/m3 LC,70,Los Angeles-North Main Street
+12/23/14,AQS,60371103,1,12.3,ug/m3 LC,51,Los Angeles-North Main Street
+12/24/14,AQS,60371103,1,8.9,ug/m3 LC,37,Los Angeles-North Main Street
+12/25/14,AQS,60371103,1,2.9,ug/m3 LC,12,Los Angeles-North Main Street
+12/26/14,AQS,60371103,1,6.6,ug/m3 LC,28,Los Angeles-North Main Street
+12/27/14,AQS,60371103,1,8.9,ug/m3 LC,37,Los Angeles-North Main Street
+12/28/14,AQS,60371103,1,11.2,ug/m3 LC,47,Los Angeles-North Main Street
+12/29/14,AQS,60371103,1,17.3,ug/m3 LC,62,Los Angeles-North Main Street
+12/30/14,AQS,60371103,1,17.6,ug/m3 LC,63,Los Angeles-North Main Street
+12/31/14,AQS,60371103,1,11.8,ug/m3 LC,49,Los Angeles-North Main Street
+1/5/14,AQS,60371103,2,16.7,ug/m3 LC,61,Los Angeles-North Main Street
+1/11/14,AQS,60371103,2,26.2,ug/m3 LC,81,Los Angeles-North Main Street
+1/17/14,AQS,60371103,2,13.5,ug/m3 LC,54,Los Angeles-North Main Street
+1/23/14,AQS,60371103,2,28.3,ug/m3 LC,85,Los Angeles-North Main Street
+1/29/14,AQS,60371103,2,37.9,ug/m3 LC,107,Los Angeles-North Main Street
+2/4/14,AQS,60371103,2,9.7,ug/m3 LC,40,Los Angeles-North Main Street
+2/10/14,AQS,60371103,2,15.7,ug/m3 LC,59,Los Angeles-North Main Street
+2/16/14,AQS,60371103,2,29.1,ug/m3 LC,87,Los Angeles-North Main Street
+2/22/14,AQS,60371103,2,22,ug/m3 LC,72,Los Angeles-North Main Street
+2/28/14,AQS,60371103,2,4,ug/m3 LC,17,Los Angeles-North Main Street
+3/6/14,AQS,60371103,2,13,ug/m3 LC,53,Los Angeles-North Main Street
+3/12/14,AQS,60371103,2,9.5,ug/m3 LC,40,Los Angeles-North Main Street
+3/18/14,AQS,60371103,2,13.4,ug/m3 LC,54,Los Angeles-North Main Street
+3/24/14,AQS,60371103,2,21.7,ug/m3 LC,71,Los Angeles-North Main Street
+3/30/14,AQS,60371103,2,5.7,ug/m3 LC,24,Los Angeles-North Main Street
+4/5/14,AQS,60371103,2,5.6,ug/m3 LC,23,Los Angeles-North Main Street
+4/11/14,AQS,60371103,2,12.3,ug/m3 LC,51,Los Angeles-North Main Street
+6/28/14,AQS,60371103,2,13.2,ug/m3 LC,53,Los Angeles-North Main Street
+12/1/14,AQS,60371103,2,8.7,ug/m3 LC,36,Los Angeles-North Main Street
+12/13/14,AQS,60371103,2,8,ug/m3 LC,33,Los Angeles-North Main Street
+12/19/14,AQS,60371103,2,13.1,ug/m3 LC,53,Los Angeles-North Main Street
+12/25/14,AQS,60371103,2,3.1,ug/m3 LC,13,Los Angeles-North Main Street
+12/31/14,AQS,60371103,2,11.5,ug/m3 LC,48,Los Angeles-North Main Street
+1/2/14,AQS,60371103,5,14,ug/m3 LC,55,Los Angeles-North Main Street
+1/5/14,AQS,60371103,5,16.3,ug/m3 LC,60,Los Angeles-North Main Street
+1/8/14,AQS,60371103,5,29.6,ug/m3 LC,88,Los Angeles-North Main Street
+1/11/14,AQS,60371103,5,25.2,ug/m3 LC,79,Los Angeles-North Main Street
+1/14/14,AQS,60371103,5,9.1,ug/m3 LC,38,Los Angeles-North Main Street
+1/17/14,AQS,60371103,5,13.2,ug/m3 LC,53,Los Angeles-North Main Street
+1/20/14,AQS,60371103,5,17.6,ug/m3 LC,63,Los Angeles-North Main Street
+1/23/14,AQS,60371103,5,27.2,ug/m3 LC,83,Los Angeles-North Main Street
+1/26/14,AQS,60371103,5,18.3,ug/m3 LC,64,Los Angeles-North Main Street
+1/29/14,AQS,60371103,5,36.8,ug/m3 LC,104,Los Angeles-North Main Street
+2/1/14,AQS,60371103,5,4.8,ug/m3 LC,20,Los Angeles-North Main Street
+2/4/14,AQS,60371103,5,8.1,ug/m3 LC,34,Los Angeles-North Main Street
+2/7/14,AQS,60371103,5,10.7,ug/m3 LC,45,Los Angeles-North Main Street
+2/10/14,AQS,60371103,5,14,ug/m3 LC,55,Los Angeles-North Main Street
+2/13/14,AQS,60371103,5,17.9,ug/m3 LC,63,Los Angeles-North Main Street
+2/16/14,AQS,60371103,5,27.6,ug/m3 LC,84,Los Angeles-North Main Street
+2/19/14,AQS,60371103,5,24.2,ug/m3 LC,76,Los Angeles-North Main Street
+2/22/14,AQS,60371103,5,21.8,ug/m3 LC,71,Los Angeles-North Main Street
+2/25/14,AQS,60371103,5,18.3,ug/m3 LC,64,Los Angeles-North Main Street
+2/28/14,AQS,60371103,5,5.9,ug/m3 LC,25,Los Angeles-North Main Street
+3/3/14,AQS,60371103,5,15.7,ug/m3 LC,59,Los Angeles-North Main Street
+3/6/14,AQS,60371103,5,16.2,ug/m3 LC,60,Los Angeles-North Main Street
+3/9/14,AQS,60371103,5,4.1,ug/m3 LC,17,Los Angeles-North Main Street
+3/12/14,AQS,60371103,5,10.9,ug/m3 LC,45,Los Angeles-North Main Street
+3/15/14,AQS,60371103,5,13.4,ug/m3 LC,54,Los Angeles-North Main Street
+3/18/14,AQS,60371103,5,16.3,ug/m3 LC,60,Los Angeles-North Main Street
+3/24/14,AQS,60371103,5,22.9,ug/m3 LC,74,Los Angeles-North Main Street
+3/27/14,AQS,60371103,5,7.5,ug/m3 LC,31,Los Angeles-North Main Street
+3/30/14,AQS,60371103,5,6.7,ug/m3 LC,28,Los Angeles-North Main Street
+4/2/14,AQS,60371103,5,5.7,ug/m3 LC,24,Los Angeles-North Main Street
+4/5/14,AQS,60371103,5,6.9,ug/m3 LC,29,Los Angeles-North Main Street
+4/8/14,AQS,60371103,5,11,ug/m3 LC,46,Los Angeles-North Main Street
+4/11/14,AQS,60371103,5,16.1,ug/m3 LC,59,Los Angeles-North Main Street
+4/14/14,AQS,60371103,5,12.3,ug/m3 LC,51,Los Angeles-North Main Street
+4/17/14,AQS,60371103,5,16.4,ug/m3 LC,60,Los Angeles-North Main Street
+4/20/14,AQS,60371103,5,13.5,ug/m3 LC,54,Los Angeles-North Main Street
+4/23/14,AQS,60371103,5,10,ug/m3 LC,42,Los Angeles-North Main Street
+4/26/14,AQS,60371103,5,5.9,ug/m3 LC,25,Los Angeles-North Main Street
+4/29/14,AQS,60371103,5,11.6,ug/m3 LC,48,Los Angeles-North Main Street
+5/2/14,AQS,60371103,5,11.7,ug/m3 LC,49,Los Angeles-North Main Street
+5/5/14,AQS,60371103,5,10.9,ug/m3 LC,45,Los Angeles-North Main Street
+5/8/14,AQS,60371103,5,10.3,ug/m3 LC,43,Los Angeles-North Main Street
+5/11/14,AQS,60371103,5,14.1,ug/m3 LC,55,Los Angeles-North Main Street
+5/14/14,AQS,60371103,5,9,ug/m3 LC,38,Los Angeles-North Main Street
+5/20/14,AQS,60371103,5,6,ug/m3 LC,25,Los Angeles-North Main Street
+5/23/14,AQS,60371103,5,9.5,ug/m3 LC,40,Los Angeles-North Main Street
+5/26/14,AQS,60371103,5,13.6,ug/m3 LC,54,Los Angeles-North Main Street
+5/29/14,AQS,60371103,5,14.4,ug/m3 LC,56,Los Angeles-North Main Street
+6/1/14,AQS,60371103,5,14.8,ug/m3 LC,57,Los Angeles-North Main Street
+6/4/14,AQS,60371103,5,11.7,ug/m3 LC,49,Los Angeles-North Main Street
+6/7/14,AQS,60371103,5,17,ug/m3 LC,61,Los Angeles-North Main Street
+6/10/14,AQS,60371103,5,12.1,ug/m3 LC,51,Los Angeles-North Main Street
+6/13/14,AQS,60371103,5,11.6,ug/m3 LC,48,Los Angeles-North Main Street
+6/16/14,AQS,60371103,5,12.7,ug/m3 LC,52,Los Angeles-North Main Street
+6/19/14,AQS,60371103,5,13.2,ug/m3 LC,53,Los Angeles-North Main Street
+6/22/14,AQS,60371103,5,14.6,ug/m3 LC,56,Los Angeles-North Main Street
+6/25/14,AQS,60371103,5,16.3,ug/m3 LC,60,Los Angeles-North Main Street
+6/28/14,AQS,60371103,5,11.3,ug/m3 LC,47,Los Angeles-North Main Street
+7/1/14,AQS,60371103,5,14.2,ug/m3 LC,55,Los Angeles-North Main Street
+7/4/14,AQS,60371103,5,37.7,ug/m3 LC,106,Los Angeles-North Main Street
+7/7/14,AQS,60371103,5,11.7,ug/m3 LC,49,Los Angeles-North Main Street
+7/10/14,AQS,60371103,5,10.4,ug/m3 LC,43,Los Angeles-North Main Street
+7/16/14,AQS,60371103,5,0.4,ug/m3 LC,2,Los Angeles-North Main Street
+7/19/14,AQS,60371103,5,6.9,ug/m3 LC,29,Los Angeles-North Main Street
+7/22/14,AQS,60371103,5,7.2,ug/m3 LC,30,Los Angeles-North Main Street
+7/25/14,AQS,60371103,5,14,ug/m3 LC,55,Los Angeles-North Main Street
+7/28/14,AQS,60371103,5,10,ug/m3 LC,42,Los Angeles-North Main Street
+7/31/14,AQS,60371103,5,15.1,ug/m3 LC,57,Los Angeles-North Main Street
+8/3/14,AQS,60371103,5,13,ug/m3 LC,53,Los Angeles-North Main Street
+8/6/14,AQS,60371103,5,9.3,ug/m3 LC,39,Los Angeles-North Main Street
+8/9/14,AQS,60371103,5,14.7,ug/m3 LC,56,Los Angeles-North Main Street
+8/12/14,AQS,60371103,5,9.3,ug/m3 LC,39,Los Angeles-North Main Street
+8/15/14,AQS,60371103,5,8.9,ug/m3 LC,37,Los Angeles-North Main Street
+8/18/14,AQS,60371103,5,12.9,ug/m3 LC,53,Los Angeles-North Main Street
+8/21/14,AQS,60371103,5,8.1,ug/m3 LC,34,Los Angeles-North Main Street
+8/24/14,AQS,60371103,5,8.5,ug/m3 LC,35,Los Angeles-North Main Street
+8/27/14,AQS,60371103,5,13,ug/m3 LC,53,Los Angeles-North Main Street
+8/30/14,AQS,60371103,5,14.2,ug/m3 LC,55,Los Angeles-North Main Street
+9/2/14,AQS,60371103,5,13.3,ug/m3 LC,54,Los Angeles-North Main Street
+9/5/14,AQS,60371103,5,11,ug/m3 LC,46,Los Angeles-North Main Street
+9/8/14,AQS,60371103,5,13.6,ug/m3 LC,54,Los Angeles-North Main Street
+9/11/14,AQS,60371103,5,13.1,ug/m3 LC,53,Los Angeles-North Main Street
+9/14/14,AQS,60371103,5,17,ug/m3 LC,61,Los Angeles-North Main Street
+9/17/14,AQS,60371103,5,13.6,ug/m3 LC,54,Los Angeles-North Main Street
+9/20/14,AQS,60371103,5,9.2,ug/m3 LC,38,Los Angeles-North Main Street
+9/23/14,AQS,60371103,5,11.8,ug/m3 LC,49,Los Angeles-North Main Street
+9/26/14,AQS,60371103,5,9.4,ug/m3 LC,39,Los Angeles-North Main Street
+9/29/14,AQS,60371103,5,10.2,ug/m3 LC,43,Los Angeles-North Main Street
+1/1/14,AQS,60371103,9,65,ug/m3 LC,156,Los Angeles-North Main Street
+1/2/14,AQS,60371103,9,12.6,ug/m3 LC,52,Los Angeles-North Main Street
+1/3/14,AQS,60371103,9,28,ug/m3 LC,84,Los Angeles-North Main Street
+1/4/14,AQS,60371103,9,42.4,ug/m3 LC,118,Los Angeles-North Main Street
+1/5/14,AQS,60371103,9,21.7,ug/m3 LC,71,Los Angeles-North Main Street
+1/6/14,AQS,60371103,9,8.1,ug/m3 LC,34,Los Angeles-North Main Street
+1/7/14,AQS,60371103,9,16,ug/m3 LC,59,Los Angeles-North Main Street
+1/8/14,AQS,60371103,9,31.5,ug/m3 LC,92,Los Angeles-North Main Street
+1/9/14,AQS,60371103,9,44,ug/m3 LC,122,Los Angeles-North Main Street
+1/10/14,AQS,60371103,9,43.3,ug/m3 LC,120,Los Angeles-North Main Street
+1/11/14,AQS,60371103,9,31.4,ug/m3 LC,92,Los Angeles-North Main Street
+1/12/14,AQS,60371103,9,41.3,ug/m3 LC,115,Los Angeles-North Main Street
+1/13/14,AQS,60371103,9,13.1,ug/m3 LC,53,Los Angeles-North Main Street
+1/14/14,AQS,60371103,9,11.1,ug/m3 LC,46,Los Angeles-North Main Street
+1/15/14,AQS,60371103,9,12.6,ug/m3 LC,52,Los Angeles-North Main Street
+1/16/14,AQS,60371103,9,14,ug/m3 LC,55,Los Angeles-North Main Street
+1/17/14,AQS,60371103,9,15.9,ug/m3 LC,59,Los Angeles-North Main Street
+1/18/14,AQS,60371103,9,19,ug/m3 LC,66,Los Angeles-North Main Street
+1/19/14,AQS,60371103,9,18.6,ug/m3 LC,65,Los Angeles-North Main Street
+1/20/14,AQS,60371103,9,20.8,ug/m3 LC,69,Los Angeles-North Main Street
+1/21/14,AQS,60371103,9,12.2,ug/m3 LC,51,Los Angeles-North Main Street
+1/22/14,AQS,60371103,9,24.3,ug/m3 LC,77,Los Angeles-North Main Street
+1/23/14,AQS,60371103,9,33.4,ug/m3 LC,96,Los Angeles-North Main Street
+1/24/14,AQS,60371103,9,20.9,ug/m3 LC,70,Los Angeles-North Main Street
+1/25/14,AQS,60371103,9,19.1,ug/m3 LC,66,Los Angeles-North Main Street
+1/26/14,AQS,60371103,9,23.8,ug/m3 LC,76,Los Angeles-North Main Street
+1/27/14,AQS,60371103,9,23.7,ug/m3 LC,75,Los Angeles-North Main Street
+1/28/14,AQS,60371103,9,33.6,ug/m3 LC,96,Los Angeles-North Main Street
+1/29/14,AQS,60371103,9,45.1,ug/m3 LC,125,Los Angeles-North Main Street
+1/30/14,AQS,60371103,9,32.3,ug/m3 LC,93,Los Angeles-North Main Street
+1/31/14,AQS,60371103,9,6.9,ug/m3 LC,29,Los Angeles-North Main Street
+2/1/14,AQS,60371103,9,6.2,ug/m3 LC,26,Los Angeles-North Main Street
+2/2/14,AQS,60371103,9,6.6,ug/m3 LC,28,Los Angeles-North Main Street
+2/3/14,AQS,60371103,9,6,ug/m3 LC,25,Los Angeles-North Main Street
+2/4/14,AQS,60371103,9,11.2,ug/m3 LC,47,Los Angeles-North Main Street
+2/5/14,AQS,60371103,9,14.1,ug/m3 LC,55,Los Angeles-North Main Street
+2/6/14,AQS,60371103,9,18,ug/m3 LC,63,Los Angeles-North Main Street
+2/7/14,AQS,60371103,9,17.1,ug/m3 LC,62,Los Angeles-North Main Street
+2/12/14,AQS,60371103,9,17.2,ug/m3 LC,62,Los Angeles-North Main Street
+2/15/14,AQS,60371103,9,41.7,ug/m3 LC,116,Los Angeles-North Main Street
+2/16/14,AQS,60371103,9,33.2,ug/m3 LC,95,Los Angeles-North Main Street
+2/17/14,AQS,60371103,9,24.9,ug/m3 LC,78,Los Angeles-North Main Street
+2/18/14,AQS,60371103,9,32.5,ug/m3 LC,94,Los Angeles-North Main Street
+2/19/14,AQS,60371103,9,29.3,ug/m3 LC,87,Los Angeles-North Main Street
+2/20/14,AQS,60371103,9,24.2,ug/m3 LC,76,Los Angeles-North Main Street
+2/21/14,AQS,60371103,9,19.8,ug/m3 LC,67,Los Angeles-North Main Street
+2/22/14,AQS,60371103,9,27.9,ug/m3 LC,84,Los Angeles-North Main Street
+2/23/14,AQS,60371103,9,31.2,ug/m3 LC,91,Los Angeles-North Main Street
+2/24/14,AQS,60371103,9,33.3,ug/m3 LC,96,Los Angeles-North Main Street
+2/25/14,AQS,60371103,9,25.3,ug/m3 LC,79,Los Angeles-North Main Street
+2/26/14,AQS,60371103,9,11.1,ug/m3 LC,46,Los Angeles-North Main Street
+2/27/14,AQS,60371103,9,6.7,ug/m3 LC,28,Los Angeles-North Main Street
+2/28/14,AQS,60371103,9,7.2,ug/m3 LC,30,Los Angeles-North Main Street
+3/1/14,AQS,60371103,9,9.1,ug/m3 LC,38,Los Angeles-North Main Street
+3/2/14,AQS,60371103,9,9.2,ug/m3 LC,38,Los Angeles-North Main Street
+3/3/14,AQS,60371103,9,14.4,ug/m3 LC,56,Los Angeles-North Main Street
+3/4/14,AQS,60371103,9,22.2,ug/m3 LC,72,Los Angeles-North Main Street
+3/5/14,AQS,60371103,9,26,ug/m3 LC,80,Los Angeles-North Main Street
+3/6/14,AQS,60371103,9,20.2,ug/m3 LC,68,Los Angeles-North Main Street
+3/7/14,AQS,60371103,9,16.9,ug/m3 LC,61,Los Angeles-North Main Street
+3/8/14,AQS,60371103,9,11.1,ug/m3 LC,46,Los Angeles-North Main Street
+3/9/14,AQS,60371103,9,6.7,ug/m3 LC,28,Los Angeles-North Main Street
+3/10/14,AQS,60371103,9,10,ug/m3 LC,42,Los Angeles-North Main Street
+3/11/14,AQS,60371103,9,15.1,ug/m3 LC,57,Los Angeles-North Main Street
+3/12/14,AQS,60371103,9,16,ug/m3 LC,59,Los Angeles-North Main Street
+3/13/14,AQS,60371103,9,14.8,ug/m3 LC,57,Los Angeles-North Main Street
+3/14/14,AQS,60371103,9,23,ug/m3 LC,74,Los Angeles-North Main Street
+3/15/14,AQS,60371103,9,19.2,ug/m3 LC,66,Los Angeles-North Main Street
+3/16/14,AQS,60371103,9,15,ug/m3 LC,57,Los Angeles-North Main Street
+3/17/14,AQS,60371103,9,17.8,ug/m3 LC,63,Los Angeles-North Main Street
+3/18/14,AQS,60371103,9,19.3,ug/m3 LC,66,Los Angeles-North Main Street
+3/19/14,AQS,60371103,9,21.6,ug/m3 LC,71,Los Angeles-North Main Street
+3/20/14,AQS,60371103,9,21.2,ug/m3 LC,70,Los Angeles-North Main Street
+3/21/14,AQS,60371103,9,20.1,ug/m3 LC,68,Los Angeles-North Main Street
+3/22/14,AQS,60371103,9,17,ug/m3 LC,61,Los Angeles-North Main Street
+3/23/14,AQS,60371103,9,19.9,ug/m3 LC,67,Los Angeles-North Main Street
+3/24/14,AQS,60371103,9,28.9,ug/m3 LC,86,Los Angeles-North Main Street
+3/25/14,AQS,60371103,9,25.8,ug/m3 LC,80,Los Angeles-North Main Street
+3/26/14,AQS,60371103,9,7.4,ug/m3 LC,31,Los Angeles-North Main Street
+3/27/14,AQS,60371103,9,12.3,ug/m3 LC,51,Los Angeles-North Main Street
+3/28/14,AQS,60371103,9,14.9,ug/m3 LC,57,Los Angeles-North Main Street
+3/29/14,AQS,60371103,9,17.9,ug/m3 LC,63,Los Angeles-North Main Street
+3/30/14,AQS,60371103,9,8.2,ug/m3 LC,34,Los Angeles-North Main Street
+3/31/14,AQS,60371103,9,10.4,ug/m3 LC,43,Los Angeles-North Main Street
+4/1/14,AQS,60371103,9,7,ug/m3 LC,29,Los Angeles-North Main Street
+4/2/14,AQS,60371103,9,6.4,ug/m3 LC,27,Los Angeles-North Main Street
+4/3/14,AQS,60371103,9,10.7,ug/m3 LC,45,Los Angeles-North Main Street
+4/4/14,AQS,60371103,9,11.6,ug/m3 LC,48,Los Angeles-North Main Street
+4/5/14,AQS,60371103,9,12.7,ug/m3 LC,52,Los Angeles-North Main Street
+4/6/14,AQS,60371103,9,14.8,ug/m3 LC,57,Los Angeles-North Main Street
+4/7/14,AQS,60371103,9,14.9,ug/m3 LC,57,Los Angeles-North Main Street
+4/8/14,AQS,60371103,9,17.4,ug/m3 LC,62,Los Angeles-North Main Street
+4/9/14,AQS,60371103,9,16,ug/m3 LC,59,Los Angeles-North Main Street
+4/10/14,AQS,60371103,9,26.5,ug/m3 LC,81,Los Angeles-North Main Street
+4/11/14,AQS,60371103,9,24.7,ug/m3 LC,77,Los Angeles-North Main Street
+4/12/14,AQS,60371103,9,21,ug/m3 LC,70,Los Angeles-North Main Street
+4/13/14,AQS,60371103,9,19,ug/m3 LC,66,Los Angeles-North Main Street
+4/14/14,AQS,60371103,9,21.3,ug/m3 LC,70,Los Angeles-North Main Street
+4/15/14,AQS,60371103,9,26.5,ug/m3 LC,81,Los Angeles-North Main Street
+4/16/14,AQS,60371103,9,28.7,ug/m3 LC,86,Los Angeles-North Main Street
+4/17/14,AQS,60371103,9,27,ug/m3 LC,82,Los Angeles-North Main Street
+4/18/14,AQS,60371103,9,18.5,ug/m3 LC,64,Los Angeles-North Main Street
+4/19/14,AQS,60371103,9,22.1,ug/m3 LC,72,Los Angeles-North Main Street
+4/20/14,AQS,60371103,9,23.9,ug/m3 LC,76,Los Angeles-North Main Street
+4/21/14,AQS,60371103,9,29.7,ug/m3 LC,88,Los Angeles-North Main Street
+4/22/14,AQS,60371103,9,21.7,ug/m3 LC,71,Los Angeles-North Main Street
+4/23/14,AQS,60371103,9,17.8,ug/m3 LC,63,Los Angeles-North Main Street
+4/24/14,AQS,60371103,9,19.4,ug/m3 LC,66,Los Angeles-North Main Street
+4/25/14,AQS,60371103,9,18.5,ug/m3 LC,64,Los Angeles-North Main Street
+4/26/14,AQS,60371103,9,9.7,ug/m3 LC,40,Los Angeles-North Main Street
+4/27/14,AQS,60371103,9,15,ug/m3 LC,57,Los Angeles-North Main Street
+4/28/14,AQS,60371103,9,16.2,ug/m3 LC,60,Los Angeles-North Main Street
+4/29/14,AQS,60371103,9,17.8,ug/m3 LC,63,Los Angeles-North Main Street
+4/30/14,AQS,60371103,9,17.8,ug/m3 LC,63,Los Angeles-North Main Street
+5/1/14,AQS,60371103,9,15.2,ug/m3 LC,58,Los Angeles-North Main Street
+5/2/14,AQS,60371103,9,17.5,ug/m3 LC,62,Los Angeles-North Main Street
+5/3/14,AQS,60371103,9,20.7,ug/m3 LC,69,Los Angeles-North Main Street
+5/4/14,AQS,60371103,9,18.2,ug/m3 LC,64,Los Angeles-North Main Street
+5/5/14,AQS,60371103,9,16.3,ug/m3 LC,60,Los Angeles-North Main Street
+5/6/14,AQS,60371103,9,13,ug/m3 LC,53,Los Angeles-North Main Street
+5/7/14,AQS,60371103,9,16.5,ug/m3 LC,60,Los Angeles-North Main Street
+5/8/14,AQS,60371103,9,18.7,ug/m3 LC,65,Los Angeles-North Main Street
+5/9/14,AQS,60371103,9,19.4,ug/m3 LC,66,Los Angeles-North Main Street
+5/10/14,AQS,60371103,9,19.4,ug/m3 LC,66,Los Angeles-North Main Street
+5/11/14,AQS,60371103,9,15.5,ug/m3 LC,58,Los Angeles-North Main Street
+5/12/14,AQS,60371103,9,10.7,ug/m3 LC,45,Los Angeles-North Main Street
+5/13/14,AQS,60371103,9,12.5,ug/m3 LC,52,Los Angeles-North Main Street
+5/14/14,AQS,60371103,9,13.6,ug/m3 LC,54,Los Angeles-North Main Street
+5/15/14,AQS,60371103,9,12.2,ug/m3 LC,51,Los Angeles-North Main Street
+5/16/14,AQS,60371103,9,24.2,ug/m3 LC,76,Los Angeles-North Main Street
+5/17/14,AQS,60371103,9,31.3,ug/m3 LC,91,Los Angeles-North Main Street
+5/18/14,AQS,60371103,9,22.4,ug/m3 LC,73,Los Angeles-North Main Street
+5/19/14,AQS,60371103,9,18.9,ug/m3 LC,65,Los Angeles-North Main Street
+5/20/14,AQS,60371103,9,11.3,ug/m3 LC,47,Los Angeles-North Main Street
+5/21/14,AQS,60371103,9,14.5,ug/m3 LC,56,Los Angeles-North Main Street
+5/22/14,AQS,60371103,9,16.8,ug/m3 LC,61,Los Angeles-North Main Street
+5/23/14,AQS,60371103,9,17.1,ug/m3 LC,62,Los Angeles-North Main Street
+5/24/14,AQS,60371103,9,21.9,ug/m3 LC,72,Los Angeles-North Main Street
+5/25/14,AQS,60371103,9,19.3,ug/m3 LC,66,Los Angeles-North Main Street
+5/26/14,AQS,60371103,9,25.5,ug/m3 LC,79,Los Angeles-North Main Street
+5/27/14,AQS,60371103,9,30.2,ug/m3 LC,89,Los Angeles-North Main Street
+5/28/14,AQS,60371103,9,29.5,ug/m3 LC,88,Los Angeles-North Main Street
+5/29/14,AQS,60371103,9,23.4,ug/m3 LC,75,Los Angeles-North Main Street
+5/30/14,AQS,60371103,9,31.5,ug/m3 LC,92,Los Angeles-North Main Street
+5/31/14,AQS,60371103,9,28.5,ug/m3 LC,85,Los Angeles-North Main Street
+6/1/14,AQS,60371103,9,22.9,ug/m3 LC,74,Los Angeles-North Main Street
+6/2/14,AQS,60371103,9,23.4,ug/m3 LC,75,Los Angeles-North Main Street
+6/3/14,AQS,60371103,9,20.6,ug/m3 LC,69,Los Angeles-North Main Street
+6/4/14,AQS,60371103,9,19.6,ug/m3 LC,67,Los Angeles-North Main Street
+6/5/14,AQS,60371103,9,28,ug/m3 LC,84,Los Angeles-North Main Street
+6/6/14,AQS,60371103,9,27,ug/m3 LC,82,Los Angeles-North Main Street
+6/7/14,AQS,60371103,9,28,ug/m3 LC,84,Los Angeles-North Main Street
+6/8/14,AQS,60371103,9,30.1,ug/m3 LC,89,Los Angeles-North Main Street
+6/9/14,AQS,60371103,9,32.8,ug/m3 LC,95,Los Angeles-North Main Street
+6/10/14,AQS,60371103,9,24,ug/m3 LC,76,Los Angeles-North Main Street
+6/11/14,AQS,60371103,9,18.7,ug/m3 LC,65,Los Angeles-North Main Street
+6/12/14,AQS,60371103,9,20.2,ug/m3 LC,68,Los Angeles-North Main Street
+6/13/14,AQS,60371103,9,23.8,ug/m3 LC,76,Los Angeles-North Main Street
+6/14/14,AQS,60371103,9,27.3,ug/m3 LC,83,Los Angeles-North Main Street
+6/15/14,AQS,60371103,9,23.2,ug/m3 LC,74,Los Angeles-North Main Street
+6/16/14,AQS,60371103,9,22.1,ug/m3 LC,72,Los Angeles-North Main Street
+6/17/14,AQS,60371103,9,18.4,ug/m3 LC,64,Los Angeles-North Main Street
+6/18/14,AQS,60371103,9,21,ug/m3 LC,70,Los Angeles-North Main Street
+6/19/14,AQS,60371103,9,22.5,ug/m3 LC,73,Los Angeles-North Main Street
+6/20/14,AQS,60371103,9,28,ug/m3 LC,84,Los Angeles-North Main Street
+6/21/14,AQS,60371103,9,23.9,ug/m3 LC,76,Los Angeles-North Main Street
+6/22/14,AQS,60371103,9,25.6,ug/m3 LC,79,Los Angeles-North Main Street
+6/23/14,AQS,60371103,9,24.4,ug/m3 LC,77,Los Angeles-North Main Street
+6/24/14,AQS,60371103,9,27.9,ug/m3 LC,84,Los Angeles-North Main Street
+6/25/14,AQS,60371103,9,29.5,ug/m3 LC,88,Los Angeles-North Main Street
+6/26/14,AQS,60371103,9,23.9,ug/m3 LC,76,Los Angeles-North Main Street
+6/27/14,AQS,60371103,9,18.3,ug/m3 LC,64,Los Angeles-North Main Street
+6/28/14,AQS,60371103,9,23.2,ug/m3 LC,74,Los Angeles-North Main Street
+6/29/14,AQS,60371103,9,23.3,ug/m3 LC,75,Los Angeles-North Main Street
+6/30/14,AQS,60371103,9,24.8,ug/m3 LC,78,Los Angeles-North Main Street
+7/1/14,AQS,60371103,9,23.2,ug/m3 LC,74,Los Angeles-North Main Street
+7/2/14,AQS,60371103,9,25.5,ug/m3 LC,79,Los Angeles-North Main Street
+7/3/14,AQS,60371103,9,33.4,ug/m3 LC,96,Los Angeles-North Main Street
+7/4/14,AQS,60371103,9,45.7,ug/m3 LC,126,Los Angeles-North Main Street
+7/5/14,AQS,60371103,9,56.4,ug/m3 LC,151,Los Angeles-North Main Street
+7/6/14,AQS,60371103,9,20,ug/m3 LC,68,Los Angeles-North Main Street
+7/7/14,AQS,60371103,9,19.1,ug/m3 LC,66,Los Angeles-North Main Street
+7/8/14,AQS,60371103,9,22.4,ug/m3 LC,73,Los Angeles-North Main Street
+7/9/14,AQS,60371103,9,22.6,ug/m3 LC,73,Los Angeles-North Main Street
+7/10/14,AQS,60371103,9,21,ug/m3 LC,70,Los Angeles-North Main Street
+7/11/14,AQS,60371103,9,16.4,ug/m3 LC,60,Los Angeles-North Main Street
+7/12/14,AQS,60371103,9,16.2,ug/m3 LC,60,Los Angeles-North Main Street
+7/13/14,AQS,60371103,9,18.7,ug/m3 LC,65,Los Angeles-North Main Street
+7/14/14,AQS,60371103,9,21.2,ug/m3 LC,70,Los Angeles-North Main Street
+7/15/14,AQS,60371103,9,20.7,ug/m3 LC,69,Los Angeles-North Main Street
+7/16/14,AQS,60371103,9,15.6,ug/m3 LC,58,Los Angeles-North Main Street
+7/17/14,AQS,60371103,9,12.7,ug/m3 LC,52,Los Angeles-North Main Street
+7/26/14,AQS,60371103,9,25.7,ug/m3 LC,80,Los Angeles-North Main Street
+7/27/14,AQS,60371103,9,21.1,ug/m3 LC,70,Los Angeles-North Main Street
+7/28/14,AQS,60371103,9,19.3,ug/m3 LC,66,Los Angeles-North Main Street
+7/29/14,AQS,60371103,9,22.7,ug/m3 LC,73,Los Angeles-North Main Street
+7/30/14,AQS,60371103,9,21.3,ug/m3 LC,70,Los Angeles-North Main Street
+7/31/14,AQS,60371103,9,21.4,ug/m3 LC,71,Los Angeles-North Main Street
+8/1/14,AQS,60371103,9,22.7,ug/m3 LC,73,Los Angeles-North Main Street
+8/2/14,AQS,60371103,9,27.5,ug/m3 LC,83,Los Angeles-North Main Street
+8/3/14,AQS,60371103,9,23.7,ug/m3 LC,75,Los Angeles-North Main Street
+8/4/14,AQS,60371103,9,19.2,ug/m3 LC,66,Los Angeles-North Main Street
+8/5/14,AQS,60371103,9,15.2,ug/m3 LC,58,Los Angeles-North Main Street
+8/6/14,AQS,60371103,9,17.2,ug/m3 LC,62,Los Angeles-North Main Street
+8/7/14,AQS,60371103,9,17.1,ug/m3 LC,62,Los Angeles-North Main Street
+8/8/14,AQS,60371103,9,23.2,ug/m3 LC,74,Los Angeles-North Main Street
+8/9/14,AQS,60371103,9,27.1,ug/m3 LC,83,Los Angeles-North Main Street
+8/10/14,AQS,60371103,9,24.2,ug/m3 LC,76,Los Angeles-North Main Street
+8/11/14,AQS,60371103,9,19.2,ug/m3 LC,66,Los Angeles-North Main Street
+8/13/14,AQS,60371103,9,16.2,ug/m3 LC,60,Los Angeles-North Main Street
+8/14/14,AQS,60371103,9,21,ug/m3 LC,70,Los Angeles-North Main Street
+8/15/14,AQS,60371103,9,17.9,ug/m3 LC,63,Los Angeles-North Main Street
+8/16/14,AQS,60371103,9,16.2,ug/m3 LC,60,Los Angeles-North Main Street
+8/17/14,AQS,60371103,9,17,ug/m3 LC,61,Los Angeles-North Main Street
+8/18/14,AQS,60371103,9,19.4,ug/m3 LC,66,Los Angeles-North Main Street
+8/19/14,AQS,60371103,9,15.7,ug/m3 LC,59,Los Angeles-North Main Street
+8/20/14,AQS,60371103,9,15.6,ug/m3 LC,58,Los Angeles-North Main Street
+8/21/14,AQS,60371103,9,15.1,ug/m3 LC,57,Los Angeles-North Main Street
+8/22/14,AQS,60371103,9,16.1,ug/m3 LC,59,Los Angeles-North Main Street
+8/23/14,AQS,60371103,9,17.3,ug/m3 LC,62,Los Angeles-North Main Street
+8/24/14,AQS,60371103,9,16,ug/m3 LC,59,Los Angeles-North Main Street
+8/25/14,AQS,60371103,9,16,ug/m3 LC,59,Los Angeles-North Main Street
+8/26/14,AQS,60371103,9,21.5,ug/m3 LC,71,Los Angeles-North Main Street
+8/27/14,AQS,60371103,9,17.3,ug/m3 LC,62,Los Angeles-North Main Street
+8/28/14,AQS,60371103,9,17.4,ug/m3 LC,62,Los Angeles-North Main Street
+8/29/14,AQS,60371103,9,22.5,ug/m3 LC,73,Los Angeles-North Main Street
+8/30/14,AQS,60371103,9,22.2,ug/m3 LC,72,Los Angeles-North Main Street
+8/31/14,AQS,60371103,9,20.7,ug/m3 LC,69,Los Angeles-North Main Street
+9/1/14,AQS,60371103,9,23.4,ug/m3 LC,75,Los Angeles-North Main Street
+9/2/14,AQS,60371103,9,21.7,ug/m3 LC,71,Los Angeles-North Main Street
+9/3/14,AQS,60371103,9,21,ug/m3 LC,70,Los Angeles-North Main Street
+9/4/14,AQS,60371103,9,21.5,ug/m3 LC,71,Los Angeles-North Main Street
+9/5/14,AQS,60371103,9,23,ug/m3 LC,74,Los Angeles-North Main Street
+9/6/14,AQS,60371103,9,25.7,ug/m3 LC,80,Los Angeles-North Main Street
+9/7/14,AQS,60371103,9,23,ug/m3 LC,74,Los Angeles-North Main Street
+9/8/14,AQS,60371103,9,22,ug/m3 LC,72,Los Angeles-North Main Street
+9/9/14,AQS,60371103,9,19,ug/m3 LC,66,Los Angeles-North Main Street
+9/10/14,AQS,60371103,9,19.6,ug/m3 LC,67,Los Angeles-North Main Street
+9/11/14,AQS,60371103,9,20.2,ug/m3 LC,68,Los Angeles-North Main Street
+9/12/14,AQS,60371103,9,24.6,ug/m3 LC,77,Los Angeles-North Main Street
+9/13/14,AQS,60371103,9,26,ug/m3 LC,80,Los Angeles-North Main Street
+9/14/14,AQS,60371103,9,23.7,ug/m3 LC,75,Los Angeles-North Main Street
+9/15/14,AQS,60371103,9,27.7,ug/m3 LC,84,Los Angeles-North Main Street
+9/16/14,AQS,60371103,9,22.2,ug/m3 LC,72,Los Angeles-North Main Street
+9/17/14,AQS,60371103,9,20.5,ug/m3 LC,69,Los Angeles-North Main Street
+9/18/14,AQS,60371103,9,14.1,ug/m3 LC,55,Los Angeles-North Main Street
+9/19/14,AQS,60371103,9,14.5,ug/m3 LC,56,Los Angeles-North Main Street
+9/20/14,AQS,60371103,9,15.6,ug/m3 LC,58,Los Angeles-North Main Street
+9/21/14,AQS,60371103,9,15.2,ug/m3 LC,58,Los Angeles-North Main Street
+9/22/14,AQS,60371103,9,18,ug/m3 LC,63,Los Angeles-North Main Street
+9/23/14,AQS,60371103,9,21,ug/m3 LC,70,Los Angeles-North Main Street
+9/24/14,AQS,60371103,9,17.7,ug/m3 LC,63,Los Angeles-North Main Street
+9/25/14,AQS,60371103,9,15.9,ug/m3 LC,59,Los Angeles-North Main Street
+9/26/14,AQS,60371103,9,13.9,ug/m3 LC,55,Los Angeles-North Main Street
+9/27/14,AQS,60371103,9,14.2,ug/m3 LC,55,Los Angeles-North Main Street
+9/28/14,AQS,60371103,9,14.3,ug/m3 LC,56,Los Angeles-North Main Street
+9/29/14,AQS,60371103,9,16.3,ug/m3 LC,60,Los Angeles-North Main Street
+9/30/14,AQS,60371103,9,19.5,ug/m3 LC,67,Los Angeles-North Main Street
+10/1/14,AQS,60371103,9,22,ug/m3 LC,72,Los Angeles-North Main Street
+10/2/14,AQS,60371103,9,15,ug/m3 LC,57,Los Angeles-North Main Street
+10/3/14,AQS,60371103,9,11,ug/m3 LC,46,Los Angeles-North Main Street
+10/4/14,AQS,60371103,9,12.9,ug/m3 LC,53,Los Angeles-North Main Street
+10/5/14,AQS,60371103,9,18,ug/m3 LC,63,Los Angeles-North Main Street
+10/6/14,AQS,60371103,9,19.6,ug/m3 LC,67,Los Angeles-North Main Street
+10/7/14,AQS,60371103,9,19.6,ug/m3 LC,67,Los Angeles-North Main Street
+10/8/14,AQS,60371103,9,20.2,ug/m3 LC,68,Los Angeles-North Main Street
+10/9/14,AQS,60371103,9,18.3,ug/m3 LC,64,Los Angeles-North Main Street
+10/10/14,AQS,60371103,9,24.2,ug/m3 LC,76,Los Angeles-North Main Street
+10/11/14,AQS,60371103,9,27.9,ug/m3 LC,84,Los Angeles-North Main Street
+10/12/14,AQS,60371103,9,31.7,ug/m3 LC,92,Los Angeles-North Main Street
+10/13/14,AQS,60371103,9,31.7,ug/m3 LC,92,Los Angeles-North Main Street
+10/14/14,AQS,60371103,9,28,ug/m3 LC,84,Los Angeles-North Main Street
+10/15/14,AQS,60371103,9,10,ug/m3 LC,42,Los Angeles-North Main Street
+10/18/14,AQS,60371103,9,13,ug/m3 LC,53,Los Angeles-North Main Street
+10/19/14,AQS,60371103,9,16.2,ug/m3 LC,60,Los Angeles-North Main Street
+10/20/14,AQS,60371103,9,20.1,ug/m3 LC,68,Los Angeles-North Main Street
+10/21/14,AQS,60371103,9,23.1,ug/m3 LC,74,Los Angeles-North Main Street
+10/22/14,AQS,60371103,9,19.1,ug/m3 LC,66,Los Angeles-North Main Street
+10/23/14,AQS,60371103,9,28.1,ug/m3 LC,85,Los Angeles-North Main Street
+10/24/14,AQS,60371103,9,26.3,ug/m3 LC,81,Los Angeles-North Main Street
+10/25/14,AQS,60371103,9,14.3,ug/m3 LC,56,Los Angeles-North Main Street
+10/26/14,AQS,60371103,9,12.9,ug/m3 LC,53,Los Angeles-North Main Street
+10/27/14,AQS,60371103,9,16.3,ug/m3 LC,60,Los Angeles-North Main Street
+10/28/14,AQS,60371103,9,18.5,ug/m3 LC,64,Los Angeles-North Main Street
+10/29/14,AQS,60371103,9,16.5,ug/m3 LC,60,Los Angeles-North Main Street
+10/30/14,AQS,60371103,9,17.5,ug/m3 LC,62,Los Angeles-North Main Street
+10/31/14,AQS,60371103,9,17.1,ug/m3 LC,62,Los Angeles-North Main Street
+11/1/14,AQS,60371103,9,5.7,ug/m3 LC,24,Los Angeles-North Main Street
+11/2/14,AQS,60371103,9,9.2,ug/m3 LC,38,Los Angeles-North Main Street
+11/3/14,AQS,60371103,9,11.6,ug/m3 LC,48,Los Angeles-North Main Street
+11/4/14,AQS,60371103,9,12.3,ug/m3 LC,51,Los Angeles-North Main Street
+11/5/14,AQS,60371103,9,22,ug/m3 LC,72,Los Angeles-North Main Street
+11/6/14,AQS,60371103,9,23.5,ug/m3 LC,75,Los Angeles-North Main Street
+11/7/14,AQS,60371103,9,10.4,ug/m3 LC,43,Los Angeles-North Main Street
+11/8/14,AQS,60371103,9,14.1,ug/m3 LC,55,Los Angeles-North Main Street
+11/9/14,AQS,60371103,9,25.2,ug/m3 LC,79,Los Angeles-North Main Street
+11/10/14,AQS,60371103,9,28,ug/m3 LC,84,Los Angeles-North Main Street
+11/11/14,AQS,60371103,9,13,ug/m3 LC,53,Los Angeles-North Main Street
+11/12/14,AQS,60371103,9,8.2,ug/m3 LC,34,Los Angeles-North Main Street
+11/13/14,AQS,60371103,9,16.1,ug/m3 LC,59,Los Angeles-North Main Street
+11/14/14,AQS,60371103,9,20.5,ug/m3 LC,69,Los Angeles-North Main Street
+11/15/14,AQS,60371103,9,18.2,ug/m3 LC,64,Los Angeles-North Main Street
+11/16/14,AQS,60371103,9,18.1,ug/m3 LC,64,Los Angeles-North Main Street
+11/17/14,AQS,60371103,9,9.2,ug/m3 LC,38,Los Angeles-North Main Street
+11/18/14,AQS,60371103,9,9.5,ug/m3 LC,40,Los Angeles-North Main Street
+11/19/14,AQS,60371103,9,14.5,ug/m3 LC,56,Los Angeles-North Main Street
+11/20/14,AQS,60371103,9,14.4,ug/m3 LC,56,Los Angeles-North Main Street
+11/21/14,AQS,60371103,9,9.4,ug/m3 LC,39,Los Angeles-North Main Street
+11/22/14,AQS,60371103,9,12,ug/m3 LC,50,Los Angeles-North Main Street
+11/23/14,AQS,60371103,9,13.8,ug/m3 LC,55,Los Angeles-North Main Street
+11/24/14,AQS,60371103,9,7.5,ug/m3 LC,31,Los Angeles-North Main Street
+11/25/14,AQS,60371103,9,8.7,ug/m3 LC,36,Los Angeles-North Main Street
+11/26/14,AQS,60371103,9,14.1,ug/m3 LC,55,Los Angeles-North Main Street
+11/27/14,AQS,60371103,9,11.4,ug/m3 LC,48,Los Angeles-North Main Street
+11/28/14,AQS,60371103,9,17.6,ug/m3 LC,63,Los Angeles-North Main Street
+11/29/14,AQS,60371103,9,20.5,ug/m3 LC,69,Los Angeles-North Main Street
+11/30/14,AQS,60371103,9,13.6,ug/m3 LC,54,Los Angeles-North Main Street
+12/1/14,AQS,60371103,9,14.7,ug/m3 LC,56,Los Angeles-North Main Street
+12/2/14,AQS,60371103,9,9.6,ug/m3 LC,40,Los Angeles-North Main Street
+12/5/14,AQS,60371103,9,20,ug/m3 LC,68,Los Angeles-North Main Street
+12/6/14,AQS,60371103,9,19.8,ug/m3 LC,67,Los Angeles-North Main Street
+12/7/14,AQS,60371103,9,14.6,ug/m3 LC,56,Los Angeles-North Main Street
+12/8/14,AQS,60371103,9,12.1,ug/m3 LC,51,Los Angeles-North Main Street
+12/9/14,AQS,60371103,9,13.4,ug/m3 LC,54,Los Angeles-North Main Street
+12/10/14,AQS,60371103,9,30.4,ug/m3 LC,89,Los Angeles-North Main Street
+12/11/14,AQS,60371103,9,28.4,ug/m3 LC,85,Los Angeles-North Main Street
+12/12/14,AQS,60371103,9,8,ug/m3 LC,33,Los Angeles-North Main Street
+12/13/14,AQS,60371103,9,12.4,ug/m3 LC,52,Los Angeles-North Main Street
+12/14/14,AQS,60371103,9,14.7,ug/m3 LC,56,Los Angeles-North Main Street
+12/15/14,AQS,60371103,9,17.7,ug/m3 LC,63,Los Angeles-North Main Street
+12/16/14,AQS,60371103,9,17.1,ug/m3 LC,62,Los Angeles-North Main Street
+12/17/14,AQS,60371103,9,10.4,ug/m3 LC,43,Los Angeles-North Main Street
+12/18/14,AQS,60371103,9,14.6,ug/m3 LC,56,Los Angeles-North Main Street
+12/19/14,AQS,60371103,9,19.7,ug/m3 LC,67,Los Angeles-North Main Street
+12/20/14,AQS,60371103,9,29.5,ug/m3 LC,88,Los Angeles-North Main Street
+12/21/14,AQS,60371103,9,40.8,ug/m3 LC,114,Los Angeles-North Main Street
+12/22/14,AQS,60371103,9,31.2,ug/m3 LC,91,Los Angeles-North Main Street
+12/23/14,AQS,60371103,9,21,ug/m3 LC,70,Los Angeles-North Main Street
+12/24/14,AQS,60371103,9,14.1,ug/m3 LC,55,Los Angeles-North Main Street
+12/25/14,AQS,60371103,9,6.8,ug/m3 LC,28,Los Angeles-North Main Street
+12/26/14,AQS,60371103,9,8.5,ug/m3 LC,35,Los Angeles-North Main Street
+12/27/14,AQS,60371103,9,11.7,ug/m3 LC,49,Los Angeles-North Main Street
+12/28/14,AQS,60371103,9,13.5,ug/m3 LC,54,Los Angeles-North Main Street
+12/29/14,AQS,60371103,9,20.3,ug/m3 LC,68,Los Angeles-North Main Street
+12/30/14,AQS,60371103,9,21.5,ug/m3 LC,71,Los Angeles-North Main Street
+12/31/14,AQS,60371103,9,11,ug/m3 LC,46,Los Angeles-North Main Street
+1/11/14,AQS,60371103,11,27.7,ug/m3 LC,84,Los Angeles-North Main Street
+1/17/14,AQS,60371103,11,15.5,ug/m3 LC,58,Los Angeles-North Main Street
+1/23/14,AQS,60371103,11,33.5,ug/m3 LC,96,Los Angeles-North Main Street
+1/29/14,AQS,60371103,11,37.1,ug/m3 LC,105,Los Angeles-North Main Street
+2/4/14,AQS,60371103,11,10.2,ug/m3 LC,43,Los Angeles-North Main Street
+3/6/14,AQS,60371103,11,16.5,ug/m3 LC,60,Los Angeles-North Main Street
+3/12/14,AQS,60371103,11,11.3,ug/m3 LC,47,Los Angeles-North Main Street
+3/18/14,AQS,60371103,11,16.7,ug/m3 LC,61,Los Angeles-North Main Street
+3/24/14,AQS,60371103,11,22.9,ug/m3 LC,74,Los Angeles-North Main Street
+3/30/14,AQS,60371103,11,5.5,ug/m3 LC,23,Los Angeles-North Main Street
+4/5/14,AQS,60371103,11,8.6,ug/m3 LC,36,Los Angeles-North Main Street
+4/11/14,AQS,60371103,11,14.6,ug/m3 LC,56,Los Angeles-North Main Street
+4/17/14,AQS,60371103,11,17.5,ug/m3 LC,62,Los Angeles-North Main Street
+4/23/14,AQS,60371103,11,11.8,ug/m3 LC,49,Los Angeles-North Main Street
+4/29/14,AQS,60371103,11,12,ug/m3 LC,50,Los Angeles-North Main Street
+5/5/14,AQS,60371103,11,12.5,ug/m3 LC,52,Los Angeles-North Main Street
+5/11/14,AQS,60371103,11,9.5,ug/m3 LC,40,Los Angeles-North Main Street
+5/17/14,AQS,60371103,11,27.4,ug/m3 LC,83,Los Angeles-North Main Street
+5/23/14,AQS,60371103,11,53.3,ug/m3 LC,145,Los Angeles-North Main Street
+5/29/14,AQS,60371103,11,20.1,ug/m3 LC,68,Los Angeles-North Main Street
+6/4/14,AQS,60371103,11,19.9,ug/m3 LC,67,Los Angeles-North Main Street
+6/10/14,AQS,60371103,11,17.5,ug/m3 LC,62,Los Angeles-North Main Street
+6/16/14,AQS,60371103,11,20.3,ug/m3 LC,68,Los Angeles-North Main Street
+6/22/14,AQS,60371103,11,20.4,ug/m3 LC,68,Los Angeles-North Main Street
+6/28/14,AQS,60371103,11,16.7,ug/m3 LC,61,Los Angeles-North Main Street
+7/4/14,AQS,60371103,11,41.3,ug/m3 LC,115,Los Angeles-North Main Street
+7/10/14,AQS,60371103,11,13.6,ug/m3 LC,54,Los Angeles-North Main Street
+7/16/14,AQS,60371103,11,9,ug/m3 LC,38,Los Angeles-North Main Street
+7/22/14,AQS,60371103,11,12.5,ug/m3 LC,52,Los Angeles-North Main Street
+7/28/14,AQS,60371103,11,10.8,ug/m3 LC,45,Los Angeles-North Main Street
+8/3/14,AQS,60371103,11,14.6,ug/m3 LC,56,Los Angeles-North Main Street
+8/9/14,AQS,60371103,11,14.7,ug/m3 LC,56,Los Angeles-North Main Street
+8/15/14,AQS,60371103,11,10.3,ug/m3 LC,43,Los Angeles-North Main Street
+8/21/14,AQS,60371103,11,7.9,ug/m3 LC,33,Los Angeles-North Main Street
+8/27/14,AQS,60371103,11,19,ug/m3 LC,66,Los Angeles-North Main Street
+9/2/14,AQS,60371103,11,13.4,ug/m3 LC,54,Los Angeles-North Main Street
+9/8/14,AQS,60371103,11,16.4,ug/m3 LC,60,Los Angeles-North Main Street
+9/14/14,AQS,60371103,11,19.1,ug/m3 LC,66,Los Angeles-North Main Street
+9/20/14,AQS,60371103,11,12.1,ug/m3 LC,51,Los Angeles-North Main Street
+11/13/14,AQS,60371103,11,11.8,ug/m3 LC,49,Los Angeles-North Main Street
+11/19/14,AQS,60371103,11,13.9,ug/m3 LC,55,Los Angeles-North Main Street
+12/7/14,AQS,60371103,11,9.5,ug/m3 LC,40,Los Angeles-North Main Street
+12/13/14,AQS,60371103,11,12.5,ug/m3 LC,52,Los Angeles-North Main Street
+12/19/14,AQS,60371103,11,14.4,ug/m3 LC,56,Los Angeles-North Main Street
+12/25/14,AQS,60371103,11,5,ug/m3 LC,21,Los Angeles-North Main Street
+12/31/14,AQS,60371103,11,13.6,ug/m3 LC,54,Los Angeles-North Main Street
+1/11/14,AQS,60371103,12,27.1,ug/m3 LC,83,Los Angeles-North Main Street
+1/17/14,AQS,60371103,12,14.4,ug/m3 LC,56,Los Angeles-North Main Street
+1/23/14,AQS,60371103,12,29.5,ug/m3 LC,88,Los Angeles-North Main Street
+1/29/14,AQS,60371103,12,35.3,ug/m3 LC,100,Los Angeles-North Main Street
+2/4/14,AQS,60371103,12,9,ug/m3 LC,38,Los Angeles-North Main Street
+3/6/14,AQS,60371103,12,15,ug/m3 LC,57,Los Angeles-North Main Street
+3/12/14,AQS,60371103,12,10.9,ug/m3 LC,45,Los Angeles-North Main Street
+3/18/14,AQS,60371103,12,16.7,ug/m3 LC,61,Los Angeles-North Main Street
+3/24/14,AQS,60371103,12,22.9,ug/m3 LC,74,Los Angeles-North Main Street
+3/30/14,AQS,60371103,12,6.9,ug/m3 LC,29,Los Angeles-North Main Street
+4/5/14,AQS,60371103,12,7.6,ug/m3 LC,32,Los Angeles-North Main Street
+4/11/14,AQS,60371103,12,14.6,ug/m3 LC,56,Los Angeles-North Main Street
+4/17/14,AQS,60371103,12,15.4,ug/m3 LC,58,Los Angeles-North Main Street
+4/23/14,AQS,60371103,12,10.1,ug/m3 LC,42,Los Angeles-North Main Street
+5/5/14,AQS,60371103,12,10.2,ug/m3 LC,43,Los Angeles-North Main Street
+5/11/14,AQS,60371103,12,9.1,ug/m3 LC,38,Los Angeles-North Main Street
+5/17/14,AQS,60371103,12,20.7,ug/m3 LC,69,Los Angeles-North Main Street
+5/24/14,AQS,60371103,12,12.9,ug/m3 LC,53,Los Angeles-North Main Street
+5/29/14,AQS,60371103,12,14.8,ug/m3 LC,57,Los Angeles-North Main Street
+6/10/14,AQS,60371103,12,14.2,ug/m3 LC,55,Los Angeles-North Main Street
+6/16/14,AQS,60371103,12,14.4,ug/m3 LC,56,Los Angeles-North Main Street
+6/28/14,AQS,60371103,12,14.9,ug/m3 LC,57,Los Angeles-North Main Street
+7/4/14,AQS,60371103,12,39.9,ug/m3 LC,112,Los Angeles-North Main Street
+7/10/14,AQS,60371103,12,10.7,ug/m3 LC,45,Los Angeles-North Main Street
+7/16/14,AQS,60371103,12,8.4,ug/m3 LC,35,Los Angeles-North Main Street
+7/22/14,AQS,60371103,12,8.4,ug/m3 LC,35,Los Angeles-North Main Street
+8/9/14,AQS,60371103,12,15.2,ug/m3 LC,58,Los Angeles-North Main Street
+8/15/14,AQS,60371103,12,10.4,ug/m3 LC,43,Los Angeles-North Main Street
+8/21/14,AQS,60371103,12,8.1,ug/m3 LC,34,Los Angeles-North Main Street
+8/27/14,AQS,60371103,12,13.8,ug/m3 LC,55,Los Angeles-North Main Street
+9/8/14,AQS,60371103,12,15.6,ug/m3 LC,58,Los Angeles-North Main Street
+9/14/14,AQS,60371103,12,18.7,ug/m3 LC,65,Los Angeles-North Main Street
+11/13/14,AQS,60371103,12,6,ug/m3 LC,25,Los Angeles-North Main Street
+11/19/14,AQS,60371103,12,13.1,ug/m3 LC,53,Los Angeles-North Main Street
+12/7/14,AQS,60371103,12,9.7,ug/m3 LC,40,Los Angeles-North Main Street
+12/13/14,AQS,60371103,12,15.4,ug/m3 LC,58,Los Angeles-North Main Street
+12/19/14,AQS,60371103,12,14.2,ug/m3 LC,55,Los Angeles-North Main Street
+12/25/14,AQS,60371103,12,4.3,ug/m3 LC,18,Los Angeles-North Main Street
+12/31/14,AQS,60371103,12,14.1,ug/m3 LC,55,Los Angeles-North Main Street
+1/2/14,AQS,60371201,1,9.1,ug/m3 LC,38,Reseda
+1/5/14,AQS,60371201,1,14.7,ug/m3 LC,56,Reseda
+1/8/14,AQS,60371201,1,27.2,ug/m3 LC,83,Reseda
+1/11/14,AQS,60371201,1,14.2,ug/m3 LC,55,Reseda
+1/14/14,AQS,60371201,1,2.7,ug/m3 LC,11,Reseda
+1/17/14,AQS,60371201,1,6.7,ug/m3 LC,28,Reseda
+1/20/14,AQS,60371201,1,13.7,ug/m3 LC,54,Reseda
+1/23/14,AQS,60371201,1,20.9,ug/m3 LC,70,Reseda
+1/26/14,AQS,60371201,1,13.7,ug/m3 LC,54,Reseda
+1/29/14,AQS,60371201,1,17.6,ug/m3 LC,63,Reseda
+2/1/14,AQS,60371201,1,5.7,ug/m3 LC,24,Reseda
+2/4/14,AQS,60371201,1,8.1,ug/m3 LC,34,Reseda
+2/7/14,AQS,60371201,1,8.9,ug/m3 LC,37,Reseda
+2/10/14,AQS,60371201,1,6.6,ug/m3 LC,28,Reseda
+2/13/14,AQS,60371201,1,11.7,ug/m3 LC,49,Reseda
+2/16/14,AQS,60371201,1,19.7,ug/m3 LC,67,Reseda
+2/19/14,AQS,60371201,1,10,ug/m3 LC,42,Reseda
+2/22/14,AQS,60371201,1,15.5,ug/m3 LC,58,Reseda
+2/25/14,AQS,60371201,1,23.9,ug/m3 LC,76,Reseda
+2/28/14,AQS,60371201,1,3,ug/m3 LC,13,Reseda
+3/3/14,AQS,60371201,1,5.3,ug/m3 LC,22,Reseda
+3/6/14,AQS,60371201,1,9.2,ug/m3 LC,38,Reseda
+3/12/14,AQS,60371201,1,5.5,ug/m3 LC,23,Reseda
+3/15/14,AQS,60371201,1,7.1,ug/m3 LC,30,Reseda
+3/18/14,AQS,60371201,1,3.6,ug/m3 LC,15,Reseda
+3/21/14,AQS,60371201,1,11.5,ug/m3 LC,48,Reseda
+3/24/14,AQS,60371201,1,15.3,ug/m3 LC,58,Reseda
+3/27/14,AQS,60371201,1,5.5,ug/m3 LC,23,Reseda
+3/30/14,AQS,60371201,1,3.3,ug/m3 LC,14,Reseda
+4/2/14,AQS,60371201,1,2.7,ug/m3 LC,11,Reseda
+4/5/14,AQS,60371201,1,4.7,ug/m3 LC,20,Reseda
+4/8/14,AQS,60371201,1,6.6,ug/m3 LC,28,Reseda
+4/11/14,AQS,60371201,1,8.4,ug/m3 LC,35,Reseda
+4/17/14,AQS,60371201,1,16.8,ug/m3 LC,61,Reseda
+5/14/14,AQS,60371201,1,4.8,ug/m3 LC,20,Reseda
+10/11/14,AQS,60371201,1,12.2,ug/m3 LC,51,Reseda
+10/14/14,AQS,60371201,1,12.5,ug/m3 LC,52,Reseda
+11/25/14,AQS,60371201,1,7.2,ug/m3 LC,30,Reseda
+11/28/14,AQS,60371201,1,18.5,ug/m3 LC,64,Reseda
+12/1/14,AQS,60371201,1,15.5,ug/m3 LC,58,Reseda
+1/1/14,AQS,60371201,3,55.9,ug/m3 LC,151,Reseda
+1/2/14,AQS,60371201,3,10.8,ug/m3 LC,45,Reseda
+1/3/14,AQS,60371201,3,16.7,ug/m3 LC,61,Reseda
+1/4/14,AQS,60371201,3,32.5,ug/m3 LC,94,Reseda
+1/5/14,AQS,60371201,3,16.7,ug/m3 LC,61,Reseda
+1/6/14,AQS,60371201,3,5.3,ug/m3 LC,22,Reseda
+1/7/14,AQS,60371201,3,16.8,ug/m3 LC,61,Reseda
+1/8/14,AQS,60371201,3,30.6,ug/m3 LC,90,Reseda
+1/9/14,AQS,60371201,3,25.2,ug/m3 LC,79,Reseda
+1/10/14,AQS,60371201,3,23.7,ug/m3 LC,75,Reseda
+1/11/14,AQS,60371201,3,27.1,ug/m3 LC,83,Reseda
+1/12/14,AQS,60371201,3,7.8,ug/m3 LC,33,Reseda
+1/13/14,AQS,60371201,3,1.6,ug/m3 LC,7,Reseda
+1/14/14,AQS,60371201,3,1.8,ug/m3 LC,8,Reseda
+1/15/14,AQS,60371201,3,2.7,ug/m3 LC,11,Reseda
+1/16/14,AQS,60371201,3,2.3,ug/m3 LC,10,Reseda
+1/17/14,AQS,60371201,3,5.5,ug/m3 LC,23,Reseda
+1/18/14,AQS,60371201,3,10.9,ug/m3 LC,45,Reseda
+1/19/14,AQS,60371201,3,15.1,ug/m3 LC,57,Reseda
+1/20/14,AQS,60371201,3,15.3,ug/m3 LC,58,Reseda
+1/21/14,AQS,60371201,3,8.3,ug/m3 LC,35,Reseda
+1/22/14,AQS,60371201,3,9.4,ug/m3 LC,39,Reseda
+1/23/14,AQS,60371201,3,21.8,ug/m3 LC,71,Reseda
+1/24/14,AQS,60371201,3,12.2,ug/m3 LC,51,Reseda
+1/25/14,AQS,60371201,3,11.7,ug/m3 LC,49,Reseda
+1/26/14,AQS,60371201,3,15.7,ug/m3 LC,59,Reseda
+1/27/14,AQS,60371201,3,16.6,ug/m3 LC,60,Reseda
+1/28/14,AQS,60371201,3,18.8,ug/m3 LC,65,Reseda
+1/29/14,AQS,60371201,3,24.4,ug/m3 LC,77,Reseda
+1/30/14,AQS,60371201,3,25.7,ug/m3 LC,80,Reseda
+1/31/14,AQS,60371201,3,5.8,ug/m3 LC,24,Reseda
+2/1/14,AQS,60371201,3,5.7,ug/m3 LC,24,Reseda
+2/2/14,AQS,60371201,3,10.8,ug/m3 LC,45,Reseda
+2/3/14,AQS,60371201,3,7,ug/m3 LC,29,Reseda
+2/4/14,AQS,60371201,3,10.2,ug/m3 LC,43,Reseda
+2/5/14,AQS,60371201,3,13.6,ug/m3 LC,54,Reseda
+2/6/14,AQS,60371201,3,16.7,ug/m3 LC,61,Reseda
+2/7/14,AQS,60371201,3,15.9,ug/m3 LC,59,Reseda
+2/8/14,AQS,60371201,3,12.3,ug/m3 LC,51,Reseda
+2/9/14,AQS,60371201,3,15.6,ug/m3 LC,58,Reseda
+2/10/14,AQS,60371201,3,12,ug/m3 LC,50,Reseda
+2/11/14,AQS,60371201,3,8.6,ug/m3 LC,36,Reseda
+2/12/14,AQS,60371201,3,8.7,ug/m3 LC,36,Reseda
+2/13/14,AQS,60371201,3,14.8,ug/m3 LC,57,Reseda
+2/14/14,AQS,60371201,3,18.9,ug/m3 LC,65,Reseda
+2/15/14,AQS,60371201,3,31.2,ug/m3 LC,91,Reseda
+2/16/14,AQS,60371201,3,24.9,ug/m3 LC,78,Reseda
+2/17/14,AQS,60371201,3,20.2,ug/m3 LC,68,Reseda
+2/18/14,AQS,60371201,3,30.7,ug/m3 LC,90,Reseda
+2/19/14,AQS,60371201,3,18.4,ug/m3 LC,64,Reseda
+2/20/14,AQS,60371201,3,8.9,ug/m3 LC,37,Reseda
+2/21/14,AQS,60371201,3,11.4,ug/m3 LC,48,Reseda
+2/22/14,AQS,60371201,3,20.1,ug/m3 LC,68,Reseda
+2/23/14,AQS,60371201,3,22,ug/m3 LC,72,Reseda
+2/24/14,AQS,60371201,3,21.7,ug/m3 LC,71,Reseda
+2/25/14,AQS,60371201,3,30.9,ug/m3 LC,91,Reseda
+2/26/14,AQS,60371201,3,14.2,ug/m3 LC,55,Reseda
+2/27/14,AQS,60371201,3,9.9,ug/m3 LC,41,Reseda
+2/28/14,AQS,60371201,3,7.6,ug/m3 LC,32,Reseda
+3/1/14,AQS,60371201,3,10.6,ug/m3 LC,44,Reseda
+3/2/14,AQS,60371201,3,16.8,ug/m3 LC,61,Reseda
+3/3/14,AQS,60371201,3,12.6,ug/m3 LC,52,Reseda
+3/4/14,AQS,60371201,3,17,ug/m3 LC,61,Reseda
+3/5/14,AQS,60371201,3,17.4,ug/m3 LC,62,Reseda
+3/6/14,AQS,60371201,3,19.9,ug/m3 LC,67,Reseda
+3/7/14,AQS,60371201,3,6.3,ug/m3 LC,26,Reseda
+3/8/14,AQS,60371201,3,4.3,ug/m3 LC,18,Reseda
+3/9/14,AQS,60371201,3,5.8,ug/m3 LC,24,Reseda
+3/10/14,AQS,60371201,3,8.8,ug/m3 LC,37,Reseda
+3/11/14,AQS,60371201,3,11.6,ug/m3 LC,48,Reseda
+3/12/14,AQS,60371201,3,6.9,ug/m3 LC,29,Reseda
+3/13/14,AQS,60371201,3,15.2,ug/m3 LC,58,Reseda
+3/14/14,AQS,60371201,3,13.8,ug/m3 LC,55,Reseda
+3/15/14,AQS,60371201,3,10.2,ug/m3 LC,43,Reseda
+3/16/14,AQS,60371201,3,9.3,ug/m3 LC,39,Reseda
+3/17/14,AQS,60371201,3,9.6,ug/m3 LC,40,Reseda
+3/18/14,AQS,60371201,3,13.5,ug/m3 LC,54,Reseda
+3/19/14,AQS,60371201,3,11.9,ug/m3 LC,50,Reseda
+3/20/14,AQS,60371201,3,12.8,ug/m3 LC,52,Reseda
+3/21/14,AQS,60371201,3,16.9,ug/m3 LC,61,Reseda
+3/22/14,AQS,60371201,3,16.9,ug/m3 LC,61,Reseda
+3/23/14,AQS,60371201,3,15.7,ug/m3 LC,59,Reseda
+3/24/14,AQS,60371201,3,23.7,ug/m3 LC,75,Reseda
+3/25/14,AQS,60371201,3,21.6,ug/m3 LC,71,Reseda
+3/26/14,AQS,60371201,3,6.7,ug/m3 LC,28,Reseda
+3/27/14,AQS,60371201,3,7.8,ug/m3 LC,33,Reseda
+3/28/14,AQS,60371201,3,14.2,ug/m3 LC,55,Reseda
+3/29/14,AQS,60371201,3,13.9,ug/m3 LC,55,Reseda
+3/30/14,AQS,60371201,3,5.6,ug/m3 LC,23,Reseda
+3/31/14,AQS,60371201,3,8.9,ug/m3 LC,37,Reseda
+4/1/14,AQS,60371201,3,5.1,ug/m3 LC,21,Reseda
+4/2/14,AQS,60371201,3,5.2,ug/m3 LC,22,Reseda
+4/3/14,AQS,60371201,3,8.7,ug/m3 LC,36,Reseda
+4/4/14,AQS,60371201,3,9.3,ug/m3 LC,39,Reseda
+4/5/14,AQS,60371201,3,8,ug/m3 LC,33,Reseda
+4/6/14,AQS,60371201,3,6,ug/m3 LC,25,Reseda
+4/7/14,AQS,60371201,3,7.4,ug/m3 LC,31,Reseda
+4/8/14,AQS,60371201,3,7.5,ug/m3 LC,31,Reseda
+4/9/14,AQS,60371201,3,6.2,ug/m3 LC,26,Reseda
+4/10/14,AQS,60371201,3,6.1,ug/m3 LC,25,Reseda
+4/11/14,AQS,60371201,3,11.4,ug/m3 LC,48,Reseda
+4/12/14,AQS,60371201,3,16.7,ug/m3 LC,61,Reseda
+4/13/14,AQS,60371201,3,14.2,ug/m3 LC,55,Reseda
+4/14/14,AQS,60371201,3,12.9,ug/m3 LC,53,Reseda
+4/15/14,AQS,60371201,3,13.1,ug/m3 LC,53,Reseda
+4/16/14,AQS,60371201,3,27.1,ug/m3 LC,83,Reseda
+4/17/14,AQS,60371201,3,25.8,ug/m3 LC,80,Reseda
+4/18/14,AQS,60371201,3,17,ug/m3 LC,61,Reseda
+4/19/14,AQS,60371201,3,17.2,ug/m3 LC,62,Reseda
+4/20/14,AQS,60371201,3,19.5,ug/m3 LC,67,Reseda
+4/21/14,AQS,60371201,3,17.3,ug/m3 LC,62,Reseda
+4/22/14,AQS,60371201,3,17.8,ug/m3 LC,63,Reseda
+4/23/14,AQS,60371201,3,9,ug/m3 LC,38,Reseda
+4/24/14,AQS,60371201,3,8.3,ug/m3 LC,35,Reseda
+4/25/14,AQS,60371201,3,12.1,ug/m3 LC,51,Reseda
+4/26/14,AQS,60371201,3,5.5,ug/m3 LC,23,Reseda
+4/27/14,AQS,60371201,3,8.2,ug/m3 LC,34,Reseda
+4/28/14,AQS,60371201,3,6.4,ug/m3 LC,27,Reseda
+4/29/14,AQS,60371201,3,4.6,ug/m3 LC,19,Reseda
+4/30/14,AQS,60371201,3,4.1,ug/m3 LC,17,Reseda
+5/1/14,AQS,60371201,3,4.6,ug/m3 LC,19,Reseda
+5/2/14,AQS,60371201,3,10.2,ug/m3 LC,43,Reseda
+5/3/14,AQS,60371201,3,16.4,ug/m3 LC,60,Reseda
+5/4/14,AQS,60371201,3,12.7,ug/m3 LC,52,Reseda
+5/5/14,AQS,60371201,3,12.6,ug/m3 LC,52,Reseda
+5/6/14,AQS,60371201,3,8,ug/m3 LC,33,Reseda
+5/7/14,AQS,60371201,3,12.1,ug/m3 LC,51,Reseda
+5/8/14,AQS,60371201,3,14.7,ug/m3 LC,56,Reseda
+5/9/14,AQS,60371201,3,14.4,ug/m3 LC,56,Reseda
+5/10/14,AQS,60371201,3,11.7,ug/m3 LC,49,Reseda
+5/11/14,AQS,60371201,3,5.5,ug/m3 LC,23,Reseda
+5/12/14,AQS,60371201,3,3.6,ug/m3 LC,15,Reseda
+5/13/14,AQS,60371201,3,5.5,ug/m3 LC,23,Reseda
+5/14/14,AQS,60371201,3,3.7,ug/m3 LC,15,Reseda
+5/15/14,AQS,60371201,3,11.9,ug/m3 LC,50,Reseda
+5/16/14,AQS,60371201,3,19.5,ug/m3 LC,67,Reseda
+5/17/14,AQS,60371201,3,29.2,ug/m3 LC,87,Reseda
+5/18/14,AQS,60371201,3,27,ug/m3 LC,82,Reseda
+5/19/14,AQS,60371201,3,22.5,ug/m3 LC,73,Reseda
+5/20/14,AQS,60371201,3,16.4,ug/m3 LC,60,Reseda
+5/21/14,AQS,60371201,3,18.1,ug/m3 LC,64,Reseda
+5/22/14,AQS,60371201,3,19.3,ug/m3 LC,66,Reseda
+5/23/14,AQS,60371201,3,19.7,ug/m3 LC,67,Reseda
+5/24/14,AQS,60371201,3,25.5,ug/m3 LC,79,Reseda
+5/25/14,AQS,60371201,3,23.4,ug/m3 LC,75,Reseda
+5/26/14,AQS,60371201,3,25.7,ug/m3 LC,80,Reseda
+5/27/14,AQS,60371201,3,26.5,ug/m3 LC,81,Reseda
+5/28/14,AQS,60371201,3,30.9,ug/m3 LC,91,Reseda
+5/29/14,AQS,60371201,3,25.3,ug/m3 LC,79,Reseda
+5/30/14,AQS,60371201,3,27.3,ug/m3 LC,83,Reseda
+5/31/14,AQS,60371201,3,27.2,ug/m3 LC,83,Reseda
+6/1/14,AQS,60371201,3,25.8,ug/m3 LC,80,Reseda
+6/2/14,AQS,60371201,3,24.4,ug/m3 LC,77,Reseda
+6/3/14,AQS,60371201,3,18.9,ug/m3 LC,65,Reseda
+6/4/14,AQS,60371201,3,17.7,ug/m3 LC,63,Reseda
+6/5/14,AQS,60371201,3,25.7,ug/m3 LC,80,Reseda
+6/6/14,AQS,60371201,3,26.7,ug/m3 LC,82,Reseda
+6/7/14,AQS,60371201,3,30.5,ug/m3 LC,90,Reseda
+6/8/14,AQS,60371201,3,28.3,ug/m3 LC,85,Reseda
+6/9/14,AQS,60371201,3,27.1,ug/m3 LC,83,Reseda
+6/10/14,AQS,60371201,3,28.5,ug/m3 LC,85,Reseda
+6/11/14,AQS,60371201,3,20.8,ug/m3 LC,69,Reseda
+6/12/14,AQS,60371201,3,22.3,ug/m3 LC,72,Reseda
+6/13/14,AQS,60371201,3,20.9,ug/m3 LC,70,Reseda
+6/14/14,AQS,60371201,3,25,ug/m3 LC,78,Reseda
+6/15/14,AQS,60371201,3,25.4,ug/m3 LC,79,Reseda
+6/16/14,AQS,60371201,3,23.5,ug/m3 LC,75,Reseda
+6/17/14,AQS,60371201,3,19.4,ug/m3 LC,66,Reseda
+6/18/14,AQS,60371201,3,21.5,ug/m3 LC,71,Reseda
+6/19/14,AQS,60371201,3,24.7,ug/m3 LC,77,Reseda
+6/20/14,AQS,60371201,3,25.7,ug/m3 LC,80,Reseda
+6/21/14,AQS,60371201,3,25.6,ug/m3 LC,79,Reseda
+6/22/14,AQS,60371201,3,27.2,ug/m3 LC,83,Reseda
+6/23/14,AQS,60371201,3,28.1,ug/m3 LC,85,Reseda
+6/24/14,AQS,60371201,3,30.2,ug/m3 LC,89,Reseda
+6/25/14,AQS,60371201,3,28.1,ug/m3 LC,85,Reseda
+6/26/14,AQS,60371201,3,25.5,ug/m3 LC,79,Reseda
+6/27/14,AQS,60371201,3,21.4,ug/m3 LC,71,Reseda
+6/28/14,AQS,60371201,3,25.4,ug/m3 LC,79,Reseda
+6/29/14,AQS,60371201,3,28.3,ug/m3 LC,85,Reseda
+6/30/14,AQS,60371201,3,28.1,ug/m3 LC,85,Reseda
+7/1/14,AQS,60371201,3,24,ug/m3 LC,76,Reseda
+7/2/14,AQS,60371201,3,23.8,ug/m3 LC,76,Reseda
+7/3/14,AQS,60371201,3,25.5,ug/m3 LC,79,Reseda
+7/4/14,AQS,60371201,3,28.4,ug/m3 LC,85,Reseda
+7/5/14,AQS,60371201,3,30.4,ug/m3 LC,89,Reseda
+7/6/14,AQS,60371201,3,23.1,ug/m3 LC,74,Reseda
+7/7/14,AQS,60371201,3,19.7,ug/m3 LC,67,Reseda
+7/8/14,AQS,60371201,3,23.3,ug/m3 LC,75,Reseda
+7/9/14,AQS,60371201,3,25,ug/m3 LC,78,Reseda
+7/10/14,AQS,60371201,3,22.7,ug/m3 LC,73,Reseda
+7/11/14,AQS,60371201,3,19.1,ug/m3 LC,66,Reseda
+7/12/14,AQS,60371201,3,20.6,ug/m3 LC,69,Reseda
+7/13/14,AQS,60371201,3,19.8,ug/m3 LC,67,Reseda
+7/14/14,AQS,60371201,3,23.1,ug/m3 LC,74,Reseda
+7/15/14,AQS,60371201,3,20.1,ug/m3 LC,68,Reseda
+7/16/14,AQS,60371201,3,19.4,ug/m3 LC,66,Reseda
+7/17/14,AQS,60371201,3,15.4,ug/m3 LC,58,Reseda
+7/18/14,AQS,60371201,3,15.8,ug/m3 LC,59,Reseda
+7/19/14,AQS,60371201,3,16.9,ug/m3 LC,61,Reseda
+7/20/14,AQS,60371201,3,17.9,ug/m3 LC,63,Reseda
+7/21/14,AQS,60371201,3,15.3,ug/m3 LC,58,Reseda
+7/22/14,AQS,60371201,3,15.1,ug/m3 LC,57,Reseda
+7/23/14,AQS,60371201,3,14.4,ug/m3 LC,56,Reseda
+7/24/14,AQS,60371201,3,18.3,ug/m3 LC,64,Reseda
+7/25/14,AQS,60371201,3,23.5,ug/m3 LC,75,Reseda
+7/26/14,AQS,60371201,3,20.5,ug/m3 LC,69,Reseda
+7/27/14,AQS,60371201,3,18.3,ug/m3 LC,64,Reseda
+7/28/14,AQS,60371201,3,16.5,ug/m3 LC,60,Reseda
+7/29/14,AQS,60371201,3,17.9,ug/m3 LC,63,Reseda
+7/30/14,AQS,60371201,3,21.4,ug/m3 LC,71,Reseda
+7/31/14,AQS,60371201,3,22.2,ug/m3 LC,72,Reseda
+8/1/14,AQS,60371201,3,23,ug/m3 LC,74,Reseda
+8/2/14,AQS,60371201,3,21.9,ug/m3 LC,72,Reseda
+8/3/14,AQS,60371201,3,16.1,ug/m3 LC,59,Reseda
+8/4/14,AQS,60371201,3,17.1,ug/m3 LC,62,Reseda
+8/5/14,AQS,60371201,3,12.8,ug/m3 LC,52,Reseda
+8/6/14,AQS,60371201,3,13.9,ug/m3 LC,55,Reseda
+8/7/14,AQS,60371201,3,18.7,ug/m3 LC,65,Reseda
+8/8/14,AQS,60371201,3,21.5,ug/m3 LC,71,Reseda
+8/9/14,AQS,60371201,3,23.8,ug/m3 LC,76,Reseda
+8/10/14,AQS,60371201,3,21.1,ug/m3 LC,70,Reseda
+8/11/14,AQS,60371201,3,16.3,ug/m3 LC,60,Reseda
+8/12/14,AQS,60371201,3,17.9,ug/m3 LC,63,Reseda
+8/13/14,AQS,60371201,3,17.9,ug/m3 LC,63,Reseda
+8/14/14,AQS,60371201,3,18,ug/m3 LC,63,Reseda
+8/15/14,AQS,60371201,3,14,ug/m3 LC,55,Reseda
+8/16/14,AQS,60371201,3,12.7,ug/m3 LC,52,Reseda
+8/17/14,AQS,60371201,3,15.7,ug/m3 LC,59,Reseda
+8/18/14,AQS,60371201,3,20.6,ug/m3 LC,69,Reseda
+8/19/14,AQS,60371201,3,19.5,ug/m3 LC,67,Reseda
+8/20/14,AQS,60371201,3,19.1,ug/m3 LC,66,Reseda
+8/21/14,AQS,60371201,3,17.5,ug/m3 LC,62,Reseda
+8/22/14,AQS,60371201,3,15.7,ug/m3 LC,59,Reseda
+8/23/14,AQS,60371201,3,16.5,ug/m3 LC,60,Reseda
+8/24/14,AQS,60371201,3,16,ug/m3 LC,59,Reseda
+8/25/14,AQS,60371201,3,15.8,ug/m3 LC,59,Reseda
+8/26/14,AQS,60371201,3,15.7,ug/m3 LC,59,Reseda
+8/27/14,AQS,60371201,3,16.1,ug/m3 LC,59,Reseda
+8/28/14,AQS,60371201,3,12.5,ug/m3 LC,52,Reseda
+8/29/14,AQS,60371201,3,17.1,ug/m3 LC,62,Reseda
+8/30/14,AQS,60371201,3,22,ug/m3 LC,72,Reseda
+8/31/14,AQS,60371201,3,23.7,ug/m3 LC,75,Reseda
+9/1/14,AQS,60371201,3,19.7,ug/m3 LC,67,Reseda
+9/2/14,AQS,60371201,3,20.5,ug/m3 LC,69,Reseda
+9/3/14,AQS,60371201,3,21.4,ug/m3 LC,71,Reseda
+9/4/14,AQS,60371201,3,17.3,ug/m3 LC,62,Reseda
+9/5/14,AQS,60371201,3,18.1,ug/m3 LC,64,Reseda
+9/6/14,AQS,60371201,3,18.3,ug/m3 LC,64,Reseda
+9/7/14,AQS,60371201,3,15.9,ug/m3 LC,59,Reseda
+9/8/14,AQS,60371201,3,15.7,ug/m3 LC,59,Reseda
+9/9/14,AQS,60371201,3,13.3,ug/m3 LC,54,Reseda
+9/10/14,AQS,60371201,3,14.3,ug/m3 LC,56,Reseda
+9/11/14,AQS,60371201,3,14.5,ug/m3 LC,56,Reseda
+9/12/14,AQS,60371201,3,15.5,ug/m3 LC,58,Reseda
+9/13/14,AQS,60371201,3,17.6,ug/m3 LC,63,Reseda
+9/14/14,AQS,60371201,3,14.2,ug/m3 LC,55,Reseda
+9/15/14,AQS,60371201,3,18.4,ug/m3 LC,64,Reseda
+9/16/14,AQS,60371201,3,22.7,ug/m3 LC,73,Reseda
+9/17/14,AQS,60371201,3,20.9,ug/m3 LC,70,Reseda
+9/18/14,AQS,60371201,3,17.3,ug/m3 LC,62,Reseda
+9/19/14,AQS,60371201,3,18.7,ug/m3 LC,65,Reseda
+9/20/14,AQS,60371201,3,21.4,ug/m3 LC,71,Reseda
+9/21/14,AQS,60371201,3,17.8,ug/m3 LC,63,Reseda
+9/22/14,AQS,60371201,3,18.8,ug/m3 LC,65,Reseda
+9/23/14,AQS,60371201,3,16.9,ug/m3 LC,61,Reseda
+9/24/14,AQS,60371201,3,13.6,ug/m3 LC,54,Reseda
+9/25/14,AQS,60371201,3,13.7,ug/m3 LC,54,Reseda
+9/26/14,AQS,60371201,3,14.2,ug/m3 LC,55,Reseda
+9/27/14,AQS,60371201,3,17.8,ug/m3 LC,63,Reseda
+9/28/14,AQS,60371201,3,18.6,ug/m3 LC,65,Reseda
+9/29/14,AQS,60371201,3,16.5,ug/m3 LC,60,Reseda
+9/30/14,AQS,60371201,3,17.6,ug/m3 LC,63,Reseda
+10/1/14,AQS,60371201,3,20.5,ug/m3 LC,69,Reseda
+10/2/14,AQS,60371201,3,13.8,ug/m3 LC,55,Reseda
+10/3/14,AQS,60371201,3,14.2,ug/m3 LC,55,Reseda
+10/4/14,AQS,60371201,3,14.8,ug/m3 LC,57,Reseda
+10/5/14,AQS,60371201,3,19.1,ug/m3 LC,66,Reseda
+10/6/14,AQS,60371201,3,20.2,ug/m3 LC,68,Reseda
+10/7/14,AQS,60371201,3,18.3,ug/m3 LC,64,Reseda
+10/8/14,AQS,60371201,3,18.4,ug/m3 LC,64,Reseda
+10/9/14,AQS,60371201,3,22,ug/m3 LC,72,Reseda
+10/10/14,AQS,60371201,3,27.1,ug/m3 LC,83,Reseda
+10/11/14,AQS,60371201,3,25,ug/m3 LC,78,Reseda
+10/12/14,AQS,60371201,3,33.2,ug/m3 LC,95,Reseda
+10/13/14,AQS,60371201,3,25.2,ug/m3 LC,79,Reseda
+10/14/14,AQS,60371201,3,27.1,ug/m3 LC,83,Reseda
+10/15/14,AQS,60371201,3,15.9,ug/m3 LC,59,Reseda
+10/16/14,AQS,60371201,3,18.2,ug/m3 LC,64,Reseda
+10/17/14,AQS,60371201,3,18.6,ug/m3 LC,65,Reseda
+10/18/14,AQS,60371201,3,17.7,ug/m3 LC,63,Reseda
+10/19/14,AQS,60371201,3,18.9,ug/m3 LC,65,Reseda
+10/20/14,AQS,60371201,3,22.7,ug/m3 LC,73,Reseda
+10/21/14,AQS,60371201,3,16.8,ug/m3 LC,61,Reseda
+10/22/14,AQS,60371201,3,16.4,ug/m3 LC,60,Reseda
+10/23/14,AQS,60371201,3,19.9,ug/m3 LC,67,Reseda
+10/24/14,AQS,60371201,3,19.7,ug/m3 LC,67,Reseda
+10/25/14,AQS,60371201,3,16.3,ug/m3 LC,60,Reseda
+10/26/14,AQS,60371201,3,13.8,ug/m3 LC,55,Reseda
+10/27/14,AQS,60371201,3,17.5,ug/m3 LC,62,Reseda
+10/28/14,AQS,60371201,3,17.9,ug/m3 LC,63,Reseda
+10/29/14,AQS,60371201,3,15.9,ug/m3 LC,59,Reseda
+10/30/14,AQS,60371201,3,18.7,ug/m3 LC,65,Reseda
+10/31/14,AQS,60371201,3,19.1,ug/m3 LC,66,Reseda
+11/1/14,AQS,60371201,3,13,ug/m3 LC,53,Reseda
+11/2/14,AQS,60371201,3,15.6,ug/m3 LC,58,Reseda
+11/3/14,AQS,60371201,3,11.5,ug/m3 LC,48,Reseda
+11/4/14,AQS,60371201,3,10.4,ug/m3 LC,43,Reseda
+11/5/14,AQS,60371201,3,11,ug/m3 LC,46,Reseda
+11/6/14,AQS,60371201,3,13.8,ug/m3 LC,55,Reseda
+11/7/14,AQS,60371201,3,13.9,ug/m3 LC,55,Reseda
+11/8/14,AQS,60371201,3,20.4,ug/m3 LC,68,Reseda
+11/9/14,AQS,60371201,3,24.1,ug/m3 LC,76,Reseda
+11/10/14,AQS,60371201,3,30.2,ug/m3 LC,89,Reseda
+11/11/14,AQS,60371201,3,17.1,ug/m3 LC,62,Reseda
+11/12/14,AQS,60371201,3,12.7,ug/m3 LC,52,Reseda
+11/13/14,AQS,60371201,3,14.1,ug/m3 LC,55,Reseda
+11/14/14,AQS,60371201,3,19.1,ug/m3 LC,66,Reseda
+11/15/14,AQS,60371201,3,8,ug/m3 LC,33,Reseda
+11/16/14,AQS,60371201,3,5.2,ug/m3 LC,22,Reseda
+11/17/14,AQS,60371201,3,3,ug/m3 LC,13,Reseda
+11/18/14,AQS,60371201,3,6.7,ug/m3 LC,28,Reseda
+11/19/14,AQS,60371201,3,11,ug/m3 LC,46,Reseda
+11/20/14,AQS,60371201,3,14.8,ug/m3 LC,57,Reseda
+11/21/14,AQS,60371201,3,10,ug/m3 LC,42,Reseda
+12/18/14,AQS,60371201,3,22,ug/m3 LC,72,Reseda
+12/19/14,AQS,60371201,3,21.5,ug/m3 LC,71,Reseda
+12/20/14,AQS,60371201,3,27.2,ug/m3 LC,83,Reseda
+12/21/14,AQS,60371201,3,20.9,ug/m3 LC,70,Reseda
+12/22/14,AQS,60371201,3,7,ug/m3 LC,29,Reseda
+12/23/14,AQS,60371201,3,9.1,ug/m3 LC,38,Reseda
+12/24/14,AQS,60371201,3,18.7,ug/m3 LC,65,Reseda
+12/25/14,AQS,60371201,3,6.4,ug/m3 LC,27,Reseda
+12/26/14,AQS,60371201,3,5,ug/m3 LC,21,Reseda
+12/27/14,AQS,60371201,3,10.1,ug/m3 LC,42,Reseda
+12/28/14,AQS,60371201,3,26.1,ug/m3 LC,80,Reseda
+12/29/14,AQS,60371201,3,34.2,ug/m3 LC,97,Reseda
+12/30/14,AQS,60371201,3,22.1,ug/m3 LC,72,Reseda
+12/31/14,AQS,60371201,3,12.2,ug/m3 LC,51,Reseda
+1/2/14,AQS,60371302,1,27.6,ug/m3 LC,84,Compton
+1/5/14,AQS,60371302,1,28.4,ug/m3 LC,85,Compton
+1/8/14,AQS,60371302,1,23.5,ug/m3 LC,75,Compton
+1/11/14,AQS,60371302,1,35.8,ug/m3 LC,102,Compton
+1/17/14,AQS,60371302,1,28.2,ug/m3 LC,85,Compton
+1/20/14,AQS,60371302,1,33.5,ug/m3 LC,96,Compton
+1/23/14,AQS,60371302,1,28.1,ug/m3 LC,85,Compton
+1/26/14,AQS,60371302,1,21.7,ug/m3 LC,71,Compton
+1/29/14,AQS,60371302,1,30.8,ug/m3 LC,90,Compton
+2/1/14,AQS,60371302,1,8.8,ug/m3 LC,37,Compton
+2/4/14,AQS,60371302,1,8.3,ug/m3 LC,35,Compton
+2/7/14,AQS,60371302,1,13.1,ug/m3 LC,53,Compton
+2/10/14,AQS,60371302,1,9.7,ug/m3 LC,40,Compton
+2/13/14,AQS,60371302,1,15.5,ug/m3 LC,58,Compton
+2/16/14,AQS,60371302,1,13.6,ug/m3 LC,54,Compton
+2/19/14,AQS,60371302,1,18,ug/m3 LC,63,Compton
+2/22/14,AQS,60371302,1,21.5,ug/m3 LC,71,Compton
+2/25/14,AQS,60371302,1,12.1,ug/m3 LC,51,Compton
+2/28/14,AQS,60371302,1,4.1,ug/m3 LC,17,Compton
+3/3/14,AQS,60371302,1,7.7,ug/m3 LC,32,Compton
+3/6/14,AQS,60371302,1,7.9,ug/m3 LC,33,Compton
+3/21/14,AQS,60371302,1,9.3,ug/m3 LC,39,Compton
+3/24/14,AQS,60371302,1,18,ug/m3 LC,63,Compton
+3/27/14,AQS,60371302,1,6.4,ug/m3 LC,27,Compton
+3/30/14,AQS,60371302,1,4.5,ug/m3 LC,19,Compton
+4/2/14,AQS,60371302,1,4,ug/m3 LC,17,Compton
+4/5/14,AQS,60371302,1,7.1,ug/m3 LC,30,Compton
+4/8/14,AQS,60371302,1,13.2,ug/m3 LC,53,Compton
+4/11/14,AQS,60371302,1,9.2,ug/m3 LC,38,Compton
+4/17/14,AQS,60371302,1,11,ug/m3 LC,46,Compton
+5/14/14,AQS,60371302,1,8.7,ug/m3 LC,36,Compton
+11/10/14,AQS,60371302,1,16.3,ug/m3 LC,60,Compton
+11/28/14,AQS,60371302,1,30.9,ug/m3 LC,91,Compton
+12/1/14,AQS,60371302,1,13,ug/m3 LC,53,Compton
+12/13/14,AQS,60371302,1,13.7,ug/m3 LC,54,Compton
+12/16/14,AQS,60371302,1,10.7,ug/m3 LC,45,Compton
+12/19/14,AQS,60371302,1,19,ug/m3 LC,66,Compton
+12/22/14,AQS,60371302,1,29.1,ug/m3 LC,87,Compton
+12/25/14,AQS,60371302,1,7.6,ug/m3 LC,32,Compton
+12/28/14,AQS,60371302,1,22.2,ug/m3 LC,72,Compton
+12/31/14,AQS,60371302,1,30.3,ug/m3 LC,89,Compton
+1/2/14,AQS,60371602,1,15.9,ug/m3 LC,59,Pico Rivera #2
+1/8/14,AQS,60371602,1,25,ug/m3 LC,78,Pico Rivera #2
+1/11/14,AQS,60371602,1,35.1,ug/m3 LC,99,Pico Rivera #2
+1/14/14,AQS,60371602,1,11.9,ug/m3 LC,50,Pico Rivera #2
+1/17/14,AQS,60371602,1,17,ug/m3 LC,61,Pico Rivera #2
+1/20/14,AQS,60371602,1,19.3,ug/m3 LC,66,Pico Rivera #2
+1/23/14,AQS,60371602,1,26,ug/m3 LC,80,Pico Rivera #2
+1/26/14,AQS,60371602,1,21.1,ug/m3 LC,70,Pico Rivera #2
+1/29/14,AQS,60371602,1,27.4,ug/m3 LC,83,Pico Rivera #2
+2/1/14,AQS,60371602,1,8,ug/m3 LC,33,Pico Rivera #2
+2/4/14,AQS,60371602,1,8.8,ug/m3 LC,37,Pico Rivera #2
+2/7/14,AQS,60371602,1,10.5,ug/m3 LC,44,Pico Rivera #2
+2/10/14,AQS,60371602,1,13.3,ug/m3 LC,54,Pico Rivera #2
+2/13/14,AQS,60371602,1,16.6,ug/m3 LC,60,Pico Rivera #2
+2/16/14,AQS,60371602,1,17.7,ug/m3 LC,63,Pico Rivera #2
+2/19/14,AQS,60371602,1,24.7,ug/m3 LC,77,Pico Rivera #2
+2/22/14,AQS,60371602,1,18.8,ug/m3 LC,65,Pico Rivera #2
+2/28/14,AQS,60371602,1,3.6,ug/m3 LC,15,Pico Rivera #2
+3/3/14,AQS,60371602,1,7.8,ug/m3 LC,33,Pico Rivera #2
+3/6/14,AQS,60371602,1,8.7,ug/m3 LC,36,Pico Rivera #2
+3/12/14,AQS,60371602,1,7.4,ug/m3 LC,31,Pico Rivera #2
+3/15/14,AQS,60371602,1,10.6,ug/m3 LC,44,Pico Rivera #2
+3/18/14,AQS,60371602,1,9.4,ug/m3 LC,39,Pico Rivera #2
+3/21/14,AQS,60371602,1,10.4,ug/m3 LC,43,Pico Rivera #2
+3/24/14,AQS,60371602,1,18.8,ug/m3 LC,65,Pico Rivera #2
+3/27/14,AQS,60371602,1,7.7,ug/m3 LC,32,Pico Rivera #2
+3/30/14,AQS,60371602,1,4.7,ug/m3 LC,20,Pico Rivera #2
+4/2/14,AQS,60371602,1,3.7,ug/m3 LC,15,Pico Rivera #2
+4/5/14,AQS,60371602,1,6.9,ug/m3 LC,29,Pico Rivera #2
+4/8/14,AQS,60371602,1,11.3,ug/m3 LC,47,Pico Rivera #2
+4/11/14,AQS,60371602,1,11.9,ug/m3 LC,50,Pico Rivera #2
+4/17/14,AQS,60371602,1,13.2,ug/m3 LC,53,Pico Rivera #2
+10/14/14,AQS,60371602,1,16.2,ug/m3 LC,60,Pico Rivera #2
+11/7/14,AQS,60371602,1,9.8,ug/m3 LC,41,Pico Rivera #2
+11/28/14,AQS,60371602,1,14.7,ug/m3 LC,56,Pico Rivera #2
+12/1/14,AQS,60371602,1,11.7,ug/m3 LC,49,Pico Rivera #2
+12/10/14,AQS,60371602,1,24.4,ug/m3 LC,77,Pico Rivera #2
+12/13/14,AQS,60371602,1,9.1,ug/m3 LC,38,Pico Rivera #2
+12/16/14,AQS,60371602,1,12.6,ug/m3 LC,52,Pico Rivera #2
+12/19/14,AQS,60371602,1,14.8,ug/m3 LC,57,Pico Rivera #2
+12/22/14,AQS,60371602,1,30.1,ug/m3 LC,89,Pico Rivera #2
+12/25/14,AQS,60371602,1,9.6,ug/m3 LC,40,Pico Rivera #2
+12/28/14,AQS,60371602,1,15.2,ug/m3 LC,58,Pico Rivera #2
+12/31/14,AQS,60371602,1,14.5,ug/m3 LC,56,Pico Rivera #2
+1/2/14,AQS,60372005,1,8,ug/m3 LC,33,Pasadena
+1/5/14,AQS,60372005,1,10.4,ug/m3 LC,43,Pasadena
+1/8/14,AQS,60372005,1,20,ug/m3 LC,68,Pasadena
+1/11/14,AQS,60372005,1,21.1,ug/m3 LC,70,Pasadena
+1/14/14,AQS,60372005,1,7.5,ug/m3 LC,31,Pasadena
+1/17/14,AQS,60372005,1,19,ug/m3 LC,66,Pasadena
+1/20/14,AQS,60372005,1,10.3,ug/m3 LC,43,Pasadena
+1/23/14,AQS,60372005,1,18.5,ug/m3 LC,64,Pasadena
+1/26/14,AQS,60372005,1,16.6,ug/m3 LC,60,Pasadena
+1/29/14,AQS,60372005,1,25.8,ug/m3 LC,80,Pasadena
+2/4/14,AQS,60372005,1,7.5,ug/m3 LC,31,Pasadena
+2/7/14,AQS,60372005,1,10.1,ug/m3 LC,42,Pasadena
+2/10/14,AQS,60372005,1,14.2,ug/m3 LC,55,Pasadena
+2/13/14,AQS,60372005,1,11.5,ug/m3 LC,48,Pasadena
+2/16/14,AQS,60372005,1,26.2,ug/m3 LC,81,Pasadena
+2/19/14,AQS,60372005,1,19.4,ug/m3 LC,66,Pasadena
+2/22/14,AQS,60372005,1,16.5,ug/m3 LC,60,Pasadena
+2/25/14,AQS,60372005,1,19.6,ug/m3 LC,67,Pasadena
+2/28/14,AQS,60372005,1,2.2,ug/m3 LC,9,Pasadena
+3/3/14,AQS,60372005,1,8.5,ug/m3 LC,35,Pasadena
+3/6/14,AQS,60372005,1,12,ug/m3 LC,50,Pasadena
+3/12/14,AQS,60372005,1,6,ug/m3 LC,25,Pasadena
+3/15/14,AQS,60372005,1,10.4,ug/m3 LC,43,Pasadena
+3/18/14,AQS,60372005,1,9.1,ug/m3 LC,38,Pasadena
+3/21/14,AQS,60372005,1,12.1,ug/m3 LC,51,Pasadena
+3/24/14,AQS,60372005,1,19.4,ug/m3 LC,66,Pasadena
+3/27/14,AQS,60372005,1,6,ug/m3 LC,25,Pasadena
+3/30/14,AQS,60372005,1,4.1,ug/m3 LC,17,Pasadena
+4/2/14,AQS,60372005,1,3.3,ug/m3 LC,14,Pasadena
+4/5/14,AQS,60372005,1,4.6,ug/m3 LC,19,Pasadena
+4/11/14,AQS,60372005,1,9.9,ug/m3 LC,41,Pasadena
+4/17/14,AQS,60372005,1,14.3,ug/m3 LC,56,Pasadena
+6/4/14,AQS,60372005,1,5.5,ug/m3 LC,23,Pasadena
+10/11/14,AQS,60372005,1,12,ug/m3 LC,50,Pasadena
+10/14/14,AQS,60372005,1,17.5,ug/m3 LC,62,Pasadena
+11/25/14,AQS,60372005,1,6.5,ug/m3 LC,27,Pasadena
+11/28/14,AQS,60372005,1,8.8,ug/m3 LC,37,Pasadena
+12/1/14,AQS,60372005,1,32.5,ug/m3 LC,94,Pasadena
+12/10/14,AQS,60372005,1,16.5,ug/m3 LC,60,Pasadena
+12/13/14,AQS,60372005,1,6.4,ug/m3 LC,27,Pasadena
+12/16/14,AQS,60372005,1,10.8,ug/m3 LC,45,Pasadena
+12/19/14,AQS,60372005,1,11,ug/m3 LC,46,Pasadena
+12/22/14,AQS,60372005,1,13.9,ug/m3 LC,55,Pasadena
+12/25/14,AQS,60372005,1,4.7,ug/m3 LC,20,Pasadena
+12/28/14,AQS,60372005,1,11,ug/m3 LC,46,Pasadena
+12/31/14,AQS,60372005,1,11.4,ug/m3 LC,48,Pasadena
+1/1/14,AQS,60374002,1,51.5,ug/m3 LC,140,Long Beach (North)
+1/2/14,AQS,60374002,1,29,ug/m3 LC,87,Long Beach (North)
+1/3/14,AQS,60374002,1,21.1,ug/m3 LC,70,Long Beach (North)
+1/4/14,AQS,60374002,1,31.3,ug/m3 LC,91,Long Beach (North)
+1/5/14,AQS,60374002,1,24.6,ug/m3 LC,77,Long Beach (North)
+1/6/14,AQS,60374002,1,9,ug/m3 LC,38,Long Beach (North)
+1/7/14,AQS,60374002,1,12.4,ug/m3 LC,52,Long Beach (North)
+1/8/14,AQS,60374002,1,22.1,ug/m3 LC,72,Long Beach (North)
+1/9/14,AQS,60374002,1,32.1,ug/m3 LC,93,Long Beach (North)
+1/10/14,AQS,60374002,1,38.3,ug/m3 LC,108,Long Beach (North)
+1/11/14,AQS,60374002,1,32.9,ug/m3 LC,95,Long Beach (North)
+1/12/14,AQS,60374002,1,31.6,ug/m3 LC,92,Long Beach (North)
+1/13/14,AQS,60374002,1,15.8,ug/m3 LC,59,Long Beach (North)
+1/14/14,AQS,60374002,1,13.2,ug/m3 LC,53,Long Beach (North)
+1/15/14,AQS,60374002,1,14,ug/m3 LC,55,Long Beach (North)
+1/16/14,AQS,60374002,1,15.6,ug/m3 LC,58,Long Beach (North)
+1/17/14,AQS,60374002,1,24.4,ug/m3 LC,77,Long Beach (North)
+1/24/14,AQS,60374002,1,23.3,ug/m3 LC,75,Long Beach (North)
+1/25/14,AQS,60374002,1,17,ug/m3 LC,61,Long Beach (North)
+1/26/14,AQS,60374002,1,18.6,ug/m3 LC,65,Long Beach (North)
+1/27/14,AQS,60374002,1,12.5,ug/m3 LC,52,Long Beach (North)
+1/28/14,AQS,60374002,1,20.8,ug/m3 LC,69,Long Beach (North)
+1/29/14,AQS,60374002,1,29.3,ug/m3 LC,87,Long Beach (North)
+1/30/14,AQS,60374002,1,20.4,ug/m3 LC,68,Long Beach (North)
+1/31/14,AQS,60374002,1,4.7,ug/m3 LC,20,Long Beach (North)
+2/2/14,AQS,60374002,1,9,ug/m3 LC,38,Long Beach (North)
+2/8/14,AQS,60374002,1,5.6,ug/m3 LC,23,Long Beach (North)
+2/9/14,AQS,60374002,1,9.5,ug/m3 LC,40,Long Beach (North)
+2/10/14,AQS,60374002,1,7.5,ug/m3 LC,31,Long Beach (North)
+2/11/14,AQS,60374002,1,10.6,ug/m3 LC,44,Long Beach (North)
+2/12/14,AQS,60374002,1,15.9,ug/m3 LC,59,Long Beach (North)
+2/13/14,AQS,60374002,1,14.2,ug/m3 LC,55,Long Beach (North)
+2/14/14,AQS,60374002,1,15.8,ug/m3 LC,59,Long Beach (North)
+2/15/14,AQS,60374002,1,22,ug/m3 LC,72,Long Beach (North)
+2/16/14,AQS,60374002,1,10.8,ug/m3 LC,45,Long Beach (North)
+2/17/14,AQS,60374002,1,16.8,ug/m3 LC,61,Long Beach (North)
+2/18/14,AQS,60374002,1,14.1,ug/m3 LC,55,Long Beach (North)
+2/19/14,AQS,60374002,1,18.9,ug/m3 LC,65,Long Beach (North)
+2/20/14,AQS,60374002,1,19.7,ug/m3 LC,67,Long Beach (North)
+2/21/14,AQS,60374002,1,14,ug/m3 LC,55,Long Beach (North)
+2/22/14,AQS,60374002,1,16.1,ug/m3 LC,59,Long Beach (North)
+2/23/14,AQS,60374002,1,14.2,ug/m3 LC,55,Long Beach (North)
+2/24/14,AQS,60374002,1,19.3,ug/m3 LC,66,Long Beach (North)
+2/25/14,AQS,60374002,1,8.3,ug/m3 LC,35,Long Beach (North)
+2/26/14,AQS,60374002,1,5.4,ug/m3 LC,23,Long Beach (North)
+2/27/14,AQS,60374002,1,3.7,ug/m3 LC,15,Long Beach (North)
+2/28/14,AQS,60374002,1,3.7,ug/m3 LC,15,Long Beach (North)
+3/1/14,AQS,60374002,1,5.6,ug/m3 LC,23,Long Beach (North)
+3/2/14,AQS,60374002,1,5.3,ug/m3 LC,22,Long Beach (North)
+3/7/14,AQS,60374002,1,8.7,ug/m3 LC,36,Long Beach (North)
+3/14/14,AQS,60374002,1,10.5,ug/m3 LC,44,Long Beach (North)
+3/21/14,AQS,60374002,1,9.9,ug/m3 LC,41,Long Beach (North)
+3/28/14,AQS,60374002,1,9.9,ug/m3 LC,41,Long Beach (North)
+3/29/14,AQS,60374002,1,9.4,ug/m3 LC,39,Long Beach (North)
+3/30/14,AQS,60374002,1,4.8,ug/m3 LC,20,Long Beach (North)
+3/31/14,AQS,60374002,1,5.2,ug/m3 LC,22,Long Beach (North)
+4/1/14,AQS,60374002,1,4.3,ug/m3 LC,18,Long Beach (North)
+4/2/14,AQS,60374002,1,3.6,ug/m3 LC,15,Long Beach (North)
+4/3/14,AQS,60374002,1,5.5,ug/m3 LC,23,Long Beach (North)
+4/4/14,AQS,60374002,1,4.1,ug/m3 LC,17,Long Beach (North)
+4/5/14,AQS,60374002,1,5.6,ug/m3 LC,23,Long Beach (North)
+4/6/14,AQS,60374002,1,7.8,ug/m3 LC,33,Long Beach (North)
+4/7/14,AQS,60374002,1,9.7,ug/m3 LC,40,Long Beach (North)
+4/8/14,AQS,60374002,1,12.4,ug/m3 LC,52,Long Beach (North)
+4/9/14,AQS,60374002,1,10.8,ug/m3 LC,45,Long Beach (North)
+4/10/14,AQS,60374002,1,14.9,ug/m3 LC,57,Long Beach (North)
+4/11/14,AQS,60374002,1,9.9,ug/m3 LC,41,Long Beach (North)
+11/7/14,AQS,60374002,1,11,ug/m3 LC,46,Long Beach (North)
+11/8/14,AQS,60374002,1,14.3,ug/m3 LC,56,Long Beach (North)
+11/9/14,AQS,60374002,1,17.1,ug/m3 LC,62,Long Beach (North)
+11/10/14,AQS,60374002,1,7.4,ug/m3 LC,31,Long Beach (North)
+11/11/14,AQS,60374002,1,11.4,ug/m3 LC,48,Long Beach (North)
+11/12/14,AQS,60374002,1,7.6,ug/m3 LC,32,Long Beach (North)
+11/13/14,AQS,60374002,1,9.1,ug/m3 LC,38,Long Beach (North)
+11/28/14,AQS,60374002,1,16.4,ug/m3 LC,60,Long Beach (North)
+11/29/14,AQS,60374002,1,13.8,ug/m3 LC,55,Long Beach (North)
+11/30/14,AQS,60374002,1,6.7,ug/m3 LC,28,Long Beach (North)
+12/1/14,AQS,60374002,1,10.5,ug/m3 LC,44,Long Beach (North)
+12/2/14,AQS,60374002,1,7.9,ug/m3 LC,33,Long Beach (North)
+12/3/14,AQS,60374002,1,5.9,ug/m3 LC,25,Long Beach (North)
+12/11/14,AQS,60374002,1,12.2,ug/m3 LC,51,Long Beach (North)
+12/12/14,AQS,60374002,1,3.2,ug/m3 LC,13,Long Beach (North)
+12/13/14,AQS,60374002,1,11.1,ug/m3 LC,46,Long Beach (North)
+12/14/14,AQS,60374002,1,17.4,ug/m3 LC,62,Long Beach (North)
+12/15/14,AQS,60374002,1,17.7,ug/m3 LC,63,Long Beach (North)
+12/16/14,AQS,60374002,1,8.4,ug/m3 LC,35,Long Beach (North)
+12/17/14,AQS,60374002,1,6.1,ug/m3 LC,25,Long Beach (North)
+12/18/14,AQS,60374002,1,11.5,ug/m3 LC,48,Long Beach (North)
+12/19/14,AQS,60374002,1,15.5,ug/m3 LC,58,Long Beach (North)
+12/20/14,AQS,60374002,1,23.6,ug/m3 LC,75,Long Beach (North)
+12/21/14,AQS,60374002,1,35,ug/m3 LC,99,Long Beach (North)
+12/22/14,AQS,60374002,1,25.7,ug/m3 LC,80,Long Beach (North)
+12/23/14,AQS,60374002,1,13.7,ug/m3 LC,54,Long Beach (North)
+12/24/14,AQS,60374002,1,8.6,ug/m3 LC,36,Long Beach (North)
+12/25/14,AQS,60374002,1,4.8,ug/m3 LC,20,Long Beach (North)
+12/26/14,AQS,60374002,1,7.9,ug/m3 LC,33,Long Beach (North)
+12/28/14,AQS,60374002,1,20.3,ug/m3 LC,68,Long Beach (North)
+1/1/14,AQS,60374004,1,52.2,ug/m3 LC,142,Long Beach (South)
+1/4/14,AQS,60374004,1,27.2,ug/m3 LC,83,Long Beach (South)
+1/5/14,AQS,60374004,1,22.7,ug/m3 LC,73,Long Beach (South)
+1/6/14,AQS,60374004,1,10.1,ug/m3 LC,42,Long Beach (South)
+1/7/14,AQS,60374004,1,10.5,ug/m3 LC,44,Long Beach (South)
+1/8/14,AQS,60374004,1,18.9,ug/m3 LC,65,Long Beach (South)
+1/9/14,AQS,60374004,1,28.4,ug/m3 LC,85,Long Beach (South)
+1/10/14,AQS,60374004,1,41.4,ug/m3 LC,116,Long Beach (South)
+1/11/14,AQS,60374004,1,31.3,ug/m3 LC,91,Long Beach (South)
+1/12/14,AQS,60374004,1,32,ug/m3 LC,93,Long Beach (South)
+1/13/14,AQS,60374004,1,18,ug/m3 LC,63,Long Beach (South)
+1/14/14,AQS,60374004,1,14.7,ug/m3 LC,56,Long Beach (South)
+1/15/14,AQS,60374004,1,14.9,ug/m3 LC,57,Long Beach (South)
+1/16/14,AQS,60374004,1,17.3,ug/m3 LC,62,Long Beach (South)
+1/17/14,AQS,60374004,1,22.4,ug/m3 LC,73,Long Beach (South)
+1/18/14,AQS,60374004,1,20.5,ug/m3 LC,69,Long Beach (South)
+1/19/14,AQS,60374004,1,26.2,ug/m3 LC,81,Long Beach (South)
+1/20/14,AQS,60374004,1,30.3,ug/m3 LC,89,Long Beach (South)
+1/21/14,AQS,60374004,1,24.3,ug/m3 LC,77,Long Beach (South)
+1/22/14,AQS,60374004,1,16.9,ug/m3 LC,61,Long Beach (South)
+1/23/14,AQS,60374004,1,22,ug/m3 LC,72,Long Beach (South)
+1/24/14,AQS,60374004,1,23.1,ug/m3 LC,74,Long Beach (South)
+1/25/14,AQS,60374004,1,16.2,ug/m3 LC,60,Long Beach (South)
+1/26/14,AQS,60374004,1,18,ug/m3 LC,63,Long Beach (South)
+1/27/14,AQS,60374004,1,10.1,ug/m3 LC,42,Long Beach (South)
+1/28/14,AQS,60374004,1,19.4,ug/m3 LC,66,Long Beach (South)
+1/31/14,AQS,60374004,1,4.7,ug/m3 LC,20,Long Beach (South)
+2/1/14,AQS,60374004,1,5.9,ug/m3 LC,25,Long Beach (South)
+2/2/14,AQS,60374004,1,8.6,ug/m3 LC,36,Long Beach (South)
+2/3/14,AQS,60374004,1,5,ug/m3 LC,21,Long Beach (South)
+2/5/14,AQS,60374004,1,9.6,ug/m3 LC,40,Long Beach (South)
+2/6/14,AQS,60374004,1,8.3,ug/m3 LC,35,Long Beach (South)
+2/7/14,AQS,60374004,1,8.6,ug/m3 LC,36,Long Beach (South)
+2/8/14,AQS,60374004,1,5.5,ug/m3 LC,23,Long Beach (South)
+2/9/14,AQS,60374004,1,7,ug/m3 LC,29,Long Beach (South)
+2/10/14,AQS,60374004,1,7.5,ug/m3 LC,31,Long Beach (South)
+2/11/14,AQS,60374004,1,12.6,ug/m3 LC,52,Long Beach (South)
+2/12/14,AQS,60374004,1,17.9,ug/m3 LC,63,Long Beach (South)
+2/13/14,AQS,60374004,1,14.7,ug/m3 LC,56,Long Beach (South)
+2/14/14,AQS,60374004,1,16.1,ug/m3 LC,59,Long Beach (South)
+2/15/14,AQS,60374004,1,21.5,ug/m3 LC,71,Long Beach (South)
+2/16/14,AQS,60374004,1,9.8,ug/m3 LC,41,Long Beach (South)
+2/17/14,AQS,60374004,1,13.1,ug/m3 LC,53,Long Beach (South)
+2/18/14,AQS,60374004,1,13.7,ug/m3 LC,54,Long Beach (South)
+2/19/14,AQS,60374004,1,17.7,ug/m3 LC,63,Long Beach (South)
+2/20/14,AQS,60374004,1,20.5,ug/m3 LC,69,Long Beach (South)
+2/21/14,AQS,60374004,1,14.5,ug/m3 LC,56,Long Beach (South)
+2/22/14,AQS,60374004,1,14.7,ug/m3 LC,56,Long Beach (South)
+2/23/14,AQS,60374004,1,14.4,ug/m3 LC,56,Long Beach (South)
+2/24/14,AQS,60374004,1,19.6,ug/m3 LC,67,Long Beach (South)
+2/25/14,AQS,60374004,1,9.8,ug/m3 LC,41,Long Beach (South)
+2/26/14,AQS,60374004,1,6.1,ug/m3 LC,25,Long Beach (South)
+2/27/14,AQS,60374004,1,3.8,ug/m3 LC,16,Long Beach (South)
+2/28/14,AQS,60374004,1,2.8,ug/m3 LC,12,Long Beach (South)
+3/1/14,AQS,60374004,1,7.6,ug/m3 LC,32,Long Beach (South)
+3/2/14,AQS,60374004,1,5.1,ug/m3 LC,21,Long Beach (South)
+3/3/14,AQS,60374004,1,6.5,ug/m3 LC,27,Long Beach (South)
+3/4/14,AQS,60374004,1,7.1,ug/m3 LC,30,Long Beach (South)
+3/5/14,AQS,60374004,1,15.8,ug/m3 LC,59,Long Beach (South)
+3/6/14,AQS,60374004,1,6.7,ug/m3 LC,28,Long Beach (South)
+3/7/14,AQS,60374004,1,8.7,ug/m3 LC,36,Long Beach (South)
+3/8/14,AQS,60374004,1,10.9,ug/m3 LC,45,Long Beach (South)
+3/14/14,AQS,60374004,1,9.5,ug/m3 LC,40,Long Beach (South)
+3/15/14,AQS,60374004,1,10.5,ug/m3 LC,44,Long Beach (South)
+3/16/14,AQS,60374004,1,12.4,ug/m3 LC,52,Long Beach (South)
+3/17/14,AQS,60374004,1,11.6,ug/m3 LC,48,Long Beach (South)
+3/18/14,AQS,60374004,1,12,ug/m3 LC,50,Long Beach (South)
+3/19/14,AQS,60374004,1,8.6,ug/m3 LC,36,Long Beach (South)
+3/20/14,AQS,60374004,1,13.7,ug/m3 LC,54,Long Beach (South)
+3/21/14,AQS,60374004,1,9.7,ug/m3 LC,40,Long Beach (South)
+3/22/14,AQS,60374004,1,10.5,ug/m3 LC,44,Long Beach (South)
+3/23/14,AQS,60374004,1,11.1,ug/m3 LC,46,Long Beach (South)
+3/24/14,AQS,60374004,1,14.2,ug/m3 LC,55,Long Beach (South)
+3/25/14,AQS,60374004,1,9.9,ug/m3 LC,41,Long Beach (South)
+3/26/14,AQS,60374004,1,4.8,ug/m3 LC,20,Long Beach (South)
+3/27/14,AQS,60374004,1,6.3,ug/m3 LC,26,Long Beach (South)
+3/28/14,AQS,60374004,1,10.2,ug/m3 LC,43,Long Beach (South)
+3/29/14,AQS,60374004,1,10.6,ug/m3 LC,44,Long Beach (South)
+3/30/14,AQS,60374004,1,5.1,ug/m3 LC,21,Long Beach (South)
+3/31/14,AQS,60374004,1,6,ug/m3 LC,25,Long Beach (South)
+4/1/14,AQS,60374004,1,4.2,ug/m3 LC,18,Long Beach (South)
+4/2/14,AQS,60374004,1,3.3,ug/m3 LC,14,Long Beach (South)
+4/3/14,AQS,60374004,1,5.9,ug/m3 LC,25,Long Beach (South)
+4/4/14,AQS,60374004,1,4.1,ug/m3 LC,17,Long Beach (South)
+4/5/14,AQS,60374004,1,6.5,ug/m3 LC,27,Long Beach (South)
+4/6/14,AQS,60374004,1,7.2,ug/m3 LC,30,Long Beach (South)
+4/7/14,AQS,60374004,1,10.1,ug/m3 LC,42,Long Beach (South)
+4/8/14,AQS,60374004,1,12,ug/m3 LC,50,Long Beach (South)
+4/9/14,AQS,60374004,1,11,ug/m3 LC,46,Long Beach (South)
+4/10/14,AQS,60374004,1,14.9,ug/m3 LC,57,Long Beach (South)
+4/11/14,AQS,60374004,1,10.2,ug/m3 LC,43,Long Beach (South)
+4/12/14,AQS,60374004,1,9.8,ug/m3 LC,41,Long Beach (South)
+5/2/14,AQS,60374004,1,10.8,ug/m3 LC,45,Long Beach (South)
+10/10/14,AQS,60374004,1,11,ug/m3 LC,46,Long Beach (South)
+11/13/14,AQS,60374004,1,9,ug/m3 LC,38,Long Beach (South)
+11/28/14,AQS,60374004,1,19.4,ug/m3 LC,66,Long Beach (South)
+11/29/14,AQS,60374004,1,13.2,ug/m3 LC,53,Long Beach (South)
+11/30/14,AQS,60374004,1,5.5,ug/m3 LC,23,Long Beach (South)
+12/1/14,AQS,60374004,1,10,ug/m3 LC,42,Long Beach (South)
+12/2/14,AQS,60374004,1,7.5,ug/m3 LC,31,Long Beach (South)
+12/10/14,AQS,60374004,1,20.9,ug/m3 LC,70,Long Beach (South)
+12/11/14,AQS,60374004,1,12,ug/m3 LC,50,Long Beach (South)
+12/12/14,AQS,60374004,1,3.9,ug/m3 LC,16,Long Beach (South)
+12/13/14,AQS,60374004,1,8.1,ug/m3 LC,34,Long Beach (South)
+12/14/14,AQS,60374004,1,11.2,ug/m3 LC,47,Long Beach (South)
+12/15/14,AQS,60374004,1,17,ug/m3 LC,61,Long Beach (South)
+12/16/14,AQS,60374004,1,7.1,ug/m3 LC,30,Long Beach (South)
+12/17/14,AQS,60374004,1,5.9,ug/m3 LC,25,Long Beach (South)
+12/18/14,AQS,60374004,1,10,ug/m3 LC,42,Long Beach (South)
+12/19/14,AQS,60374004,1,12.1,ug/m3 LC,51,Long Beach (South)
+12/20/14,AQS,60374004,1,22.1,ug/m3 LC,72,Long Beach (South)
+12/23/14,AQS,60374004,1,14.6,ug/m3 LC,56,Long Beach (South)
+12/24/14,AQS,60374004,1,11.6,ug/m3 LC,48,Long Beach (South)
+12/25/14,AQS,60374004,1,4.7,ug/m3 LC,20,Long Beach (South)
+1/1/14,AQS,60374004,3,61.9,ug/m3 LC,154,Long Beach (South)
+1/2/14,AQS,60374004,3,39.7,ug/m3 LC,111,Long Beach (South)
+1/3/14,AQS,60374004,3,22.6,ug/m3 LC,73,Long Beach (South)
+1/4/14,AQS,60374004,3,35.4,ug/m3 LC,100,Long Beach (South)
+1/5/14,AQS,60374004,3,33.9,ug/m3 LC,97,Long Beach (South)
+1/6/14,AQS,60374004,3,15,ug/m3 LC,57,Long Beach (South)
+1/7/14,AQS,60374004,3,13.4,ug/m3 LC,54,Long Beach (South)
+1/8/14,AQS,60374004,3,22.3,ug/m3 LC,72,Long Beach (South)
+1/9/14,AQS,60374004,3,33.9,ug/m3 LC,97,Long Beach (South)
+1/10/14,AQS,60374004,3,52.2,ug/m3 LC,142,Long Beach (South)
+1/11/14,AQS,60374004,3,40.8,ug/m3 LC,114,Long Beach (South)
+1/12/14,AQS,60374004,3,38.2,ug/m3 LC,108,Long Beach (South)
+1/13/14,AQS,60374004,3,28.2,ug/m3 LC,85,Long Beach (South)
+1/14/14,AQS,60374004,3,18.6,ug/m3 LC,65,Long Beach (South)
+1/15/14,AQS,60374004,3,20.5,ug/m3 LC,69,Long Beach (South)
+1/16/14,AQS,60374004,3,21.3,ug/m3 LC,70,Long Beach (South)
+1/17/14,AQS,60374004,3,28,ug/m3 LC,84,Long Beach (South)
+1/18/14,AQS,60374004,3,26,ug/m3 LC,80,Long Beach (South)
+1/19/14,AQS,60374004,3,33.1,ug/m3 LC,95,Long Beach (South)
+1/20/14,AQS,60374004,3,38.1,ug/m3 LC,107,Long Beach (South)
+1/21/14,AQS,60374004,3,31.5,ug/m3 LC,92,Long Beach (South)
+1/22/14,AQS,60374004,3,19.5,ug/m3 LC,67,Long Beach (South)
+1/23/14,AQS,60374004,3,28,ug/m3 LC,84,Long Beach (South)
+1/24/14,AQS,60374004,3,30.2,ug/m3 LC,89,Long Beach (South)
+1/25/14,AQS,60374004,3,22.1,ug/m3 LC,72,Long Beach (South)
+1/26/14,AQS,60374004,3,24.2,ug/m3 LC,76,Long Beach (South)
+1/27/14,AQS,60374004,3,14.5,ug/m3 LC,56,Long Beach (South)
+1/28/14,AQS,60374004,3,25.8,ug/m3 LC,80,Long Beach (South)
+1/29/14,AQS,60374004,3,39,ug/m3 LC,110,Long Beach (South)
+1/30/14,AQS,60374004,3,25.1,ug/m3 LC,78,Long Beach (South)
+1/31/14,AQS,60374004,3,8.6,ug/m3 LC,36,Long Beach (South)
+2/1/14,AQS,60374004,3,10.9,ug/m3 LC,45,Long Beach (South)
+2/2/14,AQS,60374004,3,12.2,ug/m3 LC,51,Long Beach (South)
+2/3/14,AQS,60374004,3,7.8,ug/m3 LC,33,Long Beach (South)
+2/4/14,AQS,60374004,3,11.1,ug/m3 LC,46,Long Beach (South)
+2/5/14,AQS,60374004,3,13.2,ug/m3 LC,53,Long Beach (South)
+2/6/14,AQS,60374004,3,13.9,ug/m3 LC,55,Long Beach (South)
+2/7/14,AQS,60374004,3,14.4,ug/m3 LC,56,Long Beach (South)
+2/8/14,AQS,60374004,3,10.2,ug/m3 LC,43,Long Beach (South)
+2/9/14,AQS,60374004,3,12.3,ug/m3 LC,51,Long Beach (South)
+2/10/14,AQS,60374004,3,12.5,ug/m3 LC,52,Long Beach (South)
+2/11/14,AQS,60374004,3,19.9,ug/m3 LC,67,Long Beach (South)
+2/12/14,AQS,60374004,3,27.9,ug/m3 LC,84,Long Beach (South)
+2/13/14,AQS,60374004,3,21.9,ug/m3 LC,72,Long Beach (South)
+2/14/14,AQS,60374004,3,23,ug/m3 LC,74,Long Beach (South)
+2/15/14,AQS,60374004,3,29.6,ug/m3 LC,88,Long Beach (South)
+2/16/14,AQS,60374004,3,13.9,ug/m3 LC,55,Long Beach (South)
+2/17/14,AQS,60374004,3,17.7,ug/m3 LC,63,Long Beach (South)
+2/18/14,AQS,60374004,3,17.5,ug/m3 LC,62,Long Beach (South)
+2/19/14,AQS,60374004,3,23.6,ug/m3 LC,75,Long Beach (South)
+2/20/14,AQS,60374004,3,30.2,ug/m3 LC,89,Long Beach (South)
+2/21/14,AQS,60374004,3,20.5,ug/m3 LC,69,Long Beach (South)
+2/22/14,AQS,60374004,3,22,ug/m3 LC,72,Long Beach (South)
+2/23/14,AQS,60374004,3,19.9,ug/m3 LC,67,Long Beach (South)
+2/24/14,AQS,60374004,3,27.3,ug/m3 LC,83,Long Beach (South)
+2/25/14,AQS,60374004,3,13.2,ug/m3 LC,53,Long Beach (South)
+3/8/14,AQS,60374004,3,16.8,ug/m3 LC,61,Long Beach (South)
+3/9/14,AQS,60374004,3,9,ug/m3 LC,38,Long Beach (South)
+3/10/14,AQS,60374004,3,11.2,ug/m3 LC,47,Long Beach (South)
+3/11/14,AQS,60374004,3,11.6,ug/m3 LC,48,Long Beach (South)
+3/12/14,AQS,60374004,3,10,ug/m3 LC,42,Long Beach (South)
+3/13/14,AQS,60374004,3,12,ug/m3 LC,50,Long Beach (South)
+3/14/14,AQS,60374004,3,16.5,ug/m3 LC,60,Long Beach (South)
+3/15/14,AQS,60374004,3,17.3,ug/m3 LC,62,Long Beach (South)
+3/16/14,AQS,60374004,3,18.8,ug/m3 LC,65,Long Beach (South)
+3/17/14,AQS,60374004,3,17.5,ug/m3 LC,62,Long Beach (South)
+3/18/14,AQS,60374004,3,15.7,ug/m3 LC,59,Long Beach (South)
+3/19/14,AQS,60374004,3,16.4,ug/m3 LC,60,Long Beach (South)
+3/20/14,AQS,60374004,3,21.9,ug/m3 LC,72,Long Beach (South)
+3/21/14,AQS,60374004,3,14.7,ug/m3 LC,56,Long Beach (South)
+3/22/14,AQS,60374004,3,14.7,ug/m3 LC,56,Long Beach (South)
+3/23/14,AQS,60374004,3,17.7,ug/m3 LC,63,Long Beach (South)
+3/24/14,AQS,60374004,3,19.9,ug/m3 LC,67,Long Beach (South)
+3/25/14,AQS,60374004,3,17.8,ug/m3 LC,63,Long Beach (South)
+3/26/14,AQS,60374004,3,8.7,ug/m3 LC,36,Long Beach (South)
+3/27/14,AQS,60374004,3,10.1,ug/m3 LC,42,Long Beach (South)
+3/28/14,AQS,60374004,3,14.9,ug/m3 LC,57,Long Beach (South)
+3/29/14,AQS,60374004,3,17.2,ug/m3 LC,62,Long Beach (South)
+3/30/14,AQS,60374004,3,8,ug/m3 LC,33,Long Beach (South)
+3/31/14,AQS,60374004,3,9.5,ug/m3 LC,40,Long Beach (South)
+4/1/14,AQS,60374004,3,7.1,ug/m3 LC,30,Long Beach (South)
+4/2/14,AQS,60374004,3,6.2,ug/m3 LC,26,Long Beach (South)
+4/3/14,AQS,60374004,3,9.9,ug/m3 LC,41,Long Beach (South)
+4/4/14,AQS,60374004,3,7.7,ug/m3 LC,32,Long Beach (South)
+4/5/14,AQS,60374004,3,9.5,ug/m3 LC,40,Long Beach (South)
+4/6/14,AQS,60374004,3,10.9,ug/m3 LC,45,Long Beach (South)
+4/7/14,AQS,60374004,3,14,ug/m3 LC,55,Long Beach (South)
+4/8/14,AQS,60374004,3,19.2,ug/m3 LC,66,Long Beach (South)
+4/9/14,AQS,60374004,3,18.5,ug/m3 LC,64,Long Beach (South)
+4/10/14,AQS,60374004,3,21.6,ug/m3 LC,71,Long Beach (South)
+4/11/14,AQS,60374004,3,16.1,ug/m3 LC,59,Long Beach (South)
+4/12/14,AQS,60374004,3,14.7,ug/m3 LC,56,Long Beach (South)
+4/13/14,AQS,60374004,3,13.4,ug/m3 LC,54,Long Beach (South)
+4/14/14,AQS,60374004,3,17.2,ug/m3 LC,62,Long Beach (South)
+4/15/14,AQS,60374004,3,23.9,ug/m3 LC,76,Long Beach (South)
+4/16/14,AQS,60374004,3,17.2,ug/m3 LC,62,Long Beach (South)
+4/17/14,AQS,60374004,3,17.7,ug/m3 LC,63,Long Beach (South)
+4/18/14,AQS,60374004,3,14.7,ug/m3 LC,56,Long Beach (South)
+4/19/14,AQS,60374004,3,15.8,ug/m3 LC,59,Long Beach (South)
+4/20/14,AQS,60374004,3,18,ug/m3 LC,63,Long Beach (South)
+4/21/14,AQS,60374004,3,20.3,ug/m3 LC,68,Long Beach (South)
+4/25/14,AQS,60374004,3,12,ug/m3 LC,50,Long Beach (South)
+4/26/14,AQS,60374004,3,7.7,ug/m3 LC,32,Long Beach (South)
+4/27/14,AQS,60374004,3,9.1,ug/m3 LC,38,Long Beach (South)
+4/28/14,AQS,60374004,3,12.4,ug/m3 LC,52,Long Beach (South)
+4/29/14,AQS,60374004,3,12.1,ug/m3 LC,51,Long Beach (South)
+4/30/14,AQS,60374004,3,27,ug/m3 LC,82,Long Beach (South)
+5/1/14,AQS,60374004,3,16.1,ug/m3 LC,59,Long Beach (South)
+5/2/14,AQS,60374004,3,14.6,ug/m3 LC,56,Long Beach (South)
+5/3/14,AQS,60374004,3,12.7,ug/m3 LC,52,Long Beach (South)
+5/4/14,AQS,60374004,3,12.6,ug/m3 LC,52,Long Beach (South)
+5/5/14,AQS,60374004,3,10.9,ug/m3 LC,45,Long Beach (South)
+5/6/14,AQS,60374004,3,10.8,ug/m3 LC,45,Long Beach (South)
+5/7/14,AQS,60374004,3,13.2,ug/m3 LC,53,Long Beach (South)
+5/8/14,AQS,60374004,3,13.3,ug/m3 LC,54,Long Beach (South)
+5/9/14,AQS,60374004,3,10.9,ug/m3 LC,45,Long Beach (South)
+5/10/14,AQS,60374004,3,11.2,ug/m3 LC,47,Long Beach (South)
+5/11/14,AQS,60374004,3,11.9,ug/m3 LC,50,Long Beach (South)
+5/12/14,AQS,60374004,3,10,ug/m3 LC,42,Long Beach (South)
+5/13/14,AQS,60374004,3,11.5,ug/m3 LC,48,Long Beach (South)
+5/14/14,AQS,60374004,3,11.8,ug/m3 LC,49,Long Beach (South)
+5/15/14,AQS,60374004,3,11.1,ug/m3 LC,46,Long Beach (South)
+5/16/14,AQS,60374004,3,16.3,ug/m3 LC,60,Long Beach (South)
+5/21/14,AQS,60374004,3,6.7,ug/m3 LC,28,Long Beach (South)
+5/22/14,AQS,60374004,3,7.1,ug/m3 LC,30,Long Beach (South)
+5/23/14,AQS,60374004,3,9.5,ug/m3 LC,40,Long Beach (South)
+5/24/14,AQS,60374004,3,6.1,ug/m3 LC,25,Long Beach (South)
+5/25/14,AQS,60374004,3,6.3,ug/m3 LC,26,Long Beach (South)
+5/26/14,AQS,60374004,3,11,ug/m3 LC,46,Long Beach (South)
+5/27/14,AQS,60374004,3,13.4,ug/m3 LC,54,Long Beach (South)
+5/28/14,AQS,60374004,3,10.8,ug/m3 LC,45,Long Beach (South)
+5/29/14,AQS,60374004,3,11.1,ug/m3 LC,46,Long Beach (South)
+5/30/14,AQS,60374004,3,18.2,ug/m3 LC,64,Long Beach (South)
+5/31/14,AQS,60374004,3,18.6,ug/m3 LC,65,Long Beach (South)
+6/1/14,AQS,60374004,3,15.8,ug/m3 LC,59,Long Beach (South)
+6/2/14,AQS,60374004,3,15.2,ug/m3 LC,58,Long Beach (South)
+6/3/14,AQS,60374004,3,11.4,ug/m3 LC,48,Long Beach (South)
+6/4/14,AQS,60374004,3,12.5,ug/m3 LC,52,Long Beach (South)
+6/5/14,AQS,60374004,3,16.8,ug/m3 LC,61,Long Beach (South)
+6/6/14,AQS,60374004,3,9.1,ug/m3 LC,38,Long Beach (South)
+6/7/14,AQS,60374004,3,4.6,ug/m3 LC,19,Long Beach (South)
+6/8/14,AQS,60374004,3,3.9,ug/m3 LC,16,Long Beach (South)
+6/9/14,AQS,60374004,3,3,ug/m3 LC,13,Long Beach (South)
+6/10/14,AQS,60374004,3,7,ug/m3 LC,29,Long Beach (South)
+6/11/14,AQS,60374004,3,11.8,ug/m3 LC,49,Long Beach (South)
+6/12/14,AQS,60374004,3,15,ug/m3 LC,57,Long Beach (South)
+6/13/14,AQS,60374004,3,14.1,ug/m3 LC,55,Long Beach (South)
+6/14/14,AQS,60374004,3,12.9,ug/m3 LC,53,Long Beach (South)
+6/15/14,AQS,60374004,3,16,ug/m3 LC,59,Long Beach (South)
+6/16/14,AQS,60374004,3,14.7,ug/m3 LC,56,Long Beach (South)
+6/17/14,AQS,60374004,3,12.5,ug/m3 LC,52,Long Beach (South)
+6/18/14,AQS,60374004,3,12.3,ug/m3 LC,51,Long Beach (South)
+6/19/14,AQS,60374004,3,16.6,ug/m3 LC,60,Long Beach (South)
+6/20/14,AQS,60374004,3,15.9,ug/m3 LC,59,Long Beach (South)
+6/21/14,AQS,60374004,3,11.6,ug/m3 LC,48,Long Beach (South)
+6/22/14,AQS,60374004,3,15.6,ug/m3 LC,58,Long Beach (South)
+6/23/14,AQS,60374004,3,16.4,ug/m3 LC,60,Long Beach (South)
+6/24/14,AQS,60374004,3,15.8,ug/m3 LC,59,Long Beach (South)
+6/25/14,AQS,60374004,3,15.7,ug/m3 LC,59,Long Beach (South)
+6/26/14,AQS,60374004,3,12.7,ug/m3 LC,52,Long Beach (South)
+6/27/14,AQS,60374004,3,7.5,ug/m3 LC,31,Long Beach (South)
+6/28/14,AQS,60374004,3,8.5,ug/m3 LC,35,Long Beach (South)
+6/29/14,AQS,60374004,3,7.6,ug/m3 LC,32,Long Beach (South)
+6/30/14,AQS,60374004,3,9.5,ug/m3 LC,40,Long Beach (South)
+7/1/14,AQS,60374004,3,18.2,ug/m3 LC,64,Long Beach (South)
+7/2/14,AQS,60374004,3,11.9,ug/m3 LC,50,Long Beach (South)
+7/3/14,AQS,60374004,3,15.3,ug/m3 LC,58,Long Beach (South)
+7/4/14,AQS,60374004,3,16.2,ug/m3 LC,60,Long Beach (South)
+7/5/14,AQS,60374004,3,14.8,ug/m3 LC,57,Long Beach (South)
+7/6/14,AQS,60374004,3,11.5,ug/m3 LC,48,Long Beach (South)
+7/7/14,AQS,60374004,3,10.2,ug/m3 LC,43,Long Beach (South)
+7/8/14,AQS,60374004,3,12.3,ug/m3 LC,51,Long Beach (South)
+7/9/14,AQS,60374004,3,10.8,ug/m3 LC,45,Long Beach (South)
+7/10/14,AQS,60374004,3,8.5,ug/m3 LC,35,Long Beach (South)
+7/11/14,AQS,60374004,3,5.9,ug/m3 LC,25,Long Beach (South)
+7/12/14,AQS,60374004,3,5.8,ug/m3 LC,24,Long Beach (South)
+7/13/14,AQS,60374004,3,9.8,ug/m3 LC,41,Long Beach (South)
+7/14/14,AQS,60374004,3,8.6,ug/m3 LC,36,Long Beach (South)
+7/15/14,AQS,60374004,3,7.4,ug/m3 LC,31,Long Beach (South)
+7/16/14,AQS,60374004,3,5.2,ug/m3 LC,22,Long Beach (South)
+7/17/14,AQS,60374004,3,5,ug/m3 LC,21,Long Beach (South)
+7/18/14,AQS,60374004,3,4,ug/m3 LC,17,Long Beach (South)
+7/19/14,AQS,60374004,3,5.6,ug/m3 LC,23,Long Beach (South)
+7/20/14,AQS,60374004,3,5,ug/m3 LC,21,Long Beach (South)
+7/21/14,AQS,60374004,3,3.5,ug/m3 LC,15,Long Beach (South)
+7/22/14,AQS,60374004,3,5.7,ug/m3 LC,24,Long Beach (South)
+7/23/14,AQS,60374004,3,8.3,ug/m3 LC,35,Long Beach (South)
+7/24/14,AQS,60374004,3,11.1,ug/m3 LC,46,Long Beach (South)
+7/25/14,AQS,60374004,3,13.8,ug/m3 LC,55,Long Beach (South)
+7/26/14,AQS,60374004,3,14.9,ug/m3 LC,57,Long Beach (South)
+7/27/14,AQS,60374004,3,12.7,ug/m3 LC,52,Long Beach (South)
+7/28/14,AQS,60374004,3,13.5,ug/m3 LC,54,Long Beach (South)
+7/29/14,AQS,60374004,3,13.6,ug/m3 LC,54,Long Beach (South)
+7/30/14,AQS,60374004,3,12.6,ug/m3 LC,52,Long Beach (South)
+7/31/14,AQS,60374004,3,11.8,ug/m3 LC,49,Long Beach (South)
+8/1/14,AQS,60374004,3,12.1,ug/m3 LC,51,Long Beach (South)
+8/2/14,AQS,60374004,3,14.6,ug/m3 LC,56,Long Beach (South)
+8/3/14,AQS,60374004,3,11.7,ug/m3 LC,49,Long Beach (South)
+8/4/14,AQS,60374004,3,9.4,ug/m3 LC,39,Long Beach (South)
+8/5/14,AQS,60374004,3,9,ug/m3 LC,38,Long Beach (South)
+8/6/14,AQS,60374004,3,7,ug/m3 LC,29,Long Beach (South)
+8/7/14,AQS,60374004,3,8.3,ug/m3 LC,35,Long Beach (South)
+8/8/14,AQS,60374004,3,9.3,ug/m3 LC,39,Long Beach (South)
+8/9/14,AQS,60374004,3,13.7,ug/m3 LC,54,Long Beach (South)
+8/10/14,AQS,60374004,3,18.5,ug/m3 LC,64,Long Beach (South)
+8/11/14,AQS,60374004,3,13.1,ug/m3 LC,53,Long Beach (South)
+8/12/14,AQS,60374004,3,9.5,ug/m3 LC,40,Long Beach (South)
+8/13/14,AQS,60374004,3,8.5,ug/m3 LC,35,Long Beach (South)
+8/14/14,AQS,60374004,3,11.3,ug/m3 LC,47,Long Beach (South)
+8/15/14,AQS,60374004,3,12.5,ug/m3 LC,52,Long Beach (South)
+8/16/14,AQS,60374004,3,8.5,ug/m3 LC,35,Long Beach (South)
+8/17/14,AQS,60374004,3,10.8,ug/m3 LC,45,Long Beach (South)
+8/18/14,AQS,60374004,3,12.1,ug/m3 LC,51,Long Beach (South)
+8/19/14,AQS,60374004,3,6.9,ug/m3 LC,29,Long Beach (South)
+8/20/14,AQS,60374004,3,7.8,ug/m3 LC,33,Long Beach (South)
+8/21/14,AQS,60374004,3,5.6,ug/m3 LC,23,Long Beach (South)
+8/22/14,AQS,60374004,3,7.1,ug/m3 LC,30,Long Beach (South)
+8/23/14,AQS,60374004,3,5.3,ug/m3 LC,22,Long Beach (South)
+8/24/14,AQS,60374004,3,5.4,ug/m3 LC,23,Long Beach (South)
+8/25/14,AQS,60374004,3,6.7,ug/m3 LC,28,Long Beach (South)
+8/26/14,AQS,60374004,3,12.8,ug/m3 LC,52,Long Beach (South)
+8/27/14,AQS,60374004,3,14.3,ug/m3 LC,56,Long Beach (South)
+8/28/14,AQS,60374004,3,10.5,ug/m3 LC,44,Long Beach (South)
+8/29/14,AQS,60374004,3,11.5,ug/m3 LC,48,Long Beach (South)
+8/30/14,AQS,60374004,3,12,ug/m3 LC,50,Long Beach (South)
+8/31/14,AQS,60374004,3,6.5,ug/m3 LC,27,Long Beach (South)
+9/1/14,AQS,60374004,3,9.1,ug/m3 LC,38,Long Beach (South)
+9/2/14,AQS,60374004,3,9.8,ug/m3 LC,41,Long Beach (South)
+9/3/14,AQS,60374004,3,8.7,ug/m3 LC,36,Long Beach (South)
+9/4/14,AQS,60374004,3,9.6,ug/m3 LC,40,Long Beach (South)
+9/5/14,AQS,60374004,3,12,ug/m3 LC,50,Long Beach (South)
+9/6/14,AQS,60374004,3,16.6,ug/m3 LC,60,Long Beach (South)
+9/7/14,AQS,60374004,3,17.8,ug/m3 LC,63,Long Beach (South)
+9/8/14,AQS,60374004,3,12,ug/m3 LC,50,Long Beach (South)
+9/9/14,AQS,60374004,3,14,ug/m3 LC,55,Long Beach (South)
+9/10/14,AQS,60374004,3,12.1,ug/m3 LC,51,Long Beach (South)
+9/11/14,AQS,60374004,3,12.3,ug/m3 LC,51,Long Beach (South)
+9/12/14,AQS,60374004,3,14.3,ug/m3 LC,56,Long Beach (South)
+9/13/14,AQS,60374004,3,14.2,ug/m3 LC,55,Long Beach (South)
+9/14/14,AQS,60374004,3,16,ug/m3 LC,59,Long Beach (South)
+9/15/14,AQS,60374004,3,12.9,ug/m3 LC,53,Long Beach (South)
+9/16/14,AQS,60374004,3,11.2,ug/m3 LC,47,Long Beach (South)
+9/17/14,AQS,60374004,3,10.6,ug/m3 LC,44,Long Beach (South)
+9/18/14,AQS,60374004,3,3.9,ug/m3 LC,16,Long Beach (South)
+9/19/14,AQS,60374004,3,4.1,ug/m3 LC,17,Long Beach (South)
+9/20/14,AQS,60374004,3,5.8,ug/m3 LC,24,Long Beach (South)
+9/21/14,AQS,60374004,3,4.7,ug/m3 LC,20,Long Beach (South)
+9/22/14,AQS,60374004,3,7.3,ug/m3 LC,30,Long Beach (South)
+9/23/14,AQS,60374004,3,14.2,ug/m3 LC,55,Long Beach (South)
+9/24/14,AQS,60374004,3,10.3,ug/m3 LC,43,Long Beach (South)
+9/25/14,AQS,60374004,3,7.9,ug/m3 LC,33,Long Beach (South)
+9/26/14,AQS,60374004,3,5.3,ug/m3 LC,22,Long Beach (South)
+9/27/14,AQS,60374004,3,7,ug/m3 LC,29,Long Beach (South)
+9/28/14,AQS,60374004,3,8,ug/m3 LC,33,Long Beach (South)
+9/29/14,AQS,60374004,3,10.5,ug/m3 LC,44,Long Beach (South)
+9/30/14,AQS,60374004,3,11.1,ug/m3 LC,46,Long Beach (South)
+10/1/14,AQS,60374004,3,11,ug/m3 LC,46,Long Beach (South)
+10/2/14,AQS,60374004,3,11.7,ug/m3 LC,49,Long Beach (South)
+10/3/14,AQS,60374004,3,11.7,ug/m3 LC,49,Long Beach (South)
+10/4/14,AQS,60374004,3,17.9,ug/m3 LC,63,Long Beach (South)
+10/5/14,AQS,60374004,3,8.8,ug/m3 LC,37,Long Beach (South)
+10/6/14,AQS,60374004,3,12.8,ug/m3 LC,52,Long Beach (South)
+10/11/14,AQS,60374004,3,23.5,ug/m3 LC,75,Long Beach (South)
+10/12/14,AQS,60374004,3,17.3,ug/m3 LC,62,Long Beach (South)
+10/13/14,AQS,60374004,3,18.4,ug/m3 LC,64,Long Beach (South)
+10/14/14,AQS,60374004,3,19.6,ug/m3 LC,67,Long Beach (South)
+10/15/14,AQS,60374004,3,6.4,ug/m3 LC,27,Long Beach (South)
+10/16/14,AQS,60374004,3,9.7,ug/m3 LC,40,Long Beach (South)
+10/17/14,AQS,60374004,3,9.5,ug/m3 LC,40,Long Beach (South)
+10/18/14,AQS,60374004,3,8.2,ug/m3 LC,34,Long Beach (South)
+10/19/14,AQS,60374004,3,9,ug/m3 LC,38,Long Beach (South)
+10/20/14,AQS,60374004,3,10,ug/m3 LC,42,Long Beach (South)
+10/21/14,AQS,60374004,3,15,ug/m3 LC,57,Long Beach (South)
+10/22/14,AQS,60374004,3,19.7,ug/m3 LC,67,Long Beach (South)
+10/23/14,AQS,60374004,3,21.7,ug/m3 LC,71,Long Beach (South)
+10/24/14,AQS,60374004,3,17.8,ug/m3 LC,63,Long Beach (South)
+10/25/14,AQS,60374004,3,8.2,ug/m3 LC,34,Long Beach (South)
+10/26/14,AQS,60374004,3,6.2,ug/m3 LC,26,Long Beach (South)
+10/27/14,AQS,60374004,3,9.8,ug/m3 LC,41,Long Beach (South)
+10/28/14,AQS,60374004,3,15.7,ug/m3 LC,59,Long Beach (South)
+10/29/14,AQS,60374004,3,16.7,ug/m3 LC,61,Long Beach (South)
+10/30/14,AQS,60374004,3,14.8,ug/m3 LC,57,Long Beach (South)
+10/31/14,AQS,60374004,3,10.4,ug/m3 LC,43,Long Beach (South)
+11/1/14,AQS,60374004,3,3.1,ug/m3 LC,13,Long Beach (South)
+11/2/14,AQS,60374004,3,6.2,ug/m3 LC,26,Long Beach (South)
+11/3/14,AQS,60374004,3,11.4,ug/m3 LC,48,Long Beach (South)
+11/4/14,AQS,60374004,3,11,ug/m3 LC,46,Long Beach (South)
+11/5/14,AQS,60374004,3,10.4,ug/m3 LC,43,Long Beach (South)
+11/6/14,AQS,60374004,3,10.4,ug/m3 LC,43,Long Beach (South)
+11/7/14,AQS,60374004,3,12.9,ug/m3 LC,53,Long Beach (South)
+11/8/14,AQS,60374004,3,22.4,ug/m3 LC,73,Long Beach (South)
+11/9/14,AQS,60374004,3,24.5,ug/m3 LC,77,Long Beach (South)
+11/10/14,AQS,60374004,3,9.6,ug/m3 LC,40,Long Beach (South)
+11/11/14,AQS,60374004,3,7.1,ug/m3 LC,30,Long Beach (South)
+11/12/14,AQS,60374004,3,5.3,ug/m3 LC,22,Long Beach (South)
+11/13/14,AQS,60374004,3,11.4,ug/m3 LC,48,Long Beach (South)
+11/14/14,AQS,60374004,3,6.2,ug/m3 LC,26,Long Beach (South)
+11/15/14,AQS,60374004,3,9.2,ug/m3 LC,38,Long Beach (South)
+11/16/14,AQS,60374004,3,13.2,ug/m3 LC,53,Long Beach (South)
+11/17/14,AQS,60374004,3,7.5,ug/m3 LC,31,Long Beach (South)
+11/18/14,AQS,60374004,3,10,ug/m3 LC,42,Long Beach (South)
+11/19/14,AQS,60374004,3,9.9,ug/m3 LC,41,Long Beach (South)
+11/20/14,AQS,60374004,3,8.8,ug/m3 LC,37,Long Beach (South)
+11/21/14,AQS,60374004,3,5.4,ug/m3 LC,23,Long Beach (South)
+11/22/14,AQS,60374004,3,11.5,ug/m3 LC,48,Long Beach (South)
+11/23/14,AQS,60374004,3,11.8,ug/m3 LC,49,Long Beach (South)
+11/24/14,AQS,60374004,3,10.2,ug/m3 LC,43,Long Beach (South)
+11/25/14,AQS,60374004,3,9.8,ug/m3 LC,41,Long Beach (South)
+11/26/14,AQS,60374004,3,21.9,ug/m3 LC,72,Long Beach (South)
+11/27/14,AQS,60374004,3,15.2,ug/m3 LC,58,Long Beach (South)
+11/28/14,AQS,60374004,3,25.7,ug/m3 LC,80,Long Beach (South)
+11/29/14,AQS,60374004,3,19.5,ug/m3 LC,67,Long Beach (South)
+11/30/14,AQS,60374004,3,5.8,ug/m3 LC,24,Long Beach (South)
+12/1/14,AQS,60374004,3,13.2,ug/m3 LC,53,Long Beach (South)
+12/2/14,AQS,60374004,3,7.6,ug/m3 LC,32,Long Beach (South)
+12/3/14,AQS,60374004,3,2.1,ug/m3 LC,9,Long Beach (South)
+12/4/14,AQS,60374004,3,2.6,ug/m3 LC,11,Long Beach (South)
+12/5/14,AQS,60374004,3,21.6,ug/m3 LC,71,Long Beach (South)
+12/6/14,AQS,60374004,3,15,ug/m3 LC,57,Long Beach (South)
+12/7/14,AQS,60374004,3,15.1,ug/m3 LC,57,Long Beach (South)
+12/8/14,AQS,60374004,3,13.2,ug/m3 LC,53,Long Beach (South)
+12/9/14,AQS,60374004,3,17.9,ug/m3 LC,63,Long Beach (South)
+12/10/14,AQS,60374004,3,25,ug/m3 LC,78,Long Beach (South)
+12/11/14,AQS,60374004,3,15.2,ug/m3 LC,58,Long Beach (South)
+12/12/14,AQS,60374004,3,1.8,ug/m3 LC,8,Long Beach (South)
+12/13/14,AQS,60374004,3,10.3,ug/m3 LC,43,Long Beach (South)
+12/14/14,AQS,60374004,3,13,ug/m3 LC,53,Long Beach (South)
+12/15/14,AQS,60374004,3,21.2,ug/m3 LC,70,Long Beach (South)
+12/16/14,AQS,60374004,3,10.5,ug/m3 LC,44,Long Beach (South)
+12/19/14,AQS,60374004,3,17.7,ug/m3 LC,63,Long Beach (South)
+12/20/14,AQS,60374004,3,26.9,ug/m3 LC,82,Long Beach (South)
+12/21/14,AQS,60374004,3,40.1,ug/m3 LC,112,Long Beach (South)
+12/22/14,AQS,60374004,3,36.3,ug/m3 LC,103,Long Beach (South)
+12/23/14,AQS,60374004,3,21.3,ug/m3 LC,70,Long Beach (South)
+12/24/14,AQS,60374004,3,15.6,ug/m3 LC,58,Long Beach (South)
+12/25/14,AQS,60374004,3,6.1,ug/m3 LC,25,Long Beach (South)
+12/26/14,AQS,60374004,3,9.4,ug/m3 LC,39,Long Beach (South)
+12/27/14,AQS,60374004,3,13.1,ug/m3 LC,53,Long Beach (South)
+12/28/14,AQS,60374004,3,21.9,ug/m3 LC,72,Long Beach (South)
+12/29/14,AQS,60374004,3,21,ug/m3 LC,70,Long Beach (South)
+12/30/14,AQS,60374004,3,15.5,ug/m3 LC,58,Long Beach (South)
+12/31/14,AQS,60374004,3,16.4,ug/m3 LC,60,Long Beach (South)
+1/1/14,AQS,60376012,3,6.9,ug/m3 LC,29,Santa Clarita
+1/2/14,AQS,60376012,3,2.3,ug/m3 LC,10,Santa Clarita
+1/3/14,AQS,60376012,3,9.9,ug/m3 LC,41,Santa Clarita
+1/4/14,AQS,60376012,3,20.2,ug/m3 LC,68,Santa Clarita
+1/5/14,AQS,60376012,3,4.9,ug/m3 LC,20,Santa Clarita
+1/6/14,AQS,60376012,3,3.2,ug/m3 LC,13,Santa Clarita
+1/7/14,AQS,60376012,3,8,ug/m3 LC,33,Santa Clarita
+1/8/14,AQS,60376012,3,16.3,ug/m3 LC,60,Santa Clarita
+1/9/14,AQS,60376012,3,15.4,ug/m3 LC,58,Santa Clarita
+1/10/14,AQS,60376012,3,8.2,ug/m3 LC,34,Santa Clarita
+1/11/14,AQS,60376012,3,7.5,ug/m3 LC,31,Santa Clarita
+1/12/14,AQS,60376012,3,5.3,ug/m3 LC,22,Santa Clarita
+1/13/14,AQS,60376012,3,3.5,ug/m3 LC,15,Santa Clarita
+1/14/14,AQS,60376012,3,2.6,ug/m3 LC,11,Santa Clarita
+1/15/14,AQS,60376012,3,1.8,ug/m3 LC,8,Santa Clarita
+1/16/14,AQS,60376012,3,4.5,ug/m3 LC,19,Santa Clarita
+1/17/14,AQS,60376012,3,2.8,ug/m3 LC,12,Santa Clarita
+1/18/14,AQS,60376012,3,3,ug/m3 LC,13,Santa Clarita
+1/19/14,AQS,60376012,3,4.4,ug/m3 LC,18,Santa Clarita
+1/20/14,AQS,60376012,3,4.4,ug/m3 LC,18,Santa Clarita
+1/21/14,AQS,60376012,3,3.5,ug/m3 LC,15,Santa Clarita
+1/22/14,AQS,60376012,3,6.7,ug/m3 LC,28,Santa Clarita
+1/23/14,AQS,60376012,3,7.7,ug/m3 LC,32,Santa Clarita
+1/24/14,AQS,60376012,3,2.5,ug/m3 LC,10,Santa Clarita
+1/25/14,AQS,60376012,3,4.1,ug/m3 LC,17,Santa Clarita
+1/26/14,AQS,60376012,3,7.6,ug/m3 LC,32,Santa Clarita
+1/27/14,AQS,60376012,3,11.7,ug/m3 LC,49,Santa Clarita
+1/28/14,AQS,60376012,3,7.5,ug/m3 LC,31,Santa Clarita
+1/29/14,AQS,60376012,3,12.2,ug/m3 LC,51,Santa Clarita
+1/30/14,AQS,60376012,3,28.9,ug/m3 LC,86,Santa Clarita
+1/31/14,AQS,60376012,3,3.2,ug/m3 LC,13,Santa Clarita
+2/1/14,AQS,60376012,3,6.1,ug/m3 LC,25,Santa Clarita
+2/2/14,AQS,60376012,3,6.2,ug/m3 LC,26,Santa Clarita
+2/3/14,AQS,60376012,3,3.7,ug/m3 LC,15,Santa Clarita
+2/4/14,AQS,60376012,3,7,ug/m3 LC,29,Santa Clarita
+2/5/14,AQS,60376012,3,8.3,ug/m3 LC,35,Santa Clarita
+2/6/14,AQS,60376012,3,12.6,ug/m3 LC,52,Santa Clarita
+2/7/14,AQS,60376012,3,8.9,ug/m3 LC,37,Santa Clarita
+2/8/14,AQS,60376012,3,5.5,ug/m3 LC,23,Santa Clarita
+2/9/14,AQS,60376012,3,11.9,ug/m3 LC,50,Santa Clarita
+2/10/14,AQS,60376012,3,8.8,ug/m3 LC,37,Santa Clarita
+2/11/14,AQS,60376012,3,3,ug/m3 LC,13,Santa Clarita
+2/12/14,AQS,60376012,3,3.6,ug/m3 LC,15,Santa Clarita
+2/13/14,AQS,60376012,3,3.7,ug/m3 LC,15,Santa Clarita
+2/14/14,AQS,60376012,3,3.8,ug/m3 LC,16,Santa Clarita
+2/15/14,AQS,60376012,3,7.9,ug/m3 LC,33,Santa Clarita
+2/16/14,AQS,60376012,3,13.3,ug/m3 LC,54,Santa Clarita
+2/17/14,AQS,60376012,3,10.5,ug/m3 LC,44,Santa Clarita
+2/18/14,AQS,60376012,3,15.4,ug/m3 LC,58,Santa Clarita
+2/19/14,AQS,60376012,3,9.3,ug/m3 LC,39,Santa Clarita
+2/20/14,AQS,60376012,3,4.8,ug/m3 LC,20,Santa Clarita
+2/21/14,AQS,60376012,3,7,ug/m3 LC,29,Santa Clarita
+2/22/14,AQS,60376012,3,11.3,ug/m3 LC,47,Santa Clarita
+2/23/14,AQS,60376012,3,16.5,ug/m3 LC,60,Santa Clarita
+2/24/14,AQS,60376012,3,14.7,ug/m3 LC,56,Santa Clarita
+2/25/14,AQS,60376012,3,18.5,ug/m3 LC,64,Santa Clarita
+2/26/14,AQS,60376012,3,12.7,ug/m3 LC,52,Santa Clarita
+2/27/14,AQS,60376012,3,6.6,ug/m3 LC,28,Santa Clarita
+2/28/14,AQS,60376012,3,2.6,ug/m3 LC,11,Santa Clarita
+3/1/14,AQS,60376012,3,5.3,ug/m3 LC,22,Santa Clarita
+3/2/14,AQS,60376012,3,8.1,ug/m3 LC,34,Santa Clarita
+3/3/14,AQS,60376012,3,8.5,ug/m3 LC,35,Santa Clarita
+3/4/14,AQS,60376012,3,8.6,ug/m3 LC,36,Santa Clarita
+3/5/14,AQS,60376012,3,8.9,ug/m3 LC,37,Santa Clarita
+3/28/14,AQS,60376012,3,9.6,ug/m3 LC,40,Santa Clarita
+3/29/14,AQS,60376012,3,3.8,ug/m3 LC,16,Santa Clarita
+3/30/14,AQS,60376012,3,4.3,ug/m3 LC,18,Santa Clarita
+3/31/14,AQS,60376012,3,4.3,ug/m3 LC,18,Santa Clarita
+4/1/14,AQS,60376012,3,4.3,ug/m3 LC,18,Santa Clarita
+4/2/14,AQS,60376012,3,3.1,ug/m3 LC,13,Santa Clarita
+4/3/14,AQS,60376012,3,6.5,ug/m3 LC,27,Santa Clarita
+4/4/14,AQS,60376012,3,5.7,ug/m3 LC,24,Santa Clarita
+4/5/14,AQS,60376012,3,4.8,ug/m3 LC,20,Santa Clarita
+4/6/14,AQS,60376012,3,5.4,ug/m3 LC,23,Santa Clarita
+4/7/14,AQS,60376012,3,6.9,ug/m3 LC,29,Santa Clarita
+4/8/14,AQS,60376012,3,7.7,ug/m3 LC,32,Santa Clarita
+4/10/14,AQS,60376012,3,5.8,ug/m3 LC,24,Santa Clarita
+4/11/14,AQS,60376012,3,7,ug/m3 LC,29,Santa Clarita
+4/12/14,AQS,60376012,3,18,ug/m3 LC,63,Santa Clarita
+4/13/14,AQS,60376012,3,14.9,ug/m3 LC,57,Santa Clarita
+4/14/14,AQS,60376012,3,8.6,ug/m3 LC,36,Santa Clarita
+4/15/14,AQS,60376012,3,8.9,ug/m3 LC,37,Santa Clarita
+4/16/14,AQS,60376012,3,22.1,ug/m3 LC,72,Santa Clarita
+4/17/14,AQS,60376012,3,27.9,ug/m3 LC,84,Santa Clarita
+4/18/14,AQS,60376012,3,16.7,ug/m3 LC,61,Santa Clarita
+4/19/14,AQS,60376012,3,13.8,ug/m3 LC,55,Santa Clarita
+4/20/14,AQS,60376012,3,12.1,ug/m3 LC,51,Santa Clarita
+4/21/14,AQS,60376012,3,11.7,ug/m3 LC,49,Santa Clarita
+4/22/14,AQS,60376012,3,17.1,ug/m3 LC,62,Santa Clarita
+4/23/14,AQS,60376012,3,4.4,ug/m3 LC,18,Santa Clarita
+4/24/14,AQS,60376012,3,6.8,ug/m3 LC,28,Santa Clarita
+4/25/14,AQS,60376012,3,13.1,ug/m3 LC,53,Santa Clarita
+4/26/14,AQS,60376012,3,4.2,ug/m3 LC,18,Santa Clarita
+4/27/14,AQS,60376012,3,6.2,ug/m3 LC,26,Santa Clarita
+4/28/14,AQS,60376012,3,6.8,ug/m3 LC,28,Santa Clarita
+4/29/14,AQS,60376012,3,6.2,ug/m3 LC,26,Santa Clarita
+4/30/14,AQS,60376012,3,4.6,ug/m3 LC,19,Santa Clarita
+5/1/14,AQS,60376012,3,4.6,ug/m3 LC,19,Santa Clarita
+5/2/14,AQS,60376012,3,7.6,ug/m3 LC,32,Santa Clarita
+5/3/14,AQS,60376012,3,9.4,ug/m3 LC,39,Santa Clarita
+5/4/14,AQS,60376012,3,12.5,ug/m3 LC,52,Santa Clarita
+5/5/14,AQS,60376012,3,11.9,ug/m3 LC,50,Santa Clarita
+5/6/14,AQS,60376012,3,5.3,ug/m3 LC,22,Santa Clarita
+5/7/14,AQS,60376012,3,10.4,ug/m3 LC,43,Santa Clarita
+5/8/14,AQS,60376012,3,13.3,ug/m3 LC,54,Santa Clarita
+5/9/14,AQS,60376012,3,14,ug/m3 LC,55,Santa Clarita
+5/10/14,AQS,60376012,3,7.1,ug/m3 LC,30,Santa Clarita
+5/11/14,AQS,60376012,3,5.6,ug/m3 LC,23,Santa Clarita
+5/12/14,AQS,60376012,3,3.6,ug/m3 LC,15,Santa Clarita
+5/13/14,AQS,60376012,3,4.5,ug/m3 LC,19,Santa Clarita
+5/14/14,AQS,60376012,3,4.3,ug/m3 LC,18,Santa Clarita
+5/15/14,AQS,60376012,3,4,ug/m3 LC,17,Santa Clarita
+5/16/14,AQS,60376012,3,8.5,ug/m3 LC,35,Santa Clarita
+5/17/14,AQS,60376012,3,16.8,ug/m3 LC,61,Santa Clarita
+5/18/14,AQS,60376012,3,15,ug/m3 LC,57,Santa Clarita
+5/19/14,AQS,60376012,3,11.8,ug/m3 LC,49,Santa Clarita
+5/20/14,AQS,60376012,3,6.1,ug/m3 LC,25,Santa Clarita
+5/21/14,AQS,60376012,3,10.2,ug/m3 LC,43,Santa Clarita
+5/22/14,AQS,60376012,3,13.1,ug/m3 LC,53,Santa Clarita
+5/23/14,AQS,60376012,3,12.7,ug/m3 LC,52,Santa Clarita
+5/24/14,AQS,60376012,3,20.5,ug/m3 LC,69,Santa Clarita
+5/25/14,AQS,60376012,3,17.4,ug/m3 LC,62,Santa Clarita
+5/26/14,AQS,60376012,3,16.7,ug/m3 LC,61,Santa Clarita
+5/27/14,AQS,60376012,3,18.9,ug/m3 LC,65,Santa Clarita
+5/28/14,AQS,60376012,3,21.8,ug/m3 LC,71,Santa Clarita
+5/29/14,AQS,60376012,3,16.2,ug/m3 LC,60,Santa Clarita
+5/30/14,AQS,60376012,3,14.5,ug/m3 LC,56,Santa Clarita
+5/31/14,AQS,60376012,3,15.1,ug/m3 LC,57,Santa Clarita
+6/1/14,AQS,60376012,3,13,ug/m3 LC,53,Santa Clarita
+6/2/14,AQS,60376012,3,12.5,ug/m3 LC,52,Santa Clarita
+6/3/14,AQS,60376012,3,9.9,ug/m3 LC,41,Santa Clarita
+6/4/14,AQS,60376012,3,9.5,ug/m3 LC,40,Santa Clarita
+6/5/14,AQS,60376012,3,15.2,ug/m3 LC,58,Santa Clarita
+6/6/14,AQS,60376012,3,21.4,ug/m3 LC,71,Santa Clarita
+6/7/14,AQS,60376012,3,25.4,ug/m3 LC,79,Santa Clarita
+6/8/14,AQS,60376012,3,22.1,ug/m3 LC,72,Santa Clarita
+6/9/14,AQS,60376012,3,21.7,ug/m3 LC,71,Santa Clarita
+6/10/14,AQS,60376012,3,22.1,ug/m3 LC,72,Santa Clarita
+6/11/14,AQS,60376012,3,17.2,ug/m3 LC,62,Santa Clarita
+6/12/14,AQS,60376012,3,16.2,ug/m3 LC,60,Santa Clarita
+6/13/14,AQS,60376012,3,15,ug/m3 LC,57,Santa Clarita
+6/14/14,AQS,60376012,3,16.2,ug/m3 LC,60,Santa Clarita
+6/15/14,AQS,60376012,3,18.2,ug/m3 LC,64,Santa Clarita
+6/16/14,AQS,60376012,3,16.2,ug/m3 LC,60,Santa Clarita
+6/17/14,AQS,60376012,3,12.4,ug/m3 LC,52,Santa Clarita
+6/18/14,AQS,60376012,3,15.3,ug/m3 LC,58,Santa Clarita
+6/19/14,AQS,60376012,3,15.9,ug/m3 LC,59,Santa Clarita
+6/20/14,AQS,60376012,3,15.7,ug/m3 LC,59,Santa Clarita
+6/21/14,AQS,60376012,3,17.3,ug/m3 LC,62,Santa Clarita
+6/22/14,AQS,60376012,3,22.6,ug/m3 LC,73,Santa Clarita
+6/23/14,AQS,60376012,3,23.2,ug/m3 LC,74,Santa Clarita
+6/24/14,AQS,60376012,3,24.8,ug/m3 LC,78,Santa Clarita
+6/25/14,AQS,60376012,3,24.8,ug/m3 LC,78,Santa Clarita
+6/26/14,AQS,60376012,3,20.4,ug/m3 LC,68,Santa Clarita
+6/27/14,AQS,60376012,3,15.7,ug/m3 LC,59,Santa Clarita
+6/28/14,AQS,60376012,3,19.8,ug/m3 LC,67,Santa Clarita
+6/29/14,AQS,60376012,3,21.2,ug/m3 LC,70,Santa Clarita
+6/30/14,AQS,60376012,3,21.9,ug/m3 LC,72,Santa Clarita
+7/1/14,AQS,60376012,3,18.4,ug/m3 LC,64,Santa Clarita
+7/2/14,AQS,60376012,3,18.2,ug/m3 LC,64,Santa Clarita
+7/3/14,AQS,60376012,3,16.4,ug/m3 LC,60,Santa Clarita
+7/4/14,AQS,60376012,3,18.5,ug/m3 LC,64,Santa Clarita
+7/5/14,AQS,60376012,3,18.5,ug/m3 LC,64,Santa Clarita
+7/6/14,AQS,60376012,3,13.1,ug/m3 LC,53,Santa Clarita
+7/7/14,AQS,60376012,3,14.4,ug/m3 LC,56,Santa Clarita
+7/8/14,AQS,60376012,3,16.5,ug/m3 LC,60,Santa Clarita
+7/9/14,AQS,60376012,3,17.3,ug/m3 LC,62,Santa Clarita
+7/10/14,AQS,60376012,3,15.7,ug/m3 LC,59,Santa Clarita
+7/11/14,AQS,60376012,3,11,ug/m3 LC,46,Santa Clarita
+7/12/14,AQS,60376012,3,14.5,ug/m3 LC,56,Santa Clarita
+7/13/14,AQS,60376012,3,14.9,ug/m3 LC,57,Santa Clarita
+7/14/14,AQS,60376012,3,17.9,ug/m3 LC,63,Santa Clarita
+7/15/14,AQS,60376012,3,17.3,ug/m3 LC,62,Santa Clarita
+7/16/14,AQS,60376012,3,15,ug/m3 LC,57,Santa Clarita
+7/17/14,AQS,60376012,3,10.2,ug/m3 LC,43,Santa Clarita
+7/18/14,AQS,60376012,3,10.2,ug/m3 LC,43,Santa Clarita
+7/19/14,AQS,60376012,3,11.6,ug/m3 LC,48,Santa Clarita
+7/20/14,AQS,60376012,3,14.3,ug/m3 LC,56,Santa Clarita
+7/21/14,AQS,60376012,3,10.3,ug/m3 LC,43,Santa Clarita
+7/22/14,AQS,60376012,3,8.5,ug/m3 LC,35,Santa Clarita
+7/23/14,AQS,60376012,3,7.8,ug/m3 LC,33,Santa Clarita
+7/24/14,AQS,60376012,3,9.7,ug/m3 LC,40,Santa Clarita
+7/25/14,AQS,60376012,3,18.7,ug/m3 LC,65,Santa Clarita
+7/26/14,AQS,60376012,3,16,ug/m3 LC,59,Santa Clarita
+7/27/14,AQS,60376012,3,13.6,ug/m3 LC,54,Santa Clarita
+7/28/14,AQS,60376012,3,13,ug/m3 LC,53,Santa Clarita
+7/29/14,AQS,60376012,3,14.5,ug/m3 LC,56,Santa Clarita
+7/30/14,AQS,60376012,3,17.8,ug/m3 LC,63,Santa Clarita
+7/31/14,AQS,60376012,3,20.3,ug/m3 LC,68,Santa Clarita
+8/1/14,AQS,60376012,3,20.7,ug/m3 LC,69,Santa Clarita
+8/2/14,AQS,60376012,3,18.9,ug/m3 LC,65,Santa Clarita
+8/3/14,AQS,60376012,3,11.8,ug/m3 LC,49,Santa Clarita
+8/4/14,AQS,60376012,3,12.9,ug/m3 LC,53,Santa Clarita
+8/5/14,AQS,60376012,3,9.2,ug/m3 LC,38,Santa Clarita
+8/6/14,AQS,60376012,3,12.3,ug/m3 LC,51,Santa Clarita
+8/7/14,AQS,60376012,3,17.9,ug/m3 LC,63,Santa Clarita
+8/8/14,AQS,60376012,3,19.8,ug/m3 LC,67,Santa Clarita
+8/9/14,AQS,60376012,3,22,ug/m3 LC,72,Santa Clarita
+8/10/14,AQS,60376012,3,13,ug/m3 LC,53,Santa Clarita
+8/11/14,AQS,60376012,3,13.6,ug/m3 LC,54,Santa Clarita
+8/12/14,AQS,60376012,3,14.6,ug/m3 LC,56,Santa Clarita
+8/13/14,AQS,60376012,3,13.2,ug/m3 LC,53,Santa Clarita
+8/14/14,AQS,60376012,3,11.8,ug/m3 LC,49,Santa Clarita
+8/15/14,AQS,60376012,3,10.9,ug/m3 LC,45,Santa Clarita
+8/16/14,AQS,60376012,3,7.8,ug/m3 LC,33,Santa Clarita
+8/17/14,AQS,60376012,3,10.1,ug/m3 LC,42,Santa Clarita
+8/18/14,AQS,60376012,3,14,ug/m3 LC,55,Santa Clarita
+8/19/14,AQS,60376012,3,16.1,ug/m3 LC,59,Santa Clarita
+8/20/14,AQS,60376012,3,14.3,ug/m3 LC,56,Santa Clarita
+8/21/14,AQS,60376012,3,12.5,ug/m3 LC,52,Santa Clarita
+8/22/14,AQS,60376012,3,10.4,ug/m3 LC,43,Santa Clarita
+8/23/14,AQS,60376012,3,10.6,ug/m3 LC,44,Santa Clarita
+8/24/14,AQS,60376012,3,9.5,ug/m3 LC,40,Santa Clarita
+8/25/14,AQS,60376012,3,8.7,ug/m3 LC,36,Santa Clarita
+8/26/14,AQS,60376012,3,10,ug/m3 LC,42,Santa Clarita
+8/27/14,AQS,60376012,3,9.9,ug/m3 LC,41,Santa Clarita
+8/28/14,AQS,60376012,3,9.2,ug/m3 LC,38,Santa Clarita
+8/29/14,AQS,60376012,3,12.5,ug/m3 LC,52,Santa Clarita
+8/30/14,AQS,60376012,3,12.9,ug/m3 LC,53,Santa Clarita
+8/31/14,AQS,60376012,3,13.2,ug/m3 LC,53,Santa Clarita
+9/1/14,AQS,60376012,3,14,ug/m3 LC,55,Santa Clarita
+9/2/14,AQS,60376012,3,16.4,ug/m3 LC,60,Santa Clarita
+9/3/14,AQS,60376012,3,18,ug/m3 LC,63,Santa Clarita
+9/4/14,AQS,60376012,3,18.2,ug/m3 LC,64,Santa Clarita
+9/6/14,AQS,60376012,3,10.8,ug/m3 LC,45,Santa Clarita
+9/7/14,AQS,60376012,3,9.1,ug/m3 LC,38,Santa Clarita
+9/8/14,AQS,60376012,3,11.6,ug/m3 LC,48,Santa Clarita
+9/9/14,AQS,60376012,3,6.4,ug/m3 LC,27,Santa Clarita
+9/10/14,AQS,60376012,3,6.8,ug/m3 LC,28,Santa Clarita
+9/11/14,AQS,60376012,3,9.3,ug/m3 LC,39,Santa Clarita
+9/12/14,AQS,60376012,3,9.9,ug/m3 LC,41,Santa Clarita
+9/13/14,AQS,60376012,3,7.6,ug/m3 LC,32,Santa Clarita
+9/14/14,AQS,60376012,3,7.1,ug/m3 LC,30,Santa Clarita
+9/15/14,AQS,60376012,3,8.9,ug/m3 LC,37,Santa Clarita
+9/16/14,AQS,60376012,3,10.7,ug/m3 LC,45,Santa Clarita
+9/17/14,AQS,60376012,3,10.1,ug/m3 LC,42,Santa Clarita
+9/18/14,AQS,60376012,3,9,ug/m3 LC,38,Santa Clarita
+9/19/14,AQS,60376012,3,10.2,ug/m3 LC,43,Santa Clarita
+9/20/14,AQS,60376012,3,13.1,ug/m3 LC,53,Santa Clarita
+9/21/14,AQS,60376012,3,9.7,ug/m3 LC,40,Santa Clarita
+9/22/14,AQS,60376012,3,7.6,ug/m3 LC,32,Santa Clarita
+9/23/14,AQS,60376012,3,6.4,ug/m3 LC,27,Santa Clarita
+9/24/14,AQS,60376012,3,6.5,ug/m3 LC,27,Santa Clarita
+9/25/14,AQS,60376012,3,6,ug/m3 LC,25,Santa Clarita
+9/26/14,AQS,60376012,3,7.1,ug/m3 LC,30,Santa Clarita
+9/27/14,AQS,60376012,3,7,ug/m3 LC,29,Santa Clarita
+9/28/14,AQS,60376012,3,8.3,ug/m3 LC,35,Santa Clarita
+9/29/14,AQS,60376012,3,7.7,ug/m3 LC,32,Santa Clarita
+9/30/14,AQS,60376012,3,7.1,ug/m3 LC,30,Santa Clarita
+10/1/14,AQS,60376012,3,7.8,ug/m3 LC,33,Santa Clarita
+10/2/14,AQS,60376012,3,3.2,ug/m3 LC,13,Santa Clarita
+10/3/14,AQS,60376012,3,3.8,ug/m3 LC,16,Santa Clarita
+10/4/14,AQS,60376012,3,2.8,ug/m3 LC,12,Santa Clarita
+10/5/14,AQS,60376012,3,5.6,ug/m3 LC,23,Santa Clarita
+10/6/14,AQS,60376012,3,8.9,ug/m3 LC,37,Santa Clarita
+10/7/14,AQS,60376012,3,8.8,ug/m3 LC,37,Santa Clarita
+10/8/14,AQS,60376012,3,11,ug/m3 LC,46,Santa Clarita
+10/9/14,AQS,60376012,3,16.8,ug/m3 LC,61,Santa Clarita
+10/10/14,AQS,60376012,3,16.7,ug/m3 LC,61,Santa Clarita
+10/11/14,AQS,60376012,3,11.7,ug/m3 LC,49,Santa Clarita
+10/12/14,AQS,60376012,3,13.2,ug/m3 LC,53,Santa Clarita
+10/13/14,AQS,60376012,3,10.1,ug/m3 LC,42,Santa Clarita
+10/14/14,AQS,60376012,3,17.6,ug/m3 LC,63,Santa Clarita
+10/15/14,AQS,60376012,3,4,ug/m3 LC,17,Santa Clarita
+10/16/14,AQS,60376012,3,8.6,ug/m3 LC,36,Santa Clarita
+10/17/14,AQS,60376012,3,9.6,ug/m3 LC,40,Santa Clarita
+10/18/14,AQS,60376012,3,9.7,ug/m3 LC,40,Santa Clarita
+10/19/14,AQS,60376012,3,9.2,ug/m3 LC,38,Santa Clarita
+10/20/14,AQS,60376012,3,11.2,ug/m3 LC,47,Santa Clarita
+10/21/14,AQS,60376012,3,6.4,ug/m3 LC,27,Santa Clarita
+10/22/14,AQS,60376012,3,6.6,ug/m3 LC,28,Santa Clarita
+10/23/14,AQS,60376012,3,9.2,ug/m3 LC,38,Santa Clarita
+10/24/14,AQS,60376012,3,10.3,ug/m3 LC,43,Santa Clarita
+10/25/14,AQS,60376012,3,7.9,ug/m3 LC,33,Santa Clarita
+10/26/14,AQS,60376012,3,4,ug/m3 LC,17,Santa Clarita
+10/27/14,AQS,60376012,3,6.4,ug/m3 LC,27,Santa Clarita
+10/28/14,AQS,60376012,3,8.3,ug/m3 LC,35,Santa Clarita
+10/29/14,AQS,60376012,3,6.2,ug/m3 LC,26,Santa Clarita
+10/30/14,AQS,60376012,3,6.7,ug/m3 LC,28,Santa Clarita
+10/31/14,AQS,60376012,3,8.1,ug/m3 LC,34,Santa Clarita
+11/1/14,AQS,60376012,3,2.4,ug/m3 LC,10,Santa Clarita
+11/2/14,AQS,60376012,3,3.6,ug/m3 LC,15,Santa Clarita
+11/3/14,AQS,60376012,3,4.5,ug/m3 LC,19,Santa Clarita
+11/4/14,AQS,60376012,3,3.5,ug/m3 LC,15,Santa Clarita
+11/5/14,AQS,60376012,3,2.7,ug/m3 LC,11,Santa Clarita
+11/7/14,AQS,60376012,3,4,ug/m3 LC,17,Santa Clarita
+11/8/14,AQS,60376012,3,3.3,ug/m3 LC,14,Santa Clarita
+11/9/14,AQS,60376012,3,8.2,ug/m3 LC,34,Santa Clarita
+11/10/14,AQS,60376012,3,18.5,ug/m3 LC,64,Santa Clarita
+11/11/14,AQS,60376012,3,8.1,ug/m3 LC,34,Santa Clarita
+11/12/14,AQS,60376012,3,6.7,ug/m3 LC,28,Santa Clarita
+11/13/14,AQS,60376012,3,11,ug/m3 LC,46,Santa Clarita
+11/14/14,AQS,60376012,3,11.9,ug/m3 LC,50,Santa Clarita
+11/15/14,AQS,60376012,3,8.5,ug/m3 LC,35,Santa Clarita
+11/16/14,AQS,60376012,3,4.1,ug/m3 LC,17,Santa Clarita
+11/17/14,AQS,60376012,3,1.9,ug/m3 LC,8,Santa Clarita
+11/18/14,AQS,60376012,3,2.5,ug/m3 LC,10,Santa Clarita
+11/19/14,AQS,60376012,3,5,ug/m3 LC,21,Santa Clarita
+11/20/14,AQS,60376012,3,7.1,ug/m3 LC,30,Santa Clarita
+11/21/14,AQS,60376012,3,3.9,ug/m3 LC,16,Santa Clarita
+11/22/14,AQS,60376012,3,6.2,ug/m3 LC,26,Santa Clarita
+11/23/14,AQS,60376012,3,3.4,ug/m3 LC,14,Santa Clarita
+11/24/14,AQS,60376012,3,2,ug/m3 LC,8,Santa Clarita
+11/25/14,AQS,60376012,3,3.2,ug/m3 LC,13,Santa Clarita
+11/26/14,AQS,60376012,3,4.3,ug/m3 LC,18,Santa Clarita
+11/27/14,AQS,60376012,3,3.9,ug/m3 LC,16,Santa Clarita
+11/28/14,AQS,60376012,3,4.6,ug/m3 LC,19,Santa Clarita
+11/29/14,AQS,60376012,3,11.5,ug/m3 LC,48,Santa Clarita
+12/10/14,AQS,60376012,3,7.4,ug/m3 LC,31,Santa Clarita
+12/11/14,AQS,60376012,3,15.5,ug/m3 LC,58,Santa Clarita
+12/12/14,AQS,60376012,3,2.2,ug/m3 LC,9,Santa Clarita
+12/13/14,AQS,60376012,3,4.8,ug/m3 LC,20,Santa Clarita
+12/14/14,AQS,60376012,3,5.8,ug/m3 LC,24,Santa Clarita
+12/15/14,AQS,60376012,3,11.3,ug/m3 LC,47,Santa Clarita
+12/16/14,AQS,60376012,3,14.6,ug/m3 LC,56,Santa Clarita
+12/17/14,AQS,60376012,3,3.7,ug/m3 LC,15,Santa Clarita
+12/18/14,AQS,60376012,3,6.5,ug/m3 LC,27,Santa Clarita
+12/19/14,AQS,60376012,3,9.3,ug/m3 LC,39,Santa Clarita
+12/20/14,AQS,60376012,3,10.4,ug/m3 LC,43,Santa Clarita
+12/21/14,AQS,60376012,3,2.2,ug/m3 LC,9,Santa Clarita
+12/22/14,AQS,60376012,3,2.7,ug/m3 LC,11,Santa Clarita
+12/23/14,AQS,60376012,3,2.1,ug/m3 LC,9,Santa Clarita
+12/24/14,AQS,60376012,3,5.6,ug/m3 LC,23,Santa Clarita
+12/25/14,AQS,60376012,3,0.5,ug/m3 LC,2,Santa Clarita
+12/26/14,AQS,60376012,3,3.6,ug/m3 LC,15,Santa Clarita
+12/27/14,AQS,60376012,3,3.5,ug/m3 LC,15,Santa Clarita
+12/28/14,AQS,60376012,3,7.5,ug/m3 LC,31,Santa Clarita
+12/29/14,AQS,60376012,3,13.7,ug/m3 LC,54,Santa Clarita
+12/30/14,AQS,60376012,3,9.5,ug/m3 LC,40,Santa Clarita
+12/31/14,AQS,60376012,3,6.3,ug/m3 LC,26,Santa Clarita
+1/7/14,AQS,60379033,1,6.5,ug/m3 LC,27,Lancaster-Division Street
+1/11/14,AQS,60379033,1,4.1,ug/m3 LC,17,Lancaster-Division Street
+1/17/14,AQS,60379033,1,7.5,ug/m3 LC,31,Lancaster-Division Street
+1/23/14,AQS,60379033,1,4.1,ug/m3 LC,17,Lancaster-Division Street
+1/29/14,AQS,60379033,1,5.5,ug/m3 LC,23,Lancaster-Division Street
+2/5/14,AQS,60379033,1,5.4,ug/m3 LC,23,Lancaster-Division Street
+2/11/14,AQS,60379033,1,4,ug/m3 LC,17,Lancaster-Division Street
+2/23/14,AQS,60379033,1,42,ug/m3 LC,117,Lancaster-Division Street
+3/6/14,AQS,60379033,1,5.6,ug/m3 LC,23,Lancaster-Division Street
+3/12/14,AQS,60379033,1,2.5,ug/m3 LC,10,Lancaster-Division Street
+3/18/14,AQS,60379033,1,4.3,ug/m3 LC,18,Lancaster-Division Street
+3/24/14,AQS,60379033,1,6.6,ug/m3 LC,28,Lancaster-Division Street
+3/30/14,AQS,60379033,1,2.2,ug/m3 LC,9,Lancaster-Division Street
+4/5/14,AQS,60379033,1,6.6,ug/m3 LC,28,Lancaster-Division Street
+4/11/14,AQS,60379033,1,3.8,ug/m3 LC,16,Lancaster-Division Street
+4/17/14,AQS,60379033,1,4.9,ug/m3 LC,20,Lancaster-Division Street
+4/23/14,AQS,60379033,1,4.5,ug/m3 LC,19,Lancaster-Division Street
+4/29/14,AQS,60379033,1,5.3,ug/m3 LC,22,Lancaster-Division Street
+5/11/14,AQS,60379033,1,3.4,ug/m3 LC,14,Lancaster-Division Street
+5/17/14,AQS,60379033,1,4.7,ug/m3 LC,20,Lancaster-Division Street
+5/23/14,AQS,60379033,1,27.9,ug/m3 LC,84,Lancaster-Division Street
+5/29/14,AQS,60379033,1,6.5,ug/m3 LC,27,Lancaster-Division Street
+6/4/14,AQS,60379033,1,6.3,ug/m3 LC,26,Lancaster-Division Street
+6/10/14,AQS,60379033,1,5.8,ug/m3 LC,24,Lancaster-Division Street
+6/16/14,AQS,60379033,1,5.2,ug/m3 LC,22,Lancaster-Division Street
+6/22/14,AQS,60379033,1,5.8,ug/m3 LC,24,Lancaster-Division Street
+6/28/14,AQS,60379033,1,3.6,ug/m3 LC,15,Lancaster-Division Street
+7/4/14,AQS,60379033,1,5.4,ug/m3 LC,23,Lancaster-Division Street
+7/16/14,AQS,60379033,1,4,ug/m3 LC,17,Lancaster-Division Street
+7/22/14,AQS,60379033,1,4.6,ug/m3 LC,19,Lancaster-Division Street
+7/28/14,AQS,60379033,1,13,ug/m3 LC,53,Lancaster-Division Street
+8/6/14,AQS,60379033,1,10.3,ug/m3 LC,43,Lancaster-Division Street
+8/9/14,AQS,60379033,1,9.3,ug/m3 LC,39,Lancaster-Division Street
+8/15/14,AQS,60379033,1,4.4,ug/m3 LC,18,Lancaster-Division Street
+8/21/14,AQS,60379033,1,5.3,ug/m3 LC,22,Lancaster-Division Street
+8/27/14,AQS,60379033,1,5.1,ug/m3 LC,21,Lancaster-Division Street
+9/3/14,AQS,60379033,1,5.1,ug/m3 LC,21,Lancaster-Division Street
+9/8/14,AQS,60379033,1,3.4,ug/m3 LC,14,Lancaster-Division Street
+9/14/14,AQS,60379033,1,6.3,ug/m3 LC,26,Lancaster-Division Street
+9/20/14,AQS,60379033,1,5,ug/m3 LC,21,Lancaster-Division Street
+9/26/14,AQS,60379033,1,4.2,ug/m3 LC,18,Lancaster-Division Street
+10/2/14,AQS,60379033,1,5.4,ug/m3 LC,23,Lancaster-Division Street
+10/8/14,AQS,60379033,1,3.8,ug/m3 LC,16,Lancaster-Division Street
+10/14/14,AQS,60379033,1,6.5,ug/m3 LC,27,Lancaster-Division Street
+10/20/14,AQS,60379033,1,4.1,ug/m3 LC,17,Lancaster-Division Street
+10/26/14,AQS,60379033,1,5.4,ug/m3 LC,23,Lancaster-Division Street
+11/1/14,AQS,60379033,1,0.9,ug/m3 LC,4,Lancaster-Division Street
+11/7/14,AQS,60379033,1,0.7,ug/m3 LC,3,Lancaster-Division Street
+11/13/14,AQS,60379033,1,3.5,ug/m3 LC,15,Lancaster-Division Street
+11/19/14,AQS,60379033,1,5.1,ug/m3 LC,21,Lancaster-Division Street
+11/25/14,AQS,60379033,1,6.6,ug/m3 LC,28,Lancaster-Division Street
+12/3/14,AQS,60379033,1,5.9,ug/m3 LC,25,Lancaster-Division Street
+12/7/14,AQS,60379033,1,11.6,ug/m3 LC,48,Lancaster-Division Street
+12/13/14,AQS,60379033,1,2.1,ug/m3 LC,9,Lancaster-Division Street
+12/19/14,AQS,60379033,1,24,ug/m3 LC,76,Lancaster-Division Street
+12/25/14,AQS,60379033,1,24,ug/m3 LC,76,Lancaster-Division Street
+12/31/14,AQS,60379033,1,24,ug/m3 LC,76,Lancaster-Division Street
+1/2/14,AQS,60379034,1,1.3,ug/m3 LC,5,Lebec
+1/5/14,AQS,60379034,1,0.7,ug/m3 LC,3,Lebec
+1/8/14,AQS,60379034,1,1.3,ug/m3 LC,5,Lebec
+1/11/14,AQS,60379034,1,1.2,ug/m3 LC,5,Lebec
+1/14/14,AQS,60379034,1,1.7,ug/m3 LC,7,Lebec
+1/17/14,AQS,60379034,1,1.6,ug/m3 LC,7,Lebec
+1/20/14,AQS,60379034,1,1.3,ug/m3 LC,5,Lebec
+1/23/14,AQS,60379034,1,2.8,ug/m3 LC,12,Lebec
+1/26/14,AQS,60379034,1,5.5,ug/m3 LC,23,Lebec
+1/29/14,AQS,60379034,1,1.7,ug/m3 LC,7,Lebec
+2/1/14,AQS,60379034,1,1.4,ug/m3 LC,6,Lebec
+2/4/14,AQS,60379034,1,2.8,ug/m3 LC,12,Lebec
+2/7/14,AQS,60379034,1,1.2,ug/m3 LC,5,Lebec
+2/10/14,AQS,60379034,1,0.9,ug/m3 LC,4,Lebec
+2/13/14,AQS,60379034,1,0.2,ug/m3 LC,1,Lebec
+2/16/14,AQS,60379034,1,4,ug/m3 LC,17,Lebec
+2/19/14,AQS,60379034,1,2.4,ug/m3 LC,10,Lebec
+2/22/14,AQS,60379034,1,3.9,ug/m3 LC,16,Lebec
+2/25/14,AQS,60379034,1,3.1,ug/m3 LC,13,Lebec
+2/28/14,AQS,60379034,1,0,ug/m3 LC,0,Lebec
+3/3/14,AQS,60379034,1,1.6,ug/m3 LC,7,Lebec
+3/6/14,AQS,60379034,1,2.8,ug/m3 LC,12,Lebec
+3/9/14,AQS,60379034,1,1,ug/m3 LC,4,Lebec
+3/12/14,AQS,60379034,1,2,ug/m3 LC,8,Lebec
+3/15/14,AQS,60379034,1,4.1,ug/m3 LC,17,Lebec
+3/18/14,AQS,60379034,1,6,ug/m3 LC,25,Lebec
+3/21/14,AQS,60379034,1,6.1,ug/m3 LC,25,Lebec
+3/24/14,AQS,60379034,1,3.8,ug/m3 LC,16,Lebec
+3/27/14,AQS,60379034,1,3.4,ug/m3 LC,14,Lebec
+3/30/14,AQS,60379034,1,2,ug/m3 LC,8,Lebec
+4/2/14,AQS,60379034,1,0.8,ug/m3 LC,3,Lebec
+4/5/14,AQS,60379034,1,2,ug/m3 LC,8,Lebec
+4/8/14,AQS,60379034,1,4.2,ug/m3 LC,18,Lebec
+4/11/14,AQS,60379034,1,2.8,ug/m3 LC,12,Lebec
+4/14/14,AQS,60379034,1,5,ug/m3 LC,21,Lebec
+4/17/14,AQS,60379034,1,7,ug/m3 LC,29,Lebec
+4/20/14,AQS,60379034,1,4.3,ug/m3 LC,18,Lebec
+4/23/14,AQS,60379034,1,3,ug/m3 LC,13,Lebec
+4/26/14,AQS,60379034,1,1.1,ug/m3 LC,5,Lebec
+4/29/14,AQS,60379034,1,2.5,ug/m3 LC,10,Lebec
+5/2/14,AQS,60379034,1,4.4,ug/m3 LC,18,Lebec
+5/5/14,AQS,60379034,1,5.6,ug/m3 LC,23,Lebec
+5/8/14,AQS,60379034,1,6,ug/m3 LC,25,Lebec
+5/11/14,AQS,60379034,1,4.4,ug/m3 LC,18,Lebec
+5/14/14,AQS,60379034,1,2.5,ug/m3 LC,10,Lebec
+5/17/14,AQS,60379034,1,7.1,ug/m3 LC,30,Lebec
+5/20/14,AQS,60379034,1,3.4,ug/m3 LC,14,Lebec
+5/23/14,AQS,60379034,1,4.7,ug/m3 LC,20,Lebec
+5/26/14,AQS,60379034,1,7,ug/m3 LC,29,Lebec
+5/29/14,AQS,60379034,1,3.5,ug/m3 LC,15,Lebec
+6/1/14,AQS,60379034,1,6.8,ug/m3 LC,28,Lebec
+6/4/14,AQS,60379034,1,5.6,ug/m3 LC,23,Lebec
+6/7/14,AQS,60379034,1,7.2,ug/m3 LC,30,Lebec
+6/13/14,AQS,60379034,1,5.2,ug/m3 LC,22,Lebec
+6/16/14,AQS,60379034,1,3.5,ug/m3 LC,15,Lebec
+6/19/14,AQS,60379034,1,4,ug/m3 LC,17,Lebec
+6/22/14,AQS,60379034,1,7.3,ug/m3 LC,30,Lebec
+6/25/14,AQS,60379034,1,5.8,ug/m3 LC,24,Lebec
+6/28/14,AQS,60379034,1,4.3,ug/m3 LC,18,Lebec
+7/1/14,AQS,60379034,1,3.3,ug/m3 LC,14,Lebec
+7/4/14,AQS,60379034,1,4.4,ug/m3 LC,18,Lebec
+7/10/14,AQS,60379034,1,3.5,ug/m3 LC,15,Lebec
+7/13/14,AQS,60379034,1,3.2,ug/m3 LC,13,Lebec
+7/16/14,AQS,60379034,1,3,ug/m3 LC,13,Lebec
+7/19/14,AQS,60379034,1,2.3,ug/m3 LC,10,Lebec
+7/22/14,AQS,60379034,1,2.7,ug/m3 LC,11,Lebec
+7/25/14,AQS,60379034,1,2.2,ug/m3 LC,9,Lebec
+7/28/14,AQS,60379034,1,5.1,ug/m3 LC,21,Lebec
+7/31/14,AQS,60379034,1,7.1,ug/m3 LC,30,Lebec
+8/3/14,AQS,60379034,1,4.1,ug/m3 LC,17,Lebec
+8/6/14,AQS,60379034,1,6.2,ug/m3 LC,26,Lebec
+8/9/14,AQS,60379034,1,4.8,ug/m3 LC,20,Lebec
+8/27/14,AQS,60379034,1,3.1,ug/m3 LC,13,Lebec
+8/30/14,AQS,60379034,1,3.6,ug/m3 LC,15,Lebec
+9/2/14,AQS,60379034,1,3.4,ug/m3 LC,14,Lebec
+9/5/14,AQS,60379034,1,1.2,ug/m3 LC,5,Lebec
+9/8/14,AQS,60379034,1,4.3,ug/m3 LC,18,Lebec
+9/11/14,AQS,60379034,1,4.3,ug/m3 LC,18,Lebec
+9/14/14,AQS,60379034,1,4.4,ug/m3 LC,18,Lebec
+9/17/14,AQS,60379034,1,5.3,ug/m3 LC,22,Lebec
+9/20/14,AQS,60379034,1,2.9,ug/m3 LC,12,Lebec
+9/23/14,AQS,60379034,1,1.9,ug/m3 LC,8,Lebec
+9/26/14,AQS,60379034,1,2.2,ug/m3 LC,9,Lebec
+9/29/14,AQS,60379034,1,2.9,ug/m3 LC,12,Lebec
+10/2/14,AQS,60379034,1,1.7,ug/m3 LC,7,Lebec
+10/5/14,AQS,60379034,1,2.3,ug/m3 LC,10,Lebec
+10/8/14,AQS,60379034,1,4.9,ug/m3 LC,20,Lebec
+10/11/14,AQS,60379034,1,4,ug/m3 LC,17,Lebec
+10/14/14,AQS,60379034,1,3.6,ug/m3 LC,15,Lebec
+10/17/14,AQS,60379034,1,5,ug/m3 LC,21,Lebec
+10/20/14,AQS,60379034,1,2.7,ug/m3 LC,11,Lebec
+10/29/14,AQS,60379034,1,3,ug/m3 LC,13,Lebec
+11/1/14,AQS,60379034,1,0.5,ug/m3 LC,2,Lebec
+11/4/14,AQS,60379034,1,0.8,ug/m3 LC,3,Lebec
+11/7/14,AQS,60379034,1,1.3,ug/m3 LC,5,Lebec
+11/10/14,AQS,60379034,1,2.7,ug/m3 LC,11,Lebec
+11/13/14,AQS,60379034,1,1.8,ug/m3 LC,8,Lebec
+11/16/14,AQS,60379034,1,1.7,ug/m3 LC,7,Lebec
+11/19/14,AQS,60379034,1,1.9,ug/m3 LC,8,Lebec
+11/22/14,AQS,60379034,1,0.5,ug/m3 LC,2,Lebec
+11/25/14,AQS,60379034,1,0.9,ug/m3 LC,4,Lebec
+11/28/14,AQS,60379034,1,1.2,ug/m3 LC,5,Lebec
+12/1/14,AQS,60379034,1,0.8,ug/m3 LC,3,Lebec
+12/4/14,AQS,60379034,1,0.7,ug/m3 LC,3,Lebec
+12/7/14,AQS,60379034,1,0.6,ug/m3 LC,3,Lebec
+12/10/14,AQS,60379034,1,1.2,ug/m3 LC,5,Lebec
+12/13/14,AQS,60379034,1,0.2,ug/m3 LC,1,Lebec
+12/16/14,AQS,60379034,1,0.4,ug/m3 LC,2,Lebec
+12/19/14,AQS,60379034,1,1,ug/m3 LC,4,Lebec
+12/22/14,AQS,60379034,1,0.2,ug/m3 LC,1,Lebec
+12/31/14,AQS,60379034,1,3,ug/m3 LC,13,Lebec
